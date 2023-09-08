@@ -1,0 +1,176 @@
+/* Golbal Styles */
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+  word-break: break-word;
+  scroll-behavior: smooth;
+}
+
+:root {
+  --blue: #0c2237;
+  --green: #8fb522;
+}
+
+body {
+  background: white;
+  overflow-x: hidden;
+}
+
+img,
+svg {
+  max-width: 100%;
+  width: 100%;
+  -drag: none;
+  user-select: none;
+  -moz-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+  font-family: "Montserrat", sans-serif;
+  transition: 0.25s;
+  font-size: 1vw;
+}
+
+button {
+  cursor: pointer;
+  font-size: 1vw;
+  padding: 0.8vw 2vw;
+  font-family: "Montserrat", sans-serif;
+}
+
+section {
+  width: 100%;
+  padding: 10%;
+}
+
+h1,
+h2 {
+  font-size: 2.5vw;
+  font-weight: 700;
+  line-height: 1;
+}
+
+h3 {
+  font-size: 2vw;
+  font-weight: 600;
+  line-height: 1;
+}
+
+label {
+}
+
+p {
+  font-size: 1vw;
+}
+
+li {
+}
+
+i {
+  font-size: 1vw;
+}
+
+@keyframes background_animation {
+  from {
+    background-size: 0%;
+  }
+  to {
+    background-size: 400%;
+  }
+}
+
+@media (max-width: 996px) {
+  section {
+    padding: 20% 10%;
+  }
+  h1,
+  h2 {
+    font-size: 7vw;
+    text-align: center;
+  }
+
+  h3 {
+    font-size: 5vw;
+    text-align: left;
+  }
+
+  p {
+    text-align: left;
+  }
+
+  p,
+  ol,
+  ul {
+    font-size: 3.5vw;
+  }
+
+  i {
+    font-size: 6vw;
+  }
+
+  button {
+    padding: 3vw 8vw;
+    font-size: 3.5vw;
+  }
+
+  a {
+    font-size: 3.5vw;
+  }
+}
+
+/* header */
+header {
+  position: relative;
+  background-color: #8fb522;
+}
+
+.header_box {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 5vw;
+}
+
+.header_box .logo_ctn svg{
+  width: 10vw;
+}
+
+.header_box .contact_box a {
+  display: flex;
+  gap: 2vw;
+  justify-content: center;
+  align-items: center;
+  color: white;
+transition: all .4s;
+}
+
+.header_box .contact_box a:hover {
+  color: var(--blue);
+}
+
+header #wave {
+  z-index: 1;
+  transform: rotateX(180deg);
+  position: absolute;
+  bottom: -8vw;
+}
+
+
+/** footer **/
+
+footer {
+  position: relative;
+}
+
+footer svg {
+  position: absolute;
+  top: -8vw;
+}

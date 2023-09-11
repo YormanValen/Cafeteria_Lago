@@ -1,17 +1,19 @@
 .menu_section {
-  background-color: var(--blue);
+  background-image: url("/media/png/sun_tornado.png");
+  position: relative;
 }
 
 .menu_section .menu_items {
-    display: flex;
-    flex-direction: column;
-    gap: 5vw;
+  display: flex;
+  flex-direction: column;
+  gap: 5vw;
 }
 
 .menu_section .menu_items .menu_item {
   display: flex;
-  background-color: black;
+ background-image: url('../media/png/textura.jpg');
   padding: 5vw;
+  background-size: cover;
   justify-content: flex-start;
   align-items: center;
   border-radius: 5vw;
@@ -28,11 +30,12 @@
 }
 
 .menu_section .menu_items .menu_item:hover .title h2 {
-    color: var(--blue);
-  }
+  color: var(--green);
+}
 
 .menu_section .menu_items .menu_item .title h2 {
   color: var(--green);
+  text-align: left;
 }
 
 .menu_section .menu_items .menu_item .img_box {
@@ -49,8 +52,15 @@
 }
 
 .menu_section .menu_items .menu_item .helado_img {
-    width: 30vw;
-    right: 0vw;
-    bottom: -11vw;
-    position: absolute;
-  }
+  width: 30vw;
+  right: 0vw;
+  bottom: -11vw;
+  position: absolute;
+}
+
+.menu_section .menu_items .menu_item .helado_img {
+  width: 30vw;
+  right: 0vw;
+  bottom: 0vw;
+  position: absolute;
+}

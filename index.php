@@ -17,13 +17,15 @@
     <?php include("./includes/header.php") ?>
     <main>
 
+
         <section class="menu_section">
+
 
             <div class="menu_items">
 
-                <a href="" class="menu_item">
+                <a href="desayunos.php" class="menu_item">
                     <div class="title">
-                        <h2>DESAYUNOS</h2>
+                        <h2>Desayunos</h2>
                     </div>
                     <div class="img_box">
                         <img src="" onerror="this.onerror=null;this.src='./media/png/sandwich.png';" alt="breakfast">
@@ -32,7 +34,7 @@
 
                 <a href="" class="menu_item">
                     <div class="title">
-                        <h2>ENSALADA</h2>
+                        <h2>Bocadillos</h2>
                     </div>
                     <div class="img_box">
                         <img src="" onerror="this.onerror=null;this.src='./media/png/ensalada.png';" alt="ensalada">
@@ -41,7 +43,7 @@
 
                 <a href="" class="menu_item">
                     <div class="title">
-                        <h2>HELADOS</h2>
+                        <h2>Postres</h2>
                     </div>
                     <div class="img_box">
                         <img class="helado_img" src="" onerror="this.onerror=null;this.src='./media/png/helado.png';"
@@ -51,51 +53,48 @@
 
                 <a href="" class="menu_item">
                     <div class="title">
-                        <h2>PIZZA</h2>
+                        <h2>Smotties</h2>
                     </div>
                     <div class="img_box">
-                        <img class="helado_img" src="" onerror="this.onerror=null;this.src='./media/png/helado.png';"
-                            alt="helado">
+                        
                     </div>
                 </a>
 
                 <a href="" class="menu_item">
                     <div class="title">
-                        <h2>EXTRAS</h2>
+                        <h2>Refrescos</h2>
                     </div>
                     <div class="img_box">
-                        <img class="helado_img" src="" onerror="this.onerror=null;this.src='./media/png/helado.png';"
-                            alt="helado">
+                        <img class="refrescos_img" src="" onerror="this.onerror=null;this.src='./media/png/refrescos.png';"
+                            alt="refrescos">
                     </div>
                 </a>
 
                 <a href="" class="menu_item">
                     <div class="title">
-                        <h2>BEBIDAS</h2>
+                        <h2>Cafes</h2>
                     </div>
                     <div class="img_box">
-                        <img class="helado_img" src="" onerror="this.onerror=null;this.src='./media/png/helado.png';"
-                            alt="helado">
+                        <img class="cafe_img" src="" onerror="this.onerror=null;this.src='./media/png/cafe.png';"
+                            alt="cafes">
                     </div>
                 </a>
 
                 <a href="" class="menu_item">
                     <div class="title">
-                        <h2>SOPAS</h2>
+                        <h2>Bebidas <br> Alcoholicas</h2>
                     </div>
                     <div class="img_box">
-                        <img class="helado_img" src="" onerror="this.onerror=null;this.src='./media/png/helado.png';"
-                            alt="helado">
+                        <img class="alcoholicas_img" src="" onerror="this.onerror=null;this.src='./media/png/alcoholicas.png';"
+                            alt="bebidas alcoholicas">
                     </div>
                 </a>
 
                 <a href="" class="menu_item">
                     <div class="title">
-                        <h2>HAMBURGUESAS</h2>
+                        <h2>Extras</h2>
                     </div>
                     <div class="img_box">
-                        <img class="helado_img" src="" onerror="this.onerror=null;this.src='./media/png/helado.png';"
-                            alt="helado">
                     </div>
                 </a>
 

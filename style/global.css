@@ -94,7 +94,6 @@ i {
   h1,
   h2 {
     font-size: 7vw;
-    text-align: center;
   }
 
   h3 {
@@ -140,7 +139,7 @@ header {
 }
 
 .header_box .logo_ctn svg{
-  width: 10vw;
+  width: 15vw;
 }
 
 .header_box .contact_box a {

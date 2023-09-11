@@ -2,9 +2,19 @@ body {
   background-image: url("../media/png/sun_tornado.png");
 }
 
+.header_box i {
+  position: absolute;
+  left: 10%;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 8vw;
+  color: var(--blue);
+  display: block;
+}
+
 .desayunos_slide {
   width: 100%;
-  padding: 10% 0;
+  padding: 15% 0;
 }
 
 .desayunos_slide .desayunos_ctn {
@@ -89,7 +99,7 @@ body {
   justify-content: space-between;
 }
 
-.desayunos_box .plato_item .txt_ctn .precio_ctn h3{
+.desayunos_box .plato_item .txt_ctn .precio_ctn h3 {
   color: var(--blue);
 }
 

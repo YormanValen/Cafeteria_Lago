@@ -1,0 +1,121 @@
+body {
+  background-image: url("../media/png/sun_tornado.png");
+}
+
+.header_box i {
+  position: absolute;
+  left: 10%;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 8vw;
+  color: var(--blue);
+  display: block;
+}
+
+.desayunos_slide {
+  width: 100%;
+  padding: 15% 0;
+}
+
+.desayunos_slide .desayunos_ctn {
+  width: 100%;
+}
+
+.desayunos_ctn .slide_item {
+  background-color: var(--green);
+  width: 100%;
+}
+
+.swiper {
+  width: 100%;
+  height: 10vw;
+}
+
+.swiper .swiper-slide {
+  background-color: var(--green);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 2vw;
+  border-radius: 3vw;
+}
+
+.swiper .swiper-slide a {
+  color: white;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  font-weight: 600;
+}
+
+/** desayunos section **/
+
+.plato_section {
+  display: flex;
+  flex-direction: column;
+  gap: 10vw;
+  padding: 0% 8% 15% 8%;
+}
+
+.plato_section .platos_box {
+  display: flex;
+  flex-direction: column;
+  gap: 3vw;
+}
+
+.platos_box .title h2 {
+  margin-bottom: 2vw;
+  text-align: center;
+  color: var(--green);
+}
+
+.platos_box .plato_item {
+  display: grid;
+  padding: 2vw;
+  height: 45vw;
+  border-radius: 2vw;
+  gap: 3vw;
+  background-color: white;
+  grid-template-columns: 30% 65%;
+}
+
+.platos_box .plato_item img {
+  display: flex;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.platos_box .plato_item .txt_ctn {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.platos_box .plato_item .txt_ctn .precio_ctn {
+  display: flex;
+  justify-content: space-between;
+}
+
+.platos_box .plato_item .txt_ctn .precio_ctn h3 {
+  color: var(--blue);
+}
+
+.platos_box .plato_item h2 {
+  font-size: 5vw;
+  color: var(--blue);
+}
+
+.platos_box .plato_item .txt_ctn a {
+  background-color: var(--green);
+  color: white;
+  width: fit-content;
+  padding: 1vw 3vw;
+  border-radius: 3vw;
+}
+
+.platos_box .plato_item .txt_ctn a:hover {
+  background-color: var(--blue);
+}

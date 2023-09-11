@@ -23,16 +23,16 @@
 
             <div class="menu_items">
 
-                <a href="desayunos.php" class="menu_item">
+                <a href="comidas.php" class="menu_item">
                     <div class="title">
-                        <h2>Desayunos</h2>
+                        <h2>Comidas</h2>
                     </div>
                     <div class="img_box">
                         <img src="" onerror="this.onerror=null;this.src='./media/png/sandwich.png';" alt="breakfast">
                     </div>
                 </a>
 
-                <a href="" class="menu_item">
+                <a href="bocadillos.php" class="menu_item">
                     <div class="title">
                         <h2>Bocadillos</h2>
                     </div>
@@ -41,7 +41,7 @@
                     </div>
                 </a>
 
-                <a href="" class="menu_item">
+                <a href="postres.php" class="menu_item">
                     <div class="title">
                         <h2>Postres</h2>
                     </div>
@@ -51,7 +51,7 @@
                     </div>
                 </a>
 
-                <a href="" class="menu_item">
+                <a href="smotties.php" class="menu_item">
                     <div class="title">
                         <h2>Smotties</h2>
                     </div>
@@ -60,7 +60,7 @@
                     </div>
                 </a>
 
-                <a href="" class="menu_item">
+                <a href="refrescos.php" class="menu_item">
                     <div class="title">
                         <h2>Refrescos</h2>
                     </div>
@@ -70,7 +70,7 @@
                     </div>
                 </a>
 
-                <a href="" class="menu_item">
+                <a href="cafes.php" class="menu_item">
                     <div class="title">
                         <h2>Cafes</h2>
                     </div>
@@ -80,7 +80,7 @@
                     </div>
                 </a>
 
-                <a href="" class="menu_item">
+                <a href="alcoholicas.php" class="menu_item">
                     <div class="title">
                         <h2>Bebidas <br> Alcoholicas</h2>
                     </div>
@@ -90,7 +90,7 @@
                     </div>
                 </a>
 
-                <a href="" class="menu_item">
+                <a href="extras.php" class="menu_item">
                     <div class="title">
                         <h2>Extras</h2>
                     </div>

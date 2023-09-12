@@ -53,7 +53,7 @@
 
                 <a href="smotties.php" class="menu_item">
                     <div class="title">
-                        <h2>Smotties</h2>
+                        <h2>Smoothies</h2>
                     </div>
                     <div class="img_box">
                         
@@ -72,7 +72,7 @@
 
                 <a href="cafes.php" class="menu_item">
                     <div class="title">
-                        <h2>Cafes</h2>
+                        <h2>Cafés</h2>
                     </div>
                     <div class="img_box">
                         <img class="cafe_img" src="" onerror="this.onerror=null;this.src='./media/png/cafe.png';"

@@ -33,13 +33,13 @@
                         <a href="#americano">Americano</a>
                     </div>
                     <div class="swiper-slide">
-                        <a href="#ingles">Ingles</a>
+                        <a href="#ingles">Inglés</a>
                     </div>
                     <div class="swiper-slide">
                         <a href="#ranchero">Ranchero</a>
                     </div>
                     <div class="swiper-slide">
-                        <a href="#bolleria">Bolleria</a>
+                        <a href="#bolleria">Bollería</a>
                     </div>
                     <div class="swiper-slide">
                         <a href="#sopas">Sopas</a>
@@ -115,7 +115,7 @@
                         <img src="./media/jpg/4541169.jpg" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Croasant a la plancha</h2>
+                        <h2>Croissat a la plancha</h2>
                         <p>con (mermelada y mantequilla)</p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -239,7 +239,7 @@
                         <img src="./media/jpg/4541169.jpg" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Barrita de pan tostado, huevos ala plancha, salchichas, bacon y café
+                        <h2>Barrita de pan tostado, huevos a la plancha, salchichas, bacon y café
                         </h2>
                         <p></p>
 
@@ -279,7 +279,7 @@
                         <img src="./media/jpg/4541169.jpg" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Tostada de pan bimbo
+                        <h2>Totas de pan 
                         </h2>
                         <p></p>
 
@@ -295,7 +295,7 @@
                         <img src="./media/jpg/4541169.jpg" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Croassant
+                        <h2>Croissant
                         </h2>
                         <p></p>
 
@@ -343,7 +343,7 @@
                         <img src="./media/jpg/4541169.jpg" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Trensa de manzana y crema
+                        <h2>Trenza de manzana y crema
                         </h2>
                         <p></p>
 
@@ -398,7 +398,7 @@
                         <img src="./media/jpg/4541169.jpg" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Crema de calabacin
+                        <h2>Crema de calabacín
                         </h2>
                         <p></p>
 
@@ -437,7 +437,7 @@
                         <img src="./media/jpg/4541169.jpg" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Pechuga de pollo a la plancha, huevos, y patatas fritas
+                        <h2>Pechuga de pollo a la plancha, huevos y patatas fritas
                         </h2>
                         <p>(ensalada opcional)</p>
 
@@ -453,7 +453,7 @@
                         <img src="./media/jpg/4541169.jpg" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Cinta de Lomo a la plancha , huevos y patatas fritas
+                        <h2>Cinta de lomo a la plancha, huevos y patatas fritas
                         </h2>
                         <p></p>
 

@@ -215,9 +215,9 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Pan frito, huevos a la plancha, salchicha, tomate, salchichón, alubia, champiñones y café
+                        <h2>Pan frito, huevos a la plancha.
                         </h2>
-                        <p></p>
+                        <p>salchicha, tomate, salchichón, alubia, champiñones y café</p>
 
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -239,9 +239,9 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Barrita de pan tostado, huevos a la plancha, salchichas, bacon y café
+                        <h2>Barrita de pan tostado
                         </h2>
-                        <p></p>
+                        <p>huevos a la plancha, salchichas, bacon y café</p>
 
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -279,7 +279,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Totas de pan 
+                        <h2>Totas de pan
                         </h2>
                         <p></p>
 
@@ -437,9 +437,9 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Pechuga de pollo a la plancha, huevos y patatas fritas
+                        <h2>Pechuga de pollo a la plancha
                         </h2>
-                        <p>(ensalada opcional)</p>
+                        <p>huevos y patatas fritas, (ensalada opcional)</p>
 
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -453,9 +453,9 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Cinta de lomo a la plancha, huevos y patatas fritas
+                        <h2>Cinta de lomo a la plancha 
                         </h2>
-                        <p></p>
+                        <p>huevos y patatas fritas</p>
 
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -469,9 +469,9 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Filete de ternera a la plancha, huevos y patatas
+                        <h2>Filete de ternera a la plancha 
                         </h2>
-                        <p></p>
+                        <p>huevos y patatas</p>
 
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -692,7 +692,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Ensalada mixta 
+                        <h2>Ensalada mixta
                         </h2>
                         <p></p>
 
@@ -708,9 +708,9 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Ensalada de tomate con bonito.
+                        <h2>Ensalada de tomate 
                         </h2>
-                        <p></p>
+                        <p>con bonito</p>
 
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -724,9 +724,9 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Ensalada gourmet con queso de cabrales
+                        <h2>Ensalada gourmet 
                         </h2>
-                        <p></p>
+                        <p>con queso de cabrales</p>
 
                         <div class="precio_ctn">
                             <a href="">ver</a>

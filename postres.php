@@ -110,8 +110,8 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Ración de tarta de manzana, dulce de leche y canela</h2>
-                        <p></p>
+                        <h2>Ración de tarta de manzana</h2>
+                        <p>con dulce de leche y canela</p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
                             <h3>€ 3.50</h3>

@@ -87,8 +87,8 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Bocadillo de tortilla española y mayonesa</h2>
-                        <p></p>
+                        <h2>Bocadillo de tortilla española </h2>
+                        <p>con mayonesa</p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
                             <h3>€ 6.80</h3>
@@ -102,8 +102,8 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Bocadillo de cinta de lomo, queso y tomate</h2>
-                        <p></p>
+                        <h2>Bocadillo de cinta de lomo</h2>
+                        <p>con queso y tomate</p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
                             <h3>€ 6.80</h3>

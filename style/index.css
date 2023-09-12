@@ -54,13 +54,7 @@
 .menu_section .menu_items .menu_item .helado_img {
   width: 30vw;
   right: 0vw;
-  bottom: -11vw;
+  bottom: -9vw;
   position: absolute;
 }
 
-.menu_section .menu_items .menu_item .helado_img {
-  width: 30vw;
-  right: 0vw;
-  bottom: 0vw;
-  position: absolute;
-}

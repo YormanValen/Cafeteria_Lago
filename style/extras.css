@@ -56,7 +56,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 10vw;
-  padding: 0% 8% 15% 8%;
+  padding: 15% 8% 15% 8%;
 }
 
 .plato_section .platos_box {

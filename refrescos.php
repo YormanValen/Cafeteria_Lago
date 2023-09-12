@@ -77,11 +77,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-<<<<<<< HEAD
-                        <h2>Aquabona grande </h2>
-=======
                         <h2>Aquabona (grande)  </h2>
->>>>>>> a621f994141adbb0a3a6755cedb82037320fbe40
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>

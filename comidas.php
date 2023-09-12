@@ -65,7 +65,7 @@
             <div class="español_traicional_box desayunos_box">
 
                 <div class="title" id="español_tradicional">
-                    <h2>Español Tradicional</h2>
+                    <h2>Español tradicional</h2>
                 </div>
 
                 <div class="plato_item">
@@ -102,7 +102,7 @@
                     </div>
                     <div class="txt_ctn">
                         <h2>Barrita de pan tostado</h2>
-                        <p> con (aceite - tomate) y café </p>
+                        <p> con aceite, tomate y café </p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
                             <h3>€ 3.50</h3>
@@ -116,7 +116,7 @@
                     </div>
                     <div class="txt_ctn">
                         <h2>Croissat a la plancha</h2>
-                        <p>con (mermelada y mantequilla)</p>
+                        <p>con mermelada y mantequilla</p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
                             <h3>€ 3.50</h3>
@@ -194,8 +194,8 @@
                         <img src="./media/jpg/4541169.jpg" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Tortitas Pancakes</h2>
-                        <p>con nata y sirope y café </p>
+                        <h2>Tortitas pancakes</h2>
+                        <p>con nata, sirope y café </p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
                             <h3>€ 4.50</h3>
@@ -652,7 +652,7 @@
                         <img src="./media/jpg/4541169.jpg" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Tabla de Quesos
+                        <h2>Tabla de quesos
                         </h2>
                         <p>(Curado, semicurado, tierno)</p>
 
@@ -692,7 +692,7 @@
                         <img src="./media/jpg/4541169.jpg" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Ensalada Mixta 
+                        <h2>Ensalada mixta 
                         </h2>
                         <p></p>
 

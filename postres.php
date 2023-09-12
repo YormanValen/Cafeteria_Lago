@@ -81,7 +81,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>yogur varios sabores</h2>
+                        <h2>yogurt varios sabores</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>

@@ -25,7 +25,7 @@
             <div class="platos_box">
 
                 <div class="title" id="postres">
-                    <h2>Smotties</h2>
+                    <h2>Smoothie</h2>
                 </div>
 
                 <div class="plato_item">
@@ -62,7 +62,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Natural Green</h2>
+                        <h2>Natural green</h2>
                         <p>( brócoli, espinaca, apio, plátano,piña, mango)</p>
                         <div class="precio_ctn">
                             <a href="">ver</a>

@@ -33,13 +33,13 @@
                         <a href="#americano">Americano</a>
                     </div>
                     <div class="swiper-slide">
-                        <a href="#ingles">Ingles</a>
+                        <a href="#ingles">Inglés</a>
                     </div>
                     <div class="swiper-slide">
                         <a href="#ranchero">Ranchero</a>
                     </div>
                     <div class="swiper-slide">
-                        <a href="#bolleria">Bolleria</a>
+                        <a href="#bolleria">Bollería</a>
                     </div>
                     <div class="swiper-slide">
                         <a href="#sopas">Sopas</a>
@@ -65,7 +65,7 @@
             <div class="español_traicional_box desayunos_box">
 
                 <div class="title" id="español_tradicional">
-                    <h2>Español Tradicional</h2>
+                    <h2>Español tradicional</h2>
                 </div>
 
                 <div class="plato_item">
@@ -102,7 +102,7 @@
                     </div>
                     <div class="txt_ctn">
                         <h2>Barrita de pan tostado</h2>
-                        <p> con (aceite - tomate) y café </p>
+                        <p> con aceite, tomate y café </p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
                             <h3>€ 3.50</h3>
@@ -115,8 +115,8 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Croasant a la plancha</h2>
-                        <p>con (mermelada y mantequilla)</p>
+                        <h2>Croissat a la plancha</h2>
+                        <p>con mermelada y mantequilla</p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
                             <h3>€ 3.50</h3>
@@ -194,8 +194,8 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Tortitas Pancakes</h2>
-                        <p>con nata y sirope y café </p>
+                        <h2>Tortitas pancakes</h2>
+                        <p>con nata, sirope y café </p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
                             <h3>€ 4.50</h3>
@@ -239,7 +239,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Barrita de pan tostado, huevos ala plancha, salchichas, bacon y café
+                        <h2>Barrita de pan tostado, huevos a la plancha, salchichas, bacon y café
                         </h2>
                         <p></p>
 
@@ -279,7 +279,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Tostada de pan bimbo
+                        <h2>Totas de pan 
                         </h2>
                         <p></p>
 
@@ -295,7 +295,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Croassant
+                        <h2>Croissant
                         </h2>
                         <p></p>
 
@@ -343,7 +343,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Trensa de manzana y crema
+                        <h2>Trenza de manzana y crema
                         </h2>
                         <p></p>
 
@@ -398,7 +398,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Crema de calabacin
+                        <h2>Crema de calabacín
                         </h2>
                         <p></p>
 
@@ -437,7 +437,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Pechuga de pollo a la plancha, huevos, y patatas fritas
+                        <h2>Pechuga de pollo a la plancha, huevos y patatas fritas
                         </h2>
                         <p>(ensalada opcional)</p>
 
@@ -453,7 +453,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Cinta de Lomo a la plancha , huevos y patatas fritas
+                        <h2>Cinta de lomo a la plancha, huevos y patatas fritas
                         </h2>
                         <p></p>
 
@@ -652,7 +652,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Tabla de Quesos
+                        <h2>Tabla de quesos
                         </h2>
                         <p>(Curado, semicurado, tierno)</p>
 
@@ -692,7 +692,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Ensalada Mixta
+                        <h2>Ensalada mixta 
                         </h2>
                         <p></p>
 

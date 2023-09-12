@@ -13,7 +13,7 @@
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
 
-    <title>Bocaillos</title>
+    <title>Bocadillos</title>
 </head>
 
 <body>
@@ -50,7 +50,7 @@
             <div class="platos_box">
 
                 <div class="title" id="bocadillos">
-                    <h2>Bocaillos</h2>
+                    <h2>Bocadillos</h2>
                 </div>
 
                 <div class="plato_item">
@@ -73,7 +73,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Bocadillo de Tortilla</h2>
+                        <h2>Bocadillo de tortilla</h2>
                         <p>con Jamón york</p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -87,7 +87,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Bocadillo de Tortilla española y Mayonesa</h2>
+                        <h2>Bocadillo de tortilla española y mayonesa</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -102,7 +102,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Bocadillo de cinta de Lomo queso y tomate</h2>
+                        <h2>Bocadillo de cinta de lomo, queso y tomate</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -158,7 +158,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Bocadillo de Jamón ibérico </h2>
+                        <h2>Bocadillo de jamón ibérico </h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -181,7 +181,7 @@
                     </div>
                     <div class="txt_ctn">
                         <h2>Hamburguesa de la casa</h2>
-                        <p>( carne de ternera wayú, tomate, lechuga, bacon, queso Cheddar, cebolla caramelizada y huevo)
+                        <p>(carne de ternera wayú, tomate, lechuga, bacon, queso cheddar, cebolla caramelizada y huevo)
                         </p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -195,7 +195,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Hambuguesa de Pechuga de pollo empanada</h2>
+                        <h2>Hambuguesa de pechuga de pollo apanada</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -208,7 +208,7 @@
             <div class="platos_box">
 
                 <div class="title" id="sandwich">
-                    <h2>Sandwich</h2>
+                    <h2>Sándwich</h2>
                 </div>
 
                 <div class="plato_item">
@@ -218,7 +218,7 @@
                     <div class="txt_ctn">
                         <h2>Sándwich mixto
                         </h2>
-                        <p>( Jamón York y queso)</p>
+                        <p>(Jamón york y queso)</p>
 
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -304,7 +304,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Pizza proscrito e fungui
+                        <h2>Pizza prosciutto e funghi 
                         </h2>
                         <p>(tomate, mozzarela, jamón cocido y champiñones)</p>
 

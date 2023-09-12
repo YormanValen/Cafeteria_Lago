@@ -13,7 +13,7 @@
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
 
-    <title>Bebidas Alcohólicas</title>
+    <title>Bebidas alcohólicas</title>
 </head>
 
 <body>
@@ -89,7 +89,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>UN Roble Botella</h2>
+                        <h2>UN Roble botella</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -118,7 +118,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>UN Crianza Botella</h2>
+                        <h2>UN Crianza botella</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -154,7 +154,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Roble Botella </h2>
+                        <h2>Roble botella </h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -176,7 +176,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Condado de Artola Crianza Copa</h2>
+                        <h2>Condado de Artola crianza copa</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -191,7 +191,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Condado de Artola Crianza Botella</h2>
+                        <h2>Condado de Artola crianza botella</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -205,7 +205,7 @@
             <div class="platos_box">
 
                 <div class="title" id="ramon_bilbao_crianza">
-                    <h2>Ramón Bilbao Crianza</h2>
+                    <h2>Ramón Bilbao crianza</h2>
                 </div>
 
                 <div class="plato_item">
@@ -228,7 +228,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Ramón Bilbao Botella</h2>
+                        <h2>Ramón Bilbao botella</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -250,7 +250,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Camino Do Rey Copa</h2>
+                        <h2>Camino Do Rey copa</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -265,7 +265,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Camino Do Rey Botella </h2>
+                        <h2>Camino Do Rey botella </h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -286,7 +286,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Rueda Canto Real Copa </h2>
+                        <h2>Rueda Canto Real copa </h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -301,7 +301,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Rueda Canto Real Botella</h2>
+                        <h2>Rueda Canto Real botella</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -329,7 +329,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Sangría Jarra </h2>
+                        <h2>Sangría jarra </h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -444,7 +444,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Tercio Mixta</h2>
+                        <h2>Tercio mixta</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -458,7 +458,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Tercio ramdler</h2>
+                        <h2>Tercio radler</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -472,21 +472,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Tercio Mixta</h2>
-                        <p></p>
-                        <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 3.50</h3>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" alt="">
-                    </div>
-                    <div class="txt_ctn">
-                        <h2>Botellin maho</h2>
+                        <h2>Botellín mahou</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -528,7 +514,7 @@
             <div class="platos_box">
 
                 <div class="title_principal" id="wisky">
-                    <h1>Combinados de Wisky</h1>
+                    <h1>Combinados de whisky</h1>
                 </div>
 
                 <div class="plato_item">
@@ -536,7 +522,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>White Label</h2>
+                        <h2>White label</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -551,7 +537,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Wallantines</h2>
+                        <h2>Ballantines</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -565,7 +551,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>J y B</h2>
+                        <h2>J & B</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -579,7 +565,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Jack Daniels</h2>
+                        <h2>Jack Daniel's</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -593,7 +579,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Jhonie Walker negro </h2>
+                        <h2>Johnnie Walker negro </h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -635,7 +621,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Buchanas</h2>
+                        <h2>Buchanans</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -700,7 +686,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Torres5</h2>
+                        <h2>Torres 5</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -714,7 +700,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Torres10</h2>
+                        <h2>Torres 10</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -750,7 +736,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Smirnorf</h2>
+                        <h2>Smirnoff</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -851,7 +837,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Beafheater copa</h2>
+                        <h2>Beefeater copa</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -880,7 +866,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Bombas Zafire</h2>
+                        <h2>Bombas Sapphire</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -894,7 +880,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Martín Miller</h2>
+                        <h2>Martin Miller's</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>

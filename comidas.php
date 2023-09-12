@@ -70,7 +70,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="./media/jpg/img_1.png" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Churros y café</h2>
@@ -84,7 +84,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Porras y café</h2>
@@ -98,7 +98,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Barrita de pan tostado</h2>
@@ -112,7 +112,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Croasant a la plancha</h2>
@@ -126,7 +126,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Sándwich mixto y café </h2>
@@ -141,7 +141,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Barrita de pan tostado</h2>
@@ -163,7 +163,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Barrita de pan tostado, huevos a la plancha y café </h2>
@@ -177,7 +177,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Arepa de maíz, huevo revuelto</h2>
@@ -191,7 +191,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Tortitas Pancakes</h2>
@@ -212,7 +212,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Pan frito, huevos a la plancha, salchicha, tomate, salchichón, alubia, champiñones y café
@@ -236,7 +236,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Barrita de pan tostado, huevos ala plancha, salchichas, bacon y café
@@ -252,7 +252,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Zumo de naranja natural
@@ -276,7 +276,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Tostada de pan bimbo
@@ -292,7 +292,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Croassant
@@ -308,7 +308,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Napolitana de cacao
@@ -324,7 +324,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Ensaimada
@@ -340,7 +340,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Trensa de manzana y crema
@@ -356,7 +356,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Maple pecan
@@ -379,7 +379,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Verduras con pollo
@@ -395,7 +395,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Crema de calabacin
@@ -411,7 +411,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Sopa de lentejas
@@ -434,7 +434,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Pechuga de pollo a la plancha, huevos, y patatas fritas
@@ -450,7 +450,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Cinta de Lomo a la plancha , huevos y patatas fritas
@@ -466,7 +466,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Filete de ternera a la plancha, huevos y patatas
@@ -489,7 +489,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Jamón con orégano
@@ -505,7 +505,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Alitas fritas a la barbacoa
@@ -521,7 +521,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Patatas bravas
@@ -537,7 +537,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Patatas ali-oli
@@ -553,7 +553,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Patatas 5 Salsas
@@ -569,7 +569,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Oreja a la plancha
@@ -585,7 +585,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Huevos rotos con jamón
@@ -601,7 +601,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Melón con jamón
@@ -617,7 +617,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Calamares a la andaluza
@@ -633,7 +633,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Sepia a la plancha
@@ -649,7 +649,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Tabla de Quesos
@@ -665,7 +665,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Tabla de ibéricos
@@ -689,10 +689,10 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Ensalada Mixta 
+                        <h2>Ensalada Mixta
                         </h2>
                         <p></p>
 
@@ -705,10 +705,10 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Ensalada de tomate con bonito.    
+                        <h2>Ensalada de tomate con bonito.
                         </h2>
                         <p></p>
 
@@ -721,10 +721,10 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/4541169.jpg" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Ensalada gourmet con queso de cabrales     
+                        <h2>Ensalada gourmet con queso de cabrales
                         </h2>
                         <p></p>
 
@@ -740,6 +740,16 @@
 
     </main>
     <?php include("./includes/footer.php") ?>
+
+    <!-- Modal -->
+    <div id="myModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <img id="modal-img" src="" alt="">
+            <h2 id="modal-title"></h2>
+            <p id="modal-description"></p>
+        </div>
+    </div>
 
     <script src="https://code.jquery.com/jquery-3.6.4.js"
         integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
@@ -765,6 +775,47 @@
 
         });
 
+
+        // Obtener elementos del DOM
+        const modal = document.getElementById("myModal");
+        const modalImg = document.getElementById("modal-img");
+        const modalTitle = document.getElementById("modal-title");
+        const modalDescription = document.getElementById("modal-description");
+
+        // Elementos que abren el modal
+        const openButtons = document.querySelectorAll(".plato_item a");
+
+        // Elemento para cerrar el modal
+        const closeButton = document.querySelector(".close");
+
+        // Función para abrir el modal
+        function openModal(event) {
+            event.preventDefault();
+            modal.style.display = "block";
+            src_img = event.currentTarget.parentElement.parentElement.parentElement.querySelector("img").src;
+            modalImg.src = src_img;
+            modalTitle.textContent = event.currentTarget.parentElement.parentElement.querySelector("h2").textContent;
+            modalDescription.textContent = event.currentTarget.parentElement.parentElement.querySelector("p").textContent;
+        }
+
+        // Función para cerrar el modal
+        function closeModal() {
+            modal.style.display = "none";
+        }
+
+        // Agregar eventos a los botones "ver" y al botón de cierre
+        openButtons.forEach((button) => {
+            button.addEventListener("click", openModal);
+        });
+
+        closeButton.addEventListener("click", closeModal);
+
+        // Cerrar el modal si se hace clic fuera de él
+        window.addEventListener("click", (event) => {
+            if (event.target == modal) {
+                closeModal();
+            }
+        });
 
 
     </script>

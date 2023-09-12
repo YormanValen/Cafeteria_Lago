@@ -127,9 +127,122 @@
                         </div>
                     </div>
                 </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="" alt="">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Pan x 2 </h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="">ver</a>
+                            <h3>€ 2.60</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="" alt="">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Tortitas</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="">ver</a>
+                            <h3>€ 1.50</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="" alt="">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Gofre</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="">ver</a>
+                            <h3>€ 2.20</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="" alt="">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Extra de Pechuga empanada </h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="">ver</a>
+                            <h3>€ 3.20</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="" alt="">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Alitas bbq</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="">ver</a>
+                            <h3>€ 3.20</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="" alt="">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Extras 1</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="">ver</a>
+                            <h3>€ 2.00</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="" alt="">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Extras 2</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="">ver</a>
+                            <h3>€ 2.50</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="" alt="">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Extras 3</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="">ver</a>
+                            <h3>€ 3.00</h3>
+                        </div>
+                    </div>
+                </div>
+
             </div>
 
-          
+
 
 
 
@@ -137,6 +250,16 @@
 
     </main>
     <?php include("./includes/footer.php") ?>
+
+    <!-- Modal -->
+    <div id="myModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <img id="modal-img" src="" alt="">
+            <h2 id="modal-title"></h2>
+            <p id="modal-description"></p>
+        </div>
+    </div>
 
     <script src="https://code.jquery.com/jquery-3.6.4.js"
         integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
@@ -160,6 +283,47 @@
                 disableOnInteraction: false, // Evita que se detenga cuando el usuario interactúa
             },
 
+        });
+
+        // Obtener elementos del DOM
+        const modal = document.getElementById("myModal");
+        const modalImg = document.getElementById("modal-img");
+        const modalTitle = document.getElementById("modal-title");
+        const modalDescription = document.getElementById("modal-description");
+
+        // Elementos que abren el modal
+        const openButtons = document.querySelectorAll(".plato_item a");
+
+        // Elemento para cerrar el modal
+        const closeButton = document.querySelector(".close");
+
+        // Función para abrir el modal
+        function openModal(event) {
+            event.preventDefault();
+            modal.style.display = "block";
+            src_img = event.currentTarget.parentElement.parentElement.parentElement.querySelector("img").src;
+            modalImg.src = src_img;
+            modalTitle.textContent = event.currentTarget.parentElement.parentElement.querySelector("h2").textContent;
+            modalDescription.textContent = event.currentTarget.parentElement.parentElement.querySelector("p").textContent;
+        }
+
+        // Función para cerrar el modal
+        function closeModal() {
+            modal.style.display = "none";
+        }
+
+        // Agregar eventos a los botones "ver" y al botón de cierre
+        openButtons.forEach((button) => {
+            button.addEventListener("click", openModal);
+        });
+
+        closeButton.addEventListener("click", closeModal);
+
+        // Cerrar el modal si se hace clic fuera de él
+        window.addEventListener("click", (event) => {
+            if (event.target == modal) {
+                closeModal();
+            }
         });
 
 

@@ -48,7 +48,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Café  expreso</h2>
+                        <h2>Café expreso</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -62,7 +62,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Café  cortado</h2>
+                        <h2>Café cortado</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -191,6 +191,16 @@
     </main>
     <?php include("./includes/footer.php") ?>
 
+    <!-- Modal -->
+    <div id="myModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <img id="modal-img" src="" alt="">
+            <h2 id="modal-title"></h2>
+            <p id="modal-description"></p>
+        </div>
+    </div>
+
     <script src="https://code.jquery.com/jquery-3.6.4.js"
         integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
 
@@ -215,10 +225,55 @@
 
         });
 
+        // Obtener elementos del DOM
+        const modal = document.getElementById("myModal");
+        const modalImg = document.getElementById("modal-img");
+        const modalTitle = document.getElementById("modal-title");
+        const modalDescription = document.getElementById("modal-description");
+
+        // Elementos que abren el modal
+        const openButtons = document.querySelectorAll(".plato_item a");
+
+        // Elemento para cerrar el modal
+        const closeButton = document.querySelector(".close");
+
+        // Función para abrir el modal
+        function openModal(event) {
+            event.preventDefault();
+            modal.style.display = "block";
+            src_img = event.currentTarget.parentElement.parentElement.parentElement.querySelector("img").src;
+            modalImg.src = src_img;
+            modalTitle.textContent = event.currentTarget.parentElement.parentElement.querySelector("h2").textContent;
+            modalDescription.textContent = event.currentTarget.parentElement.parentElement.querySelector("p").textContent;
+        }
+
+        // Función para cerrar el modal
+        function closeModal() {
+            modal.style.display = "none";
+        }
+
+        // Agregar eventos a los botones "ver" y al botón de cierre
+        openButtons.forEach((button) => {
+            button.addEventListener("click", openModal);
+        });
+
+        closeButton.addEventListener("click", closeModal);
+
+        // Cerrar el modal si se hace clic fuera de él
+        window.addEventListener("click", (event) => {
+            if (event.target == modal) {
+                closeModal();
+            }
+        });
+
 
 
     </script>
 
+
+
 </body>
+
+
 
 </html>

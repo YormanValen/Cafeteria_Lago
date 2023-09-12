@@ -114,6 +114,14 @@
                     </div>
                 </div>
 
+            </div>
+
+            <div class="platos_box">
+
+                <div class="title" id="postres">
+                    <h2>Té</h2>
+                </div>
+
                 <div class="plato_item">
                     <div class="img_ctn">
                         <img src="" alt="">

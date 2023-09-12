@@ -33,7 +33,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Agua solan de cabras pequeña </h2>
+                        <h2>Agua solan de cabras (pequeña) </h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -48,7 +48,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Agua solan de cabras grande </h2>
+                        <h2>Agua solan de cabras (grande) </h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -62,7 +62,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Aquabona pequeña </h2>
+                        <h2>Aquabona (pequeña) </h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -77,7 +77,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Aquabona grande  </h2>
+                        <h2>Aquabona (grande)  </h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -91,7 +91,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Agua con gas Vicky catalan grande </h2>
+                        <h2>Agua con gas Vicky catalan (grande) </h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -105,7 +105,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Agua con gas Vicky pequeña</h2>
+                        <h2>Agua con gas VICHY CATALÁN (pequeña)</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -119,7 +119,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Coca-cola normal </h2>
+                        <h2>Coca-cola original</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -175,7 +175,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Aquarios limón </h2>
+                        <h2>Aquarius de limón</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -189,7 +189,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Aquarios naranja</h2>
+                        <h2>Aquarius de naranja</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -203,7 +203,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Fanta naranja</h2>
+                        <h2>Fanta de naranja</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -217,7 +217,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Fanta limón</h2>
+                        <h2>Fanta de limón</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -301,7 +301,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Coca-cola 1 litro</h2>
+                        <h2>Coca-cola (1 litro)</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
@@ -315,7 +315,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Coca-cola 2 litros</h2>
+                        <h2>Coca-cola (2 litros)</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>

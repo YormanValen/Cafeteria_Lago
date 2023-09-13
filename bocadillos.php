@@ -146,7 +146,7 @@
                     <div class="txt_ctn">
                         <h2>Bocadillo de pollo a la plancha</h2>
                         <p></p>
-                        <div class="precio_ctn">Bocadillo_De_Pollo_A_La_PLancha
+                        <div class="precio_ctn">
                             <a href="">ver</a>
                             <h3>€ 6.50</h3>
                         </div>

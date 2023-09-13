@@ -76,9 +76,9 @@ body {
   padding: 2vw;
   height: 45vw;
   border-radius: 2vw;
-  gap: 3vw;
+  gap: 2vw;
   background-color: white;
-  grid-template-columns: 30% 65%;
+  grid-template-columns: 51% 48%;
 }
 
 .desayunos_box .plato_item img {

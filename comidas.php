@@ -70,7 +70,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/jpg/img_1.png" alt="">
+                        <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Churros y café</h2>
@@ -98,13 +98,13 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/png/comida/Barrita_De_Pan_Multisemillas.png" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Barrita de pan tostado</h2>
                         <p> con aceite, tomate y café </p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/comida/Barrita_De_Pan_Multisemillas.png">ver</a>
                             <h3>€ 3.50</h3>
                         </div>
                     </div>
@@ -141,13 +141,13 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/png/Barrita_De_Pan_Tostado_Con_Tortilla_Española.png" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Barrita de pan tostado</h2>
                         <p>con tortilla Española y café</p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/Barrita_De_Pan_Tostado_Con_Tortilla_Española.png">ver</a>
                             <h3>€ 4.50</h3>
                         </div>
                     </div>
@@ -177,13 +177,13 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/png/comida/Desayuno_Americano.png" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Arepa de maíz, huevo revuelto</h2>
                         <p>con cebolla y tomate, queso y café</p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/comida/Desayuno_Americano.png">ver</a>
                             <h3>€ 7.50</h3>
                         </div>
                     </div>
@@ -434,7 +434,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/png/comida/Filete_De_Pollo_A_La_PLancha.png" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Pechuga de pollo a la plancha
@@ -442,7 +442,7 @@
                         <p>huevos y patatas fritas, (ensalada opcional)</p>
 
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/comida/Filete_De_Pollo_A_La_PLancha.png">ver</a>
                             <h3>€ 9.70</h3>
                         </div>
                     </div>
@@ -553,7 +553,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/png/comida/Patatas_5_Salsas.png" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Patatas 5 Salsas
@@ -561,7 +561,7 @@
                         <p>( kepchup, mayonesa, rosa, ali-oli y queso)</p>
 
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/comida/Patatas_5_Salsas.png">ver</a>
                             <h3>€ 8.50</h3>
                         </div>
                     </div>
@@ -633,6 +633,22 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
+                        <img src="./media/png/comida/Calamares_A_La_Romana.png" alt="">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Calamares a la Romana
+                        </h2>
+                        <p></p>
+
+                        <div class="precio_ctn">
+                            <a href="./media/png/comida/Calamares_A_La_Romana.png">ver</a>
+                            <h3>€ 11.20</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
@@ -689,7 +705,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/png/comida/Ensalada_Mixta.png" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Ensalada mixta
@@ -697,7 +713,7 @@
                         <p></p>
 
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/comida/Ensalada_Mixta.png">ver</a>
                             <h3>€ 6.70</h3>
                         </div>
                     </div>

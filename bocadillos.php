@@ -141,13 +141,13 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/png/bocadillos/Bocadillo_De_Pollo_A_La_PLancha.png" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Bocadillo de pollo a la plancha</h2>
                         <p></p>
-                        <div class="precio_ctn">
-                            <a href="">ver</a>
+                        <div class="precio_ctn">Bocadillo_De_Pollo_A_La_PLancha
+                            <a href="./media/png/bocadillos/Bocadillo_De_Pollo_A_La_PLancha.png">ver</a>
                             <h3>€ 6.50</h3>
                         </div>
                     </div>
@@ -177,14 +177,14 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/png/bocadillos/Hamburguesa_De_La_Casa.png" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Hamburguesa de la casa</h2>
                         <p>(carne de ternera wayú, tomate, lechuga, bacon, queso cheddar, cebolla caramelizada y huevo)
                         </p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/bocadillos/Hamburguesa_De_La_Casa.png">ver</a>
                             <h3>€ 8.50</h3>
                         </div>
                     </div>

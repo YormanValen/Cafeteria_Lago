@@ -56,7 +56,20 @@ body {
   display: flex;
   flex-direction: column;
   gap: 10vw;
-  padding: 0% 8% 8% 8%;
+  padding: 0% 5% 8% 5%;
+}
+
+.desayunos_section .desayunos_container{
+  display: flex;
+  flex-direction: column;
+  gap: 3vw;
+}
+
+.desayunos_section .desayunos_container .title_principal h1{
+  color: white;
+  text-align: center;
+  margin-bottom: 5vw;
+  font-size: 10vw ;
 }
 
 .desayunos_section .desayunos_box {
@@ -71,6 +84,13 @@ body {
   color: var(--green);
 }
 
+.desayunos_box .title_principal h2 {
+  color: white;
+  text-align: center;
+  margin-bottom: 5vw;
+  font-size: 10vw ;
+}
+
 .desayunos_box .plato_item {
   display: grid;
   padding: 2vw;
@@ -78,7 +98,7 @@ body {
   border-radius: 2vw;
   gap: 2vw;
   background-color: white;
-  grid-template-columns: 51% 48%;
+  grid-template-columns: 51% 47%;
 }
 
 .desayunos_box .plato_item img {
@@ -88,10 +108,14 @@ body {
   object-fit: cover;
 }
 
+.desayunos_box .plato_item .img_ctn {
+  overflow: hidden;
+ }
+
 .desayunos_box .plato_item .txt_ctn {
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly;
+  justify-content: space-around;
 }
 
 .desayunos_box .plato_item .txt_ctn .precio_ctn {
@@ -106,6 +130,10 @@ body {
 .desayunos_box .plato_item h2 {
   font-size: 5vw;
   color: var(--blue);
+}
+
+.desayunos_box .plato_item p {
+  display: none;
 }
 
 .desayunos_box .plato_item .txt_ctn a {

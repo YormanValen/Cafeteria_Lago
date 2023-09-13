@@ -27,19 +27,7 @@
                 <div class="swiper-wrapper">
                     <!-- Slides -->
                     <div class="swiper-slide">
-                        <a href="#español_tradicional">Español Tradicional</a>
-                    </div>
-                    <div class="swiper-slide">
-                        <a href="#americano">Americano</a>
-                    </div>
-                    <div class="swiper-slide">
-                        <a href="#ingles">Inglés</a>
-                    </div>
-                    <div class="swiper-slide">
-                        <a href="#ranchero">Ranchero</a>
-                    </div>
-                    <div class="swiper-slide">
-                        <a href="#bolleria">Bollería</a>
+                        <a href="#desayunos">Desayunos</a>
                     </div>
                     <div class="swiper-slide">
                         <a href="#sopas">Sopas</a>
@@ -62,93 +50,315 @@
 
         <section class="desayunos_section">
 
-            <div class="español_traicional_box desayunos_box">
+            <div class="desayunos_container">
+                <div class="title_principal">
+                    <h1>Desayunos</h1>
+                </div>
+                <div class="desayunos_box" id="desayunos">
 
-                <div class="title" id="español_tradicional">
-                    <h2>Español tradicional</h2>
+                    <div class="title" id="español_tradicional">
+                        <h2>Español tradicional</h2>
+                    </div>
+
+                    <div class="plato_item">
+                        <div class="img_ctn">
+                            <img src="" alt="">
+                        </div>
+                        <div class="txt_ctn">
+                            <h2>Churros y café</h2>
+                            <p>Descripción</p>
+                            <div class="precio_ctn">
+                                <a href="">ver</a>
+                                <h3>€ 3.50</h3>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="plato_item">
+                        <div class="img_ctn">
+                            <img src="" alt="">
+                        </div>
+                        <div class="txt_ctn">
+                            <h2>Porras y café</h2>
+                            <p>Descripción</p>
+                            <div class="precio_ctn">
+                                <a href="">ver</a>
+                                <h3>€ 3.50</h3>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="plato_item">
+                        <div class="img_ctn">
+                            <img src="./media/png/comida/Barrita_De_Pan_Multisemillas.png" alt="">
+                        </div>
+                        <div class="txt_ctn">
+                            <h2>Barrita de pan tostado</h2>
+                            <p> con aceite, tomate y café </p>
+                            <div class="precio_ctn">
+                                <a href="./media/png/comida/Barrita_De_Pan_Multisemillas.png">ver</a>
+                                <h3>€ 3.50</h3>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="plato_item">
+                        <div class="img_ctn">
+                            <img src="" alt="">
+                        </div>
+                        <div class="txt_ctn">
+                            <h2>Croissat a la plancha</h2>
+                            <p>con mermelada y mantequilla</p>
+                            <div class="precio_ctn">
+                                <a href="">ver</a>
+                                <h3>€ 3.50</h3>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="plato_item">
+                        <div class="img_ctn">
+                            <img src="" alt="">
+                        </div>
+                        <div class="txt_ctn">
+                            <h2>Sándwich mixto y café </h2>
+                            <p></p>
+                            <div class="precio_ctn">
+                                <a href="">ver</a>
+                                <h3>€ 4.20</h3>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="plato_item">
+                        <div class="img_ctn">
+                            <img src="./media/png/Barrita_De_Pan_Tostado_Con_Tortilla_Española.png" alt="">
+                        </div>
+                        <div class="txt_ctn">
+                            <h2>Barrita de pan tostado</h2>
+                            <p>con tortilla Española y café</p>
+                            <div class="precio_ctn">
+                                <a href="./media/png/Barrita_De_Pan_Tostado_Con_Tortilla_Española.png">ver</a>
+                                <h3>€ 4.50</h3>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
 
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" alt="">
+                <div class="desayunos_box">
+
+                    <div class="title" id="americano">
+                        <h2>Americano</h2>
                     </div>
-                    <div class="txt_ctn">
-                        <h2>Churros y café</h2>
-                        <p>Descripción</p>
-                        <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 3.50</h3>
+
+                    <div class="plato_item">
+                        <div class="img_ctn">
+                            <img src="" alt="">
+                        </div>
+                        <div class="txt_ctn">
+                            <h2>Barrita de pan tostado, huevos a la plancha y café </h2>
+                            <p></p>
+                            <div class="precio_ctn">
+                                <a href="">ver</a>
+                                <h3>€ 6.50</h3>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="plato_item">
+                        <div class="img_ctn">
+                            <img src="./media/png/comida/Desayuno_Americano.png" alt="">
+                        </div>
+                        <div class="txt_ctn">
+                            <h2>Arepa de maíz, huevo revuelto</h2>
+                            <p>con cebolla y tomate, queso y café</p>
+                            <div class="precio_ctn">
+                                <a href="./media/png/comida/Desayuno_Americano.png">ver</a>
+                                <h3>€ 7.50</h3>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="plato_item">
+                        <div class="img_ctn">
+                            <img src="" alt="">
+                        </div>
+                        <div class="txt_ctn">
+                            <h2>Tortitas pancakes</h2>
+                            <p>con nata, sirope y café </p>
+                            <div class="precio_ctn">
+                                <a href="">ver</a>
+                                <h3>€ 4.50</h3>
+                            </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" alt="">
+                <div class="desayunos_box">
+
+                    <div class="title" id="ingles">
+                        <h2>Inglés</h2>
                     </div>
-                    <div class="txt_ctn">
-                        <h2>Porras y café</h2>
-                        <p>Descripción</p>
-                        <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 3.50</h3>
+
+                    <div class="plato_item">
+                        <div class="img_ctn">
+                            <img src="" alt="">
+                        </div>
+                        <div class="txt_ctn">
+                            <h2>Pan frito, huevos a la plancha.
+                            </h2>
+                            <p>salchicha, tomate, salchichón, alubia, champiñones y café</p>
+
+                            <div class="precio_ctn">
+                                <a href="">ver</a>
+                                <h3>€ 9.50</h3>
+                            </div>
                         </div>
                     </div>
+
                 </div>
 
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="./media/png/comida/Barrita_De_Pan_Multisemillas.png" alt="">
+                <div class="desayunos_box">
+
+                    <div class="title" id="ranchero">
+                        <h2>Ranchero</h2>
                     </div>
-                    <div class="txt_ctn">
-                        <h2>Barrita de pan tostado</h2>
-                        <p> con aceite, tomate y café </p>
-                        <div class="precio_ctn">
-                            <a href="./media/png/comida/Barrita_De_Pan_Multisemillas.png">ver</a>
-                            <h3>€ 3.50</h3>
+
+                    <div class="plato_item">
+                        <div class="img_ctn">
+                            <img src="" alt="">
+                        </div>
+                        <div class="txt_ctn">
+                            <h2>Barrita de pan tostado
+                            </h2>
+                            <p>huevos a la plancha, salchichas, bacon y café</p>
+
+                            <div class="precio_ctn">
+                                <a href="">ver</a>
+                                <h3>€ 6.50</h3>
+                            </div>
                         </div>
                     </div>
-                </div>
 
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" alt="">
-                    </div>
-                    <div class="txt_ctn">
-                        <h2>Croissat a la plancha</h2>
-                        <p>con mermelada y mantequilla</p>
-                        <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 3.50</h3>
+                    <div class="plato_item">
+                        <div class="img_ctn">
+                            <img src="" alt="">
+                        </div>
+                        <div class="txt_ctn">
+                            <h2>Zumo de naranja natural
+                            </h2>
+                            <p></p>
+
+                            <div class="precio_ctn">
+                                <a href="">ver</a>
+                                <h3>€ 3.50</h3>
+                            </div>
                         </div>
                     </div>
+
                 </div>
 
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" alt="">
+                <div class="desayunos_box">
+
+                    <div class="title" id="bolleria">
+                        <h2>Bollería</h2>
                     </div>
-                    <div class="txt_ctn">
-                        <h2>Sándwich mixto y café </h2>
-                        <p></p>
-                        <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 4.20</h3>
+
+                    <div class="plato_item">
+                        <div class="img_ctn">
+                            <img src="" alt="">
+                        </div>
+                        <div class="txt_ctn">
+                            <h2>Totas de pan
+                            </h2>
+                            <p></p>
+
+                            <div class="precio_ctn">
+                                <a href="">ver</a>
+                                <h3>€ 1.50</h3>
+                            </div>
                         </div>
                     </div>
-                </div>
 
+                    <div class="plato_item">
+                        <div class="img_ctn">
+                            <img src="" alt="">
+                        </div>
+                        <div class="txt_ctn">
+                            <h2>Croissant
+                            </h2>
+                            <p></p>
 
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="./media/png/Barrita_De_Pan_Tostado_Con_Tortilla_Española.png" alt="">
+                            <div class="precio_ctn">
+                                <a href="">ver</a>
+                                <h3>€ 1.80</h3>
+                            </div>
+                        </div>
                     </div>
-                    <div class="txt_ctn">
-                        <h2>Barrita de pan tostado</h2>
-                        <p>con tortilla Española y café</p>
-                        <div class="precio_ctn">
-                            <a href="./media/png/Barrita_De_Pan_Tostado_Con_Tortilla_Española.png">ver</a>
-                            <h3>€ 4.50</h3>
+
+                    <div class="plato_item">
+                        <div class="img_ctn">
+                            <img src="" alt="">
+                        </div>
+                        <div class="txt_ctn">
+                            <h2>Napolitana de cacao
+                            </h2>
+                            <p></p>
+
+                            <div class="precio_ctn">
+                                <a href="">ver</a>
+                                <h3>€ 1.80</h3>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="plato_item">
+                        <div class="img_ctn">
+                            <img src="" alt="">
+                        </div>
+                        <div class="txt_ctn">
+                            <h2>Ensaimada
+                            </h2>
+                            <p></p>
+
+                            <div class="precio_ctn">
+                                <a href="">ver</a>
+                                <h3>€ 1.80</h3>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="plato_item">
+                        <div class="img_ctn">
+                            <img src="" alt="">
+                        </div>
+                        <div class="txt_ctn">
+                            <h2>Trenza de manzana y crema
+                            </h2>
+                            <p></p>
+
+                            <div class="precio_ctn">
+                                <a href="">ver</a>
+                                <h3>€ 2.30</h3>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="plato_item">
+                        <div class="img_ctn">
+                            <img src="" alt="">
+                        </div>
+                        <div class="txt_ctn">
+                            <h2>Maple pecan
+                            </h2>
+                            <p></p>
+
+                            <div class="precio_ctn">
+                                <a href="">ver</a>
+                                <h3>€ 2.20</h3>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -157,223 +367,7 @@
 
             <div class="desayunos_box">
 
-                <div class="title" id="americano">
-                    <h2>Americano</h2>
-                </div>
-
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" alt="">
-                    </div>
-                    <div class="txt_ctn">
-                        <h2>Barrita de pan tostado, huevos a la plancha y café </h2>
-                        <p></p>
-                        <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 6.50</h3>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="./media/png/comida/Desayuno_Americano.png" alt="">
-                    </div>
-                    <div class="txt_ctn">
-                        <h2>Arepa de maíz, huevo revuelto</h2>
-                        <p>con cebolla y tomate, queso y café</p>
-                        <div class="precio_ctn">
-                            <a href="./media/png/comida/Desayuno_Americano.png">ver</a>
-                            <h3>€ 7.50</h3>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" alt="">
-                    </div>
-                    <div class="txt_ctn">
-                        <h2>Tortitas pancakes</h2>
-                        <p>con nata, sirope y café </p>
-                        <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 4.50</h3>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="desayunos_box">
-
-                <div class="title" id="ingles">
-                    <h2>Inglés</h2>
-                </div>
-
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" alt="">
-                    </div>
-                    <div class="txt_ctn">
-                        <h2>Pan frito, huevos a la plancha.
-                        </h2>
-                        <p>salchicha, tomate, salchichón, alubia, champiñones y café</p>
-
-                        <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 9.50</h3>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-            <div class="desayunos_box">
-
-                <div class="title" id="ranchero">
-                    <h2>Ranchero</h2>
-                </div>
-
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" alt="">
-                    </div>
-                    <div class="txt_ctn">
-                        <h2>Barrita de pan tostado
-                        </h2>
-                        <p>huevos a la plancha, salchichas, bacon y café</p>
-
-                        <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 6.50</h3>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" alt="">
-                    </div>
-                    <div class="txt_ctn">
-                        <h2>Zumo de naranja natural
-                        </h2>
-                        <p></p>
-
-                        <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 3.50</h3>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-            <div class="desayunos_box">
-
-                <div class="title" id="bolleria">
-                    <h2>Bollería</h2>
-                </div>
-
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" alt="">
-                    </div>
-                    <div class="txt_ctn">
-                        <h2>Totas de pan
-                        </h2>
-                        <p></p>
-
-                        <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 1.50</h3>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" alt="">
-                    </div>
-                    <div class="txt_ctn">
-                        <h2>Croissant
-                        </h2>
-                        <p></p>
-
-                        <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 1.80</h3>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" alt="">
-                    </div>
-                    <div class="txt_ctn">
-                        <h2>Napolitana de cacao
-                        </h2>
-                        <p></p>
-
-                        <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 1.80</h3>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" alt="">
-                    </div>
-                    <div class="txt_ctn">
-                        <h2>Ensaimada
-                        </h2>
-                        <p></p>
-
-                        <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 1.80</h3>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" alt="">
-                    </div>
-                    <div class="txt_ctn">
-                        <h2>Trenza de manzana y crema
-                        </h2>
-                        <p></p>
-
-                        <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 2.30</h3>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" alt="">
-                    </div>
-                    <div class="txt_ctn">
-                        <h2>Maple pecan
-                        </h2>
-                        <p></p>
-
-                        <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 2.20</h3>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="desayunos_box">
-
-                <div class="title" id="sopas">
+                <div class="title_principal" id="sopas">
                     <h2>Sopas</h2>
                 </div>
 
@@ -428,7 +422,7 @@
 
             <div class="desayunos_box">
 
-                <div class="title" id="platos_combinados">
+                <div class="title_principal" id="platos_combinados">
                     <h2>Platos Combinados</h2>
                 </div>
 
@@ -453,7 +447,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Cinta de lomo a la plancha 
+                        <h2>Cinta de lomo a la plancha
                         </h2>
                         <p>huevos y patatas fritas</p>
 
@@ -469,7 +463,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Filete de ternera a la plancha 
+                        <h2>Filete de ternera a la plancha
                         </h2>
                         <p>huevos y patatas</p>
 
@@ -483,7 +477,7 @@
 
             <div class="desayunos_box">
 
-                <div class="title" id="raciones">
+                <div class="title_principal" id="raciones">
                     <h2>Raciones</h2>
                 </div>
 
@@ -699,7 +693,7 @@
 
             <div class="desayunos_box">
 
-                <div class="title" id="ensaladas">
+                <div class="title_principal" id="ensaladas">
                     <h2>Ensaladas</h2>
                 </div>
 
@@ -724,7 +718,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Ensalada de tomate 
+                        <h2>Ensalada de tomate
                         </h2>
                         <p>con bonito</p>
 
@@ -740,7 +734,7 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Ensalada gourmet 
+                        <h2>Ensalada gourmet
                         </h2>
                         <p>con queso de cabrales</p>
 

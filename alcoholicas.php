@@ -61,7 +61,7 @@
 
             <div class="platos_box">
 
-                <div class="title_principal" id="licores">
+                <div class="title_principal_licores" id="licores">
                     <h1>Licores</h1>
                 </div>
 

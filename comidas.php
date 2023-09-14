@@ -400,7 +400,7 @@
 
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Gofre.png">ver</a>
-                                <h3>€ Sin precio</h3>
+                                <h3>€ ....</h3>
                             </div>
                         </div>
                     </div>

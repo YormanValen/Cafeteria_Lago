@@ -526,7 +526,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 6.50</h3>
+                            <h3>€ 7.50</h3>
                         </div>
                     </div>
                 </div>
@@ -541,7 +541,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 6.50</h3>
+                            <h3>€ 7.50</h3>
                         </div>
                     </div>
                 </div>
@@ -555,7 +555,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 6.50</h3>
+                            <h3>€ 7.50</h3>
                         </div>
                     </div>
                 </div>
@@ -569,7 +569,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 7.50</h3>
+                            <h3>€ 8.50</h3>
                         </div>
                     </div>
                 </div>
@@ -725,7 +725,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 6.50</h3>
+                            <h3>€ 7.50</h3>
                         </div>
                     </div>
                 </div>
@@ -762,7 +762,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 6.50</h3>
+                            <h3>€ 7.50</h3>
                         </div>
                     </div>
                 </div>
@@ -777,7 +777,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 6.50</h3>
+                            <h3>€ 7.50</h3>
                         </div>
                     </div>
                 </div>
@@ -791,7 +791,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 6.50</h3>
+                            <h3>€ 7.50</h3>
                         </div>
                     </div>
                 </div>
@@ -841,7 +841,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 6.50</h3>
+                            <h3>€ 7.50</h3>
                         </div>
                     </div>
                 </div>
@@ -898,7 +898,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 8.50</h3>
+                            <h3>€ 12.50</h3>
                         </div>
                     </div>
                 </div>

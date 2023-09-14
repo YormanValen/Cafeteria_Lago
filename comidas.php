@@ -93,10 +93,25 @@
                             <img src="./media/png/comida/Barrita_De_Pan_Multisemillas.png" alt="">
                         </div>
                         <div class="txt_ctn">
-                            <h2>Barrita de pan tostado</h2>
+                            <h2>Pan multisemilla</h2>
                             <p> con aceite, tomate y café </p>
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Barrita_De_Pan_Multisemillas.png">ver</a>
+                                <h3>€ 3.50</h3>
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <div class="plato_item">
+                        <div class="img_ctn">
+                            <img src="./media/png/comida/Pan_Con_Tomate_Y_Aceite.png" alt="">
+                        </div>
+                        <div class="txt_ctn">
+                            <h2>Barrita de pan tostado</h2>
+                            <p> con aceite, tomate y café </p>
+                            <div class="precio_ctn">
+                                <a href="./media/png/comida/Pan_Con_Tomate_Y_Aceite.png">ver</a>
                                 <h3>€ 3.50</h3>
                             </div>
                         </div>
@@ -198,13 +213,14 @@
 
                 <div class="desayunos_box">
 
+                
                     <div class="title" id="ingles">
                         <h2>Inglés</h2>
                     </div>
 
                     <div class="plato_item">
                         <div class="img_ctn">
-                            <img src="" alt="">
+                            <img src="./media/png/comida/Desayuno_Ingles.png" alt="">
                         </div>
                         <div class="txt_ctn">
                             <h2>Pan frito, huevos a la plancha.
@@ -212,7 +228,7 @@
                             <p>salchicha, tomate, salchichón, alubia, champiñones y café</p>
 
                             <div class="precio_ctn">
-                                <a href="">ver</a>
+                                <a href="./media/png/comida/Desayuno_Ingles.png">ver</a>
                                 <h3>€ 9.50</h3>
                             </div>
                         </div>
@@ -271,7 +287,7 @@
                             <img src="" alt="">
                         </div>
                         <div class="txt_ctn">
-                            <h2>Totas de pan
+                            <h2>Tostada de pan Bimbo
                             </h2>
                             <p></p>
 
@@ -405,7 +421,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/png/comida/Sopa_De_Lentejas.png" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Sopa de lentejas
@@ -413,7 +429,7 @@
                         <p></p>
 
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/comida/Sopa_De_Lentejas.png">ver</a>
                             <h3>€ 5.50</h3>
                         </div>
                     </div>
@@ -444,7 +460,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/png/comida/Cinta_De_Lomo_A_La_Plancha.png" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Cinta de lomo a la plancha
@@ -452,7 +468,7 @@
                         <p>huevos y patatas fritas</p>
 
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/comida/Cinta_De_Lomo_A_La_Plancha.png">ver</a>
                             <h3>€ 9.50</h3>
                         </div>
                     </div>
@@ -460,7 +476,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/png/comida/Combinado_De_Ternera.png" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Filete de ternera a la plancha
@@ -468,7 +484,7 @@
                         <p>huevos y patatas</p>
 
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/comida/Combinado_De_Ternera.png">ver</a>
                             <h3>€ 11.40</h3>
                         </div>
                     </div>
@@ -563,15 +579,15 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/png/comida/Oreja_De_Cerdo_A_La_Plancha.png" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Oreja a la plancha
+                        <h2>Oreja de cerdo a la plancha
                         </h2>
                         <p></p>
 
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/comida/Oreja_De_Cerdo_A_La_Plancha.png">ver</a>
                             <h3>€ 10.20</h3>
                         </div>
                     </div>
@@ -675,7 +691,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/png/comida/Tabla_De_Embutido_Iberico.png" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Tabla de ibéricos
@@ -683,7 +699,7 @@
                         <p>(jamón, chorizo, salchichón, Lomo y queso)</p>
 
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/comida/Tabla_De_Embutido_Iberico.png">ver</a>
                             <h3>€ 22.50</h3>
                         </div>
                     </div>
@@ -731,7 +747,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/png/comida/Ensalada_De_Cabrales.png" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Ensalada gourmet
@@ -739,7 +755,7 @@
                         <p>con queso de cabrales</p>
 
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/comida/Ensalada_De_Cabrales.png">ver</a>
                             <h3>€ 10.50</h3>
                         </div>
                     </div>

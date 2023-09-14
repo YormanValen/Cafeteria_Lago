@@ -198,48 +198,6 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" alt="">
-                    </div>
-                    <div class="txt_ctn">
-                        <h2>Extras 1</h2>
-                        <p></p>
-                        <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 2.00</h3>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" alt="">
-                    </div>
-                    <div class="txt_ctn">
-                        <h2>Extras 2</h2>
-                        <p></p>
-                        <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 2.50</h3>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" alt="">
-                    </div>
-                    <div class="txt_ctn">
-                        <h2>Extras 3</h2>
-                        <p></p>
-                        <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 3.00</h3>
-                        </div>
-                    </div>
-                </div>
-
             </div>
 
 

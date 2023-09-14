@@ -62,7 +62,7 @@
                         <p>con tomate y orégano</p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 3.50</h3>
+                            <h3>€ 5.50</h3>
                         </div>
                     </div>
                 </div>
@@ -127,13 +127,13 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/png/bocadillos/Pepito_De_Ternera.png" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Bocadillo de pepito de ternera </h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/bocadillos/Pepito_De_Ternera.png">ver</a>
                             <h3>€ 6.50</h3>
                         </div>
                     </div>
@@ -199,7 +199,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 6.50</h3>
+                            <h3>€ 7.50</h3>
                         </div>
                     </div>
                 </div>
@@ -238,7 +238,7 @@
 
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 3.80</h3>
+                            <h3>€ 5.80</h3>
                         </div>
                     </div>
                 </div>

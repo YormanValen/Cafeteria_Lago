@@ -30,13 +30,13 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/png/smoothies/Smoothie_Piña_Colada.png" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Piña colada</h2>
                         <p>(piña-coco)</p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/smoothies/Smoothie_Piña_Colada.png">ver</a>
                             <h3>€ 4.90</h3>
                         </div>
                     </div>
@@ -45,13 +45,13 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/png/smoothies/Mango_Fresh.png" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Mango fresco</h2>
+                        <h2>Mango fresh</h2>
                         <p>(mango pera)</p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/smoothies/Mango_Fresh.png">ver</a>
                             <h3>€ 4.90</h3>
                         </div>
                     </div>
@@ -59,28 +59,28 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/png/smoothies/Smoothi_Natural_Verde.png" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Natural green</h2>
                         <p>( brócoli, espinaca, apio, plátano,piña, mango)</p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/smoothies/Smoothi_Natural_Verde.png">ver</a>
                             <h3>€ 4.90</h3>
                         </div>
                     </div>
                 </div>
-
+                
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/png/smoothies/Smoothie_Banana_Red.png" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Red banana</h2>
                         <p>( fresa-plátano)</p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/smoothies/Smoothie_Banana_Red.png">ver</a>
                             <h3>€ 4.90</h3>
                         </div>
                     </div>
@@ -88,13 +88,13 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/png/smoothies/Peach_Paradise.png" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Peach paradise</h2>
                         <p>( Melocotón, papaya y fresa)</p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/smoothies/Peach_Paradise.png">ver</a>
                             <h3>€ 4.90</h3>
                         </div>
                     </div>
@@ -102,13 +102,13 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/png/smoothies/Smoothie_Tropical.png" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Tropic mix</h2>
                         <p>( piña, papaya, mango)</p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/smoothies/Smoothie_Tropical.png">ver</a>
                             <h3>€ 4.90</h3>
                         </div>
                     </div>

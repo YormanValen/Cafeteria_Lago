@@ -105,6 +105,20 @@
                         <img src="" alt="">
                     </div>
                     <div class="txt_ctn">
+                        <h2>Café bombom</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="">ver</a>
+                            <h3>€ 2.80</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="" alt="">
+                    </div>
+                    <div class="txt_ctn">
                         <h2>Cola-cao</h2>
                         <p></p>
                         <div class="precio_ctn">
@@ -124,13 +138,28 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/png/cafe/Te_Chai.png" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Manzanilla</h2>
+                        <h2>Te chai</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/cafe/Te_Chai.png">ver</a>
+                            <h3>€ 2.50</h3>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="./media/png/cafe/Te_Mandarina.png" alt="">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Mandarina</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="./media/png/cafe/Te_Mandarina.png">ver</a>
                             <h3>€ 2.50</h3>
                         </div>
                     </div>
@@ -138,13 +167,13 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/png/cafe/Te_Menta_Poleo.png" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Menta poleo</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/cafe/Te_Menta_Poleo.png">ver</a>
                             <h3>€ 2.50</h3>
                         </div>
                     </div>
@@ -152,13 +181,13 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/png/cafe/Te_Rojo.png" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Té rojo</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/cafe/Te_Rojo.png">ver</a>
                             <h3>€ 2.50</h3>
                         </div>
                     </div>
@@ -166,13 +195,13 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/png/cafe/Te_Verde.png" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Té verde</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/cafe/Te_Verde.png">ver</a>
                             <h3>€ 2.50</h3>
                         </div>
                     </div>
@@ -180,13 +209,55 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/png/cafe/Te_Negro.png" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Té negro</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/cafe/Te_Negro.png">ver</a>
+                            <h3>€ 2.50</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="./media/png/cafe/Te_Vainilla.png" alt="">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Té vainilla</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="./media/png/cafe/Te_Vainilla.png">ver</a>
+                            <h3>€ 2.50</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="./media/png/cafe/Te_Tropical.png" alt="">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Té tropical</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="./media/png/cafe/Te_Tropical.png">ver</a>
+                            <h3>€ 2.50</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="./media/png/cafe/Te_Relajante.png" alt="">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Té relajante</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="./media/png/cafe/Te_Relajante.png">ver</a>
                             <h3>€ 2.50</h3>
                         </div>
                     </div>

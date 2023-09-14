@@ -53,7 +53,7 @@
 
                 <a href="smotties.php" class="menu_item">
                     <div class="title">
-                        <h2>Smootties</h2>
+                        <h2>Smoothies</h2>
                     </div>
                     <div class="img_box">
                         

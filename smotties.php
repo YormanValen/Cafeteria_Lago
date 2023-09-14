@@ -133,6 +133,24 @@
                         </div>
                     </div>
                 </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+
+                        <img src="./media/webp/png/smoothies/Smoothie_Tropical.webp"
+                            onerror="this.onerror=null;this.src='./media/png/smoothies/Smoothi_verde.png';" alt="">
+
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Tropic mix</h2>
+                        <p>( piña, papaya, mango)</p>
+                        <div class="precio_ctn">
+                            <a href="./media/png/smoothies/Smoothi_verde.png">ver</a>
+                            <h3>€ 4.90</h3>
+                        </div>
+                    </div>
+                </div>
+
             </div>
 
         </section>

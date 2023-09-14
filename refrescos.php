@@ -305,24 +305,12 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 2.20</h3>
+                            <h3>€ 5.00 </h3>
                         </div>
                     </div>
                 </div>
 
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" alt="">
-                    </div>
-                    <div class="txt_ctn">
-                        <h2>Coca-cola (2 litros)</h2>
-                        <p></p>
-                        <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 2.80</h3>
-                        </div>
-                    </div>
-                </div>
+                
             </div>
 
         </section>

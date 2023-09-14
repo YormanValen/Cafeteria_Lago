@@ -182,6 +182,50 @@
                     <h2>Hamburguesa</h2>
                 </div>
 
+                
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Hambuguesa de pechuga de pollo apanada</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="">ver</a>
+                            <h3>€ 6.90</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Hamburguesa de ternera</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="">ver</a>
+                            <h3>€ 7.50</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="./media/png/bocadillos/Combo_Hamburguesa.png" onerror="this.onerror=null;this.src='';" alt="">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Combo hamgurguesa</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="./media/png/bocadillos/Combo_Hamburguesa.png">ver</a>
+                            <h3>€ 9.50</h3>
+                        </div>
+                    </div>
+                </div>
+
                 <div class="plato_item">
                     <div class="img_ctn">
 
@@ -196,21 +240,7 @@
                         </p>
                         <div class="precio_ctn">
                             <a href="./media/png/bocadillos/Hamburguesa_De_La_Casa.png">ver</a>
-                            <h3>€ 8.50</h3>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
-                    </div>
-                    <div class="txt_ctn">
-                        <h2>Hambuguesa de pechuga de pollo apanada</h2>
-                        <p></p>
-                        <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 7.50</h3>
+                            <h3>€ 12.50</h3>
                         </div>
                     </div>
                 </div>
@@ -256,7 +286,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/png/bocadillos/Sandwich_Vegetal.png" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Sándwich vegetal
@@ -264,7 +294,7 @@
                         <p>(lechuga , tomate, espárragos blanco, huevo cocido y mayonesa)</p>
 
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/bocadillos/Sandwich_Vegetal.png">ver</a>
                             <h3>€ 6.80</h3>
                         </div>
                     </div>

@@ -472,9 +472,10 @@
                 </div>
 
                 <div class="plato_item">
+                    
                     <div class="img_ctn">
-                        <img src="./media/webp/png/comida/Filete_De_Pollo_A_La_PLancha.webp"
-                            onerror="this.onerror=null;this.src='./media/png/comida/Filete_De_Pollo_A_La_PLancha.png';"
+                        <img src="./media/webp/png/comida/Filete_De_Pollo_A_La_Plancha.webp"
+                            onerror="this.onerror=null;this.src='';"
                             alt="">
 
                     </div>
@@ -484,7 +485,7 @@
                         <p>huevos y patatas fritas, (ensalada opcional)</p>
 
                         <div class="precio_ctn">
-                            <a href="./media/png/comida/Filete_De_Pollo_A_La_PLancha.png">ver</a>
+                            <a href="./media/png/comida/Filete_De_Pollo_A_La_Plancha.png">ver</a>
                             <h3>€ 9.70</h3>
                         </div>
                     </div>

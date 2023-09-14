@@ -71,7 +71,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>UN Roble copa</h2>
@@ -86,7 +87,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>UN Roble botella</h2>
@@ -100,7 +102,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>UN Crianza copa</h2>
@@ -115,7 +118,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>UN Crianza botella</h2>
@@ -136,7 +140,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Roble copa</h2>
@@ -151,7 +156,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Roble botella </h2>
@@ -173,7 +179,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Condado de Artola crianza copa</h2>
@@ -188,7 +195,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Condado de Artola crianza botella</h2>
@@ -210,7 +218,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Ramón Bilbao Copa </h2>
@@ -225,7 +234,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Ramón Bilbao botella</h2>
@@ -247,7 +257,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Camino Do Rey copa</h2>
@@ -262,7 +273,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Camino Do Rey botella </h2>
@@ -283,7 +295,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Rueda Canto Real copa </h2>
@@ -298,7 +311,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Rueda Canto Real botella</h2>
@@ -312,7 +326,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Sangría copa </h2>
@@ -326,7 +341,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Sangría jarra </h2>
@@ -347,7 +363,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Licores sin alcohol</h2>
@@ -362,7 +379,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Orujo hiervas</h2>
@@ -376,7 +394,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Crema de orujo</h2>
@@ -390,7 +409,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Pactaron</h2>
@@ -404,7 +424,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Baileys</h2>
@@ -426,7 +447,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Tercio maho</h2>
@@ -441,7 +463,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Tercio mixta</h2>
@@ -455,7 +478,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Tercio radler</h2>
@@ -469,7 +493,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Botellín mahou</h2>
@@ -483,7 +508,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Botellin sin alcohol</h2>
@@ -497,7 +523,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Lata de cerveza</h2>
@@ -519,7 +546,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>White label</h2>
@@ -534,7 +562,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Ballantines</h2>
@@ -548,7 +577,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>J & B</h2>
@@ -562,7 +592,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Jack Daniel's</h2>
@@ -576,7 +607,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Johnnie Walker negro </h2>
@@ -590,7 +622,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Cardhu</h2>
@@ -604,7 +637,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Chivas</h2>
@@ -618,7 +652,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Buchanans</h2>
@@ -640,7 +675,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Veterano copa combi</h2>
@@ -655,7 +691,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Soberano </h2>
@@ -669,7 +706,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Magno</h2>
@@ -683,7 +721,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Torres 5</h2>
@@ -697,7 +736,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Torres 10</h2>
@@ -718,7 +758,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Absolut copa</h2>
@@ -733,7 +774,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Smirnoff</h2>
@@ -755,7 +797,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Barceló copa</h2>
@@ -770,7 +813,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Brugal</h2>
@@ -784,7 +828,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Cacique 500</h2>
@@ -798,7 +843,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Legendario</h2>
@@ -812,7 +858,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Aniversario</h2>
@@ -834,7 +881,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Beefeater copa</h2>
@@ -849,7 +897,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Tanqueray</h2>
@@ -863,7 +912,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Bombas Sapphire</h2>
@@ -877,7 +927,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Martin Miller's</h2>
@@ -891,7 +942,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Hendrick's</h2>
@@ -905,7 +957,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Nórdes</h2>
@@ -919,7 +972,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Buldog</h2>
@@ -942,7 +996,8 @@
     <div id="myModal" class="modal">
         <div class="modal-content">
             <span class="close">&times;</span>
-            <img id="modal-img" src="" alt="">
+            <img id="modal-img" src=""
+                            onerror="this.onerror=null;this.src='';" alt="">
             <h2 id="modal-title"></h2>
             <p id="modal-description"></p>
         </div>

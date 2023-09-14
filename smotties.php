@@ -30,7 +30,11 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/png/smoothies/Smoothie_Piña_Colada.png" alt="">
+
+                        <img src="./media/webp/png/smoothies/Smoothie_Piña_Colada.webp"
+                            onerror="this.onerror=null;this.src='./media/png/smoothies/Smoothie_Piña_Colada.png';"
+                            alt="">
+
                     </div>
                     <div class="txt_ctn">
                         <h2>Piña colada</h2>
@@ -45,7 +49,10 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/png/smoothies/Mango_Fresh.png" alt="">
+
+                        <img src="./media/webp/png/smoothies/Mango_Fresh.webp"
+                            onerror="this.onerror=null;this.src='./media/png/smoothies/Mango_Fresh.png';" alt="">
+
                     </div>
                     <div class="txt_ctn">
                         <h2>Mango fresh</h2>
@@ -59,7 +66,11 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/png/smoothies/Smoothi_Natural_Verde.png" alt="">
+
+                        <img src="./media/webp/png/smoothies/Smoothi_Natural_Verde.webp"
+                            onerror="this.onerror=null;this.src='./media/png/smoothies/Smoothi_Natural_Verde.png';"
+                            alt="">
+
                     </div>
                     <div class="txt_ctn">
                         <h2>Natural green</h2>
@@ -70,11 +81,15 @@
                         </div>
                     </div>
                 </div>
-                
+
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/png/smoothies/Smoothie_Banana_Red.png" alt="">
+
+                        <img src="./media/webp/png/smoothies/Smoothie_Banana_Red.webp"
+                            onerror="this.onerror=null;this.src='./media/png/smoothies/Smoothie_Banana_Red.png';"
+                            alt="">
+
                     </div>
                     <div class="txt_ctn">
                         <h2>Red banana</h2>
@@ -88,7 +103,9 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/png/smoothies/Peach_Paradise.png" alt="">
+                        <img src="./media/webp/png/smoothies/Peach_Paradise.webp"
+                            onerror="this.onerror=null;this.src='./media/png/smoothies/Peach_Paradise.png';" alt="">
+
                     </div>
                     <div class="txt_ctn">
                         <h2>Peach paradise</h2>
@@ -102,7 +119,10 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/png/smoothies/Smoothie_Tropical.png" alt="">
+
+                        <img src="./media/webp/png/smoothies/Smoothie_Tropical.webp"
+                            onerror="this.onerror=null;this.src='./media/png/smoothies/Smoothie_Tropical.png';" alt="">
+
                     </div>
                     <div class="txt_ctn">
                         <h2>Tropic mix</h2>

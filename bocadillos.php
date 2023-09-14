@@ -55,7 +55,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Bocadillo de jamón serrano</h2>
@@ -68,9 +68,10 @@
                 </div>
 
 
+
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Bocadillo de tortilla</h2>
@@ -84,7 +85,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Bocadillo de tortilla española </h2>
@@ -99,7 +100,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Bocadillo de cinta de lomo</h2>
@@ -113,7 +114,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Bocadillo de calamares </h2>
@@ -127,7 +128,9 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/png/bocadillos/Pepito_De_Ternera.png" alt="">
+
+                        <img src="./media/webp/png/bocadillos/Pepito_De_Ternera.webp"
+                            onerror="this.onerror=null;this.src='./media/png/bocadillos/Pepito_De_Ternera.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Bocadillo de pepito de ternera </h2>
@@ -141,7 +144,11 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/png/bocadillos/Bocadillo_De_Pollo_A_La_PLancha.png" alt="">
+
+                        <img src="./media/webp/png/bocadillos/Bocadillo_De_Pollo_A_La_PLancha.webp"
+                            onerror="this.onerror=null;this.src='./media/png/bocadillos/Bocadillo_De_Pollo_A_La_PLancha.png';"
+                            alt="">
+
                     </div>
                     <div class="txt_ctn">
                         <h2>Bocadillo de pollo a la plancha</h2>
@@ -155,7 +162,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Bocadillo de jamón ibérico </h2>
@@ -177,7 +184,11 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/png/bocadillos/Hamburguesa_De_La_Casa.png" alt="">
+
+                        <img src="./media/webp/png/bocadillos/Hamburguesa_De_La_Casa.webp"
+                            onerror="this.onerror=null;this.src='./media/png/bocadillos/Hamburguesa_De_La_Casa.png';"
+                            alt="">
+
                     </div>
                     <div class="txt_ctn">
                         <h2>Hamburguesa de la casa</h2>
@@ -192,7 +203,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Hambuguesa de pechuga de pollo apanada</h2>
@@ -213,7 +224,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Sándwich mixto
@@ -229,7 +240,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Sándwich americano
@@ -245,7 +256,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Sándwich vegetal
@@ -269,7 +280,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Pizza tropical
@@ -285,7 +296,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Pizza de pollo a la salsa barbacoa
@@ -301,10 +312,10 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Pizza prosciutto e funghi 
+                        <h2>Pizza prosciutto e funghi
                         </h2>
                         <p>(tomate, mozzarela, jamón cocido y champiñones)</p>
 
@@ -317,7 +328,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Pizza 5 quesos
@@ -342,7 +353,7 @@
     <div id="myModal" class="modal">
         <div class="modal-content">
             <span class="close">&times;</span>
-            <img id="modal-img" src="" alt="">
+            <img id="modal-img" src="" onerror="this.onerror=null;this.src='';" alt="">
             <h2 id="modal-title"></h2>
             <p id="modal-description"></p>
         </div>

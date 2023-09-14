@@ -30,7 +30,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Café con leche</h2>
@@ -45,7 +45,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Café expreso</h2>
@@ -59,7 +59,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Café cortado</h2>
@@ -74,7 +74,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Café manchado</h2>
@@ -88,7 +88,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Café capuchino</h2>
@@ -102,7 +102,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Café bombom</h2>
@@ -116,7 +116,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Cola-cao</h2>
@@ -138,7 +138,11 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/png/cafe/Te_Chai.png" alt="">
+
+                        <img src="./media/webp/png/cafe/Te_Chai.webp"
+                            onerror="this.onerror=null;this.src='./media/png/cafe/Te_Chai.png';" alt="">
+
+
                     </div>
                     <div class="txt_ctn">
                         <h2>Te chai</h2>
@@ -153,7 +157,10 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/png/cafe/Te_Mandarina.png" alt="">
+
+                        <img src="./media/webp/png/cafe/Te_Mandarina.webp"
+                            onerror="this.onerror=null;this.src='./media/png/cafe/Te_Mandarina.png';" alt="">
+
                     </div>
                     <div class="txt_ctn">
                         <h2>Mandarina</h2>
@@ -167,7 +174,10 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/png/cafe/Te_Menta_Poleo.png" alt="">
+
+                        <img src="./media/webp/png/cafe/Te_Menta_Poleo.webp"
+                            onerror="this.onerror=null;this.src='./media/png/cafe/Te_Menta_Poleo.png';" alt="">
+
                     </div>
                     <div class="txt_ctn">
                         <h2>Menta poleo</h2>
@@ -181,7 +191,11 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/png/cafe/Te_Rojo.png" alt="">
+
+                        <img src="./media/webp/png/cafe/Te_Rojo.webp"
+                            onerror="this.onerror=null;this.src='./media/png/cafe/Te_Rojo.png';" alt="">
+
+
                     </div>
                     <div class="txt_ctn">
                         <h2>Té rojo</h2>
@@ -195,7 +209,11 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/png/cafe/Te_Verde.png" alt="">
+
+                        <img src="./media/webp/png/cafe/Te_Verde.webp"
+                            onerror="this.onerror=null;this.src='./media/png/cafe/Te_Verde.png';" alt="">
+
+
                     </div>
                     <div class="txt_ctn">
                         <h2>Té verde</h2>
@@ -209,7 +227,10 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/png/cafe/Te_Negro.png" alt="">
+
+                        <img src="./media/webp/png/cafe/Te_Negro.webp"
+                            onerror="this.onerror=null;this.src='./media/png/cafe/Te_Negro.png';" alt="">
+
                     </div>
                     <div class="txt_ctn">
                         <h2>Té negro</h2>
@@ -223,7 +244,10 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/png/cafe/Te_Vainilla.png" alt="">
+
+                        <img src="./media/webp/png/cafe/Te_Vainilla.webp"
+                            onerror="this.onerror=null;this.src='./media/png/cafe/Te_Vainilla.png';" alt="">
+
                     </div>
                     <div class="txt_ctn">
                         <h2>Té vainilla</h2>
@@ -237,7 +261,11 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/png/cafe/Te_Tropical.png" alt="">
+
+                        <img src="./media/webp/png/cafe/Te_Tropical.webp"
+                            onerror="this.onerror=null;this.src='./media/png/cafe/Te_Tropical.png';" alt="">
+
+
                     </div>
                     <div class="txt_ctn">
                         <h2>Té tropical</h2>
@@ -251,7 +279,11 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/png/cafe/Te_Relajante.png" alt="">
+
+                        <img src="./media/webp/png/cafe/Te_Relajante.webp"
+                            onerror="this.onerror=null;this.src='./media/png/cafe/Te_Relajante.png';" alt="">
+
+
                     </div>
                     <div class="txt_ctn">
                         <h2>Té relajante</h2>
@@ -274,7 +306,7 @@
     <div id="myModal" class="modal">
         <div class="modal-content">
             <span class="close">&times;</span>
-            <img id="modal-img" src="" alt="">
+            <img id="modal-img" src="" onerror="this.onerror=null;this.src='';" alt="">
             <h2 id="modal-title"></h2>
             <p id="modal-description"></p>
         </div>

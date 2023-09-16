@@ -62,7 +62,7 @@
 
                     <div class="plato_item">
                         <div class="img_ctn">
-                            <img src="./media/png/comida/Churros_Con_Cafe.png" onerror="this.onerror=null;this.src='';" alt="">
+                            <img src="./media/webp/png/comida/Churros_Con_Cafe.webp" onerror="this.onerror=null;this.src='./media/png/comida/Churros_Con_Cafe.png';" alt="">
                         </div>
                         <div class="txt_ctn">
                             <h2>Churros y café</h2>
@@ -76,7 +76,7 @@
 
                     <div class="plato_item">
                         <div class="img_ctn">
-                            <img src="./media/png/comida/Porras_Con_Cafe.png" onerror="this.onerror=null;this.src='';" alt="">
+                            <img src="./media/webp/png/comida/Porras_Con_Cafe.webp" onerror="this.onerror=null;this.src='./media/png/comida/Porras_Con_Cafe.png';" alt="">
                         </div>
                         <div class="txt_ctn">
                             <h2>Porras y café</h2>
@@ -91,7 +91,7 @@
 
                     <div class="plato_item">
                         <div class="img_ctn">
-                            <img src=""
+                            <img src="./media/webp/png/comida/Barrita_De_Pan_Multisemilla.webp"
                                 onerror="this.onerror=null;this.src='./media/png/comida/Barrita_De_Pan_Multisemilla.png';"
                                 alt="">
                         </div>
@@ -108,7 +108,7 @@
 
                     <div class="plato_item">
                         <div class="img_ctn">
-                            <img src=""
+                            <img src="./media/webp/png/comida/Barrita_De_Pan_Tostado.webp"
                                 onerror="this.onerror=null;this.src='./media/png/comida/Barrita_De_Pan_Tostado.png';"
                                 alt="">
                         </div>
@@ -124,7 +124,7 @@
 
                     <div class="plato_item">
                         <div class="img_ctn">
-                            <img src="./media/png/comida/Croissant_A_La_Plancha.png" onerror="this.onerror=null;this.src='';" alt="">
+                            <img src="./media/webp/png/comida/Croissant_A_La_Plancha.webp" onerror="this.onerror=null;this.src='./media/png/comida/Croissant_A_La_Plancha.png';" alt="">
                         </div>
                         <div class="txt_ctn">
                             <h2>Croissant a la plancha</h2>
@@ -138,7 +138,7 @@
 
                     <div class="plato_item">
                         <div class="img_ctn">
-                            <img src="./media/png/comida/Sandwich_Mixto.png" onerror="this.onerror=null;this.src='';" alt="">
+                            <img src="./media/webp/png/comida/Sandwich_Mixto.webp" onerror="this.onerror=null;this.src='./media/png/comida/Sandwich_Mixto.png';" alt="">
                         </div>
                         <div class="txt_ctn">
                             <h2>Sándwich mixto y café </h2>
@@ -153,8 +153,8 @@
 
                     <div class="plato_item">
                         <div class="img_ctn">
-                            <img src="./media/png/comida/Desayuno_Patata.png"
-                                onerror="this.onerror=null;this.src='';"
+                            <img src="./media/webp/png/comida/Desayuno_Patata.webp"
+                                onerror="this.onerror=null;this.src='./media/png/comida/Desayuno_Patata.png';"
                                 alt="">
                         </div>
                         <div class="txt_ctn">
@@ -207,7 +207,7 @@
 
                     <div class="plato_item">
                         <div class="img_ctn">
-                            <img src="./media/png/comida/Tortita_Pancakes.png" onerror="this.onerror=null;this.src='';" alt="">
+                            <img src="./media/webp/png/comida/Tortita_Pancakes.webp" onerror="this.onerror=null;this.src='./media/png/comida/Tortita_Pancakes.png';" alt="">
                         </div>
                         <div class="txt_ctn">
                             <h2>Tortitas pancakes</h2>
@@ -229,7 +229,7 @@
 
                     <div class="plato_item">
                         <div class="img_ctn">
-                            <img src=""
+                            <img src="./media/webp/png/comida/Desayuno_Ingles.webp"
                                 onerror="this.onerror=null;this.src='./media/png/comida/Desayuno_Ingles.png';" alt="">
 
                         </div>
@@ -327,7 +327,7 @@
 
                     <div class="plato_item">
                         <div class="img_ctn">
-                            <img src="./media/png/comida/Barrita_De_Pan_Multisemilla.png" onerror="this.onerror=null;this.src='';" alt="">
+                            <img src="./media/webp/png/comida/Barrita_De_Pan_Multisemilla.webp" onerror="this.onerror=null;this.src='./media/png/comida/Barrita_De_Pan_Multisemilla.png';" alt="">
                         </div>
                         <div class="txt_ctn">
                             <h2>Napolitana de cacao
@@ -343,7 +343,7 @@
 
                     <div class="plato_item">
                         <div class="img_ctn">
-                            <img src="./media/png/comida/Ensaimada.png" onerror="this.onerror=null;this.src='';" alt="">
+                            <img src="./media/webp/png/comida/Ensaimada.webp" onerror="this.onerror=null;this.src='./media/png/comida/Ensaimada.png';" alt="">
                         </div>
                         <div class="txt_ctn">
                             <h2>Ensaimada
@@ -359,7 +359,7 @@
 
                     <div class="plato_item">
                         <div class="img_ctn">
-                            <img src="./media/png/comida/Pan_Trensado.png" onerror="this.onerror=null;this.src='';" alt="">
+                            <img src="./media/webp/png/comida/Pan_Trensado.webp" onerror="this.onerror=null;this.src='./media/png/comida/Pan_Trensado.png';" alt="">
                         </div>
                         <div class="txt_ctn">
                             <h2>Trenza de manzana y crema
@@ -391,7 +391,7 @@
 
                     <div class="plato_item">
                         <div class="img_ctn">
-                            <img src="./media/png/comida/Gofre.png" onerror="this.onerror=null;this.src='';" alt="">
+                            <img src="./media/webp/png/comida/Gofre.webp" onerror="this.onerror=null;this.src='./media/png/comida/Gofre.png';" alt="">
                         </div>
                         <div class="txt_ctn">
                             <h2>Gofre
@@ -475,7 +475,7 @@
                     
                     <div class="img_ctn">
                         <img src="./media/webp/png/comida/Filete_De_Pollo_A_La_Plancha.webp"
-                            onerror="this.onerror=null;this.src='';"
+                            onerror="this.onerror=null;this.src='./media/png/comida/Filete_De_Pollo_A_La_Plancha.png';"
                             alt="">
 
                     </div>
@@ -537,7 +537,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/png/comida/Jamon_Con_Oregano.png" onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/comida/Jamon_Con_Oregano.webp" onerror="this.onerror=null;this.src='./media/png/comida/Jamon_Con_Oregano.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Jamón con orégano

@@ -28,7 +28,7 @@
                         <h2>Comidas</h2>
                     </div>
                     <div class="img_box">
-                        <img src="" onerror="this.onerror=null;this.src='./media/png/sandwich.png';" alt="breakfast">
+                        <img src="./media/webp/png/sandwich.webp" onerror="this.onerror=null;this.src='./media/png/sandwich.png';" alt="breakfast">
                     </div>
                 </a>
 
@@ -37,7 +37,7 @@
                         <h2>Bocadillos</h2>
                     </div>
                     <div class="img_box">
-                        <img src="" onerror="this.onerror=null;this.src='./media/png/ensalada.png';" alt="ensalada">
+                        <img src="./media/webp/png/ensalada.webp" onerror="this.onerror=null;this.src='./media/png/ensalada.png';" alt="ensalada">
                     </div>
                 </a>
 
@@ -46,7 +46,7 @@
                         <h2>Postres</h2>
                     </div>
                     <div class="img_box">
-                        <img class="helado_img" src="" onerror="this.onerror=null;this.src='./media/png/helado.png';"
+                        <img class="helado_img" src="./media/webp/png/helado.webp" onerror="this.onerror=null;this.src='./media/png/helado.png';"
                             alt="helado">
                     </div>
                 </a>
@@ -65,7 +65,7 @@
                         <h2>Refrescos</h2>
                     </div>
                     <div class="img_box">
-                        <img class="refrescos_img" src="" onerror="this.onerror=null;this.src='./media/png/refrescos.png';"
+                        <img class="refrescos_img" src="./media/webp/png/refrescos.webp" onerror="this.onerror=null;this.src='./media/png/refrescos.png';"
                             alt="refrescos">
                     </div>
                 </a>
@@ -75,7 +75,7 @@
                         <h2>Cafés</h2>
                     </div>
                     <div class="img_box">
-                        <img class="cafe_img" src="" onerror="this.onerror=null;this.src='./media/png/cafe.png';"
+                        <img class="cafe_img" src="./media/webp/png/cafe.webp" onerror="this.onerror=null;this.src='./media/png/cafe.png';"
                             alt="cafes">
                     </div>
                 </a>
@@ -85,7 +85,7 @@
                         <h2>Bebidas <br> Alcoholicas</h2>
                     </div>
                     <div class="img_box">
-                        <img class="alcoholicas_img" src="" onerror="this.onerror=null;this.src='./media/png/alcoholicas.png';"
+                        <img class="alcoholicas_img" src="./media/webp/png/alcoholicas.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas.png';"
                             alt="bebidas alcoholicas">
                     </div>
                 </a>

@@ -25,7 +25,7 @@
             <div class="platos_box">
 
                 <div class="title" id="postres">
-                    <h2>Smootties</h2>
+                    <h2>Smoothies</h2>
                 </div>
 
                 <div class="plato_item">

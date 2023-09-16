@@ -30,7 +30,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/png/cafe/Cafe_Con_Leche.png" onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/cafe/Cafe_Con_Leche.webp" onerror="this.onerror=null;this.src='./media/png/cafe/Cafe_Con_Leche.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Café con leche</h2>
@@ -102,7 +102,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/png/cafe/Cafe_Bombom.png" onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/cafe/Cafe_Bombom.webp" onerror="this.onerror=null;this.src='./media/png/cafe/Cafe_Bombom.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Café bombom</h2>

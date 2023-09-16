@@ -214,7 +214,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/png/bocadillos/Combo_Hamburguesa.png" onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/bocadillos/Combo_Hamburguesa.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/Combo_Hamburguesa.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Combo hamgurguesa</h2>
@@ -286,7 +286,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/png/bocadillos/Sandwich_Vegetal.png" onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/bocadillos/Sandwich_Vegetal.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/Sandwich_Vegetal.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Sándwich vegetal

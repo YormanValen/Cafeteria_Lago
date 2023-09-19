@@ -270,7 +270,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/bocadillos/Sandwich_Americano.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/Sandwich_Americano.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Sándwich americano
@@ -278,7 +278,7 @@
                         <p>(Jamón York , queso y huevo)</p>
 
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/bocadillos/Sandwich_Americano.png">ver</a>
                             <h3>€ 5.80</h3>
                         </div>
                     </div>
@@ -313,22 +313,6 @@
                         <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Pizza tropical
-                        </h2>
-                        <p> (tomate, mozzarela, jamón cocido y piña)</p>
-
-                        <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 9.95</h3>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
-                    </div>
-                    <div class="txt_ctn">
                         <h2>Pizza de pollo a la salsa barbacoa
                         </h2>
                         <p> (tomate, mozzarela, pollo y salsa bbq) </p>
@@ -342,7 +326,23 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/bocadillos/Hawaiana.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/Hawaiana.png';" alt="">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Hawaiana
+                        </h2>
+                        <p> descripción </p>
+
+                        <div class="precio_ctn">
+                            <a href="./media/png/bocadillos/Hawaiana.png">ver</a>
+                            <h3>€ 9.95</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="./media/webp/png/bocadillos/Prosciutto_E_Funghi.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/Prosciutto_E_Funghi.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Pizza prosciutto e funghi
@@ -350,7 +350,7 @@
                         <p>(tomate, mozzarela, jamón cocido y champiñones)</p>
 
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/bocadillos/Prosciutto_E_Funghi.png">ver</a>
                             <h3>€ 9.50</h3>
                         </div>
                     </div>
@@ -358,7 +358,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/bocadillos/5_Quesos.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/5_Quesos.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Pizza 5 quesos
@@ -366,7 +366,7 @@
                         <p> (tomate, queso, mozzarela, edam, azul, provolone y curado)</p>
 
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/bocadillos/5_Quesos.png">ver</a>
                             <h3>€ 11.50</h3>
                         </div>
                     </div>

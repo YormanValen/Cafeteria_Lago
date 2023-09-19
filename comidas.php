@@ -108,7 +108,7 @@
 
                     <div class="plato_item">
                         <div class="img_ctn">
-                            <img src="./media/webp/png/comida/Barrita_De_Pan_Tostado.webp"
+                            <img src="./media/webp/png/comida/Barrita_De_Pan_Tostado_Con_Tomate_y_Aceite.webp"
                                 onerror="this.onerror=null;this.src='./media/png/comida/Barrita_De_Pan_Tostado.png';"
                                 alt="">
                         </div>
@@ -177,13 +177,13 @@
 
                     <div class="plato_item">
                         <div class="img_ctn">
-                            <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                            <img src="./media/webp/png/comida/Barrita_De_Pan_Tostado_Huevos_Y_Cafe.webp" onerror="this.onerror=null;this.src='./media/png/comida/Barrita_De_Pan_Tostado_Huevos_Y_Cafe.png';" alt="">
                         </div>
                         <div class="txt_ctn">
                             <h2>Barrita de pan tostado, huevos a la plancha y café </h2>
                             <p></p>
                             <div class="precio_ctn">
-                                <a href="">ver</a>
+                                <a href="./media/png/comida/Barrita_De_Pan_Tostado_Huevos_Y_Cafe.png">ver</a>
                                 <h3>€ 6.50</h3>
                             </div>
                         </div>
@@ -221,8 +221,6 @@
                 </div>
 
                 <div class="desayunos_box">
-
-
                     <div class="title" id="ingles">
                         <h2>Inglés</h2>
                     </div>
@@ -255,7 +253,7 @@
 
                     <div class="plato_item">
                         <div class="img_ctn">
-                            <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                            <img src="./media/webp/png/comida/Desayuno_Ranchero.webp" onerror="this.onerror=null;this.src='./media/png/comida/Desayuno_Ranchero.png';" alt="">
                         </div>
                         <div class="txt_ctn">
                             <h2>Barrita de pan tostado
@@ -263,7 +261,7 @@
                             <p>huevos a la plancha, salchichas, bacon y café</p>
 
                             <div class="precio_ctn">
-                                <a href="">ver</a>
+                                <a href="./media/png/comida/Desayuno_Ranchero.png">ver</a>
                                 <h3>€ 6.50</h3>
                             </div>
                         </div>
@@ -271,7 +269,7 @@
 
                     <div class="plato_item">
                         <div class="img_ctn">
-                            <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                            <img src="./media/webp/png/comida/Zumo.webp" onerror="this.onerror=null;this.src='./media/png/comida/Zumo.png';" alt="">
                         </div>
                         <div class="txt_ctn">
                             <h2>Zumo de naranja natural
@@ -279,7 +277,7 @@
                             <p></p>
 
                             <div class="precio_ctn">
-                                <a href="">ver</a>
+                                <a href="./media/png/comida/Zumo.png">ver</a>
                                 <h3>€ 3.50</h3>
                             </div>
                         </div>
@@ -295,7 +293,7 @@
 
                     <div class="plato_item">
                         <div class="img_ctn">
-                            <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                            <img src="./media/webp/png/comida/Tostada_De_Pan_Bimbo.webp" onerror="this.onerror=null;this.src='./media/png/comida/Tostada_De_Pan_Bimbo.png';" alt="">
                         </div>
                         <div class="txt_ctn">
                             <h2>Tostada de pan Bimbo
@@ -303,7 +301,7 @@
                             <p></p>
 
                             <div class="precio_ctn">
-                                <a href="">ver</a>
+                                <a href="./media/png/comida/Tostada_De_Pan_Bimbo.png">ver</a>
                                 <h3>€ 1.50</h3>
                             </div>
                         </div>
@@ -311,7 +309,7 @@
 
                     <div class="plato_item">
                         <div class="img_ctn">
-                            <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                            <img src="./media/webp/png/comida/Croissant.webp" onerror="this.onerror=null;this.src='./media/png/comida/Croissant.png';" alt="">
                         </div>
                         <div class="txt_ctn">
                             <h2>Croissant
@@ -319,7 +317,7 @@
                             <p></p>
 
                             <div class="precio_ctn">
-                                <a href="">ver</a>
+                                <a href="./media/png/comida/Croissant.png">ver</a>
                                 <h3>€ 1.80</h3>
                             </div>
                         </div>
@@ -327,7 +325,7 @@
 
                     <div class="plato_item">
                         <div class="img_ctn">
-                            <img src="./media/webp/png/comida/Barrita_De_Pan_Multisemilla.webp" onerror="this.onerror=null;this.src='./media/png/comida/Barrita_De_Pan_Multisemilla.png';" alt="">
+                            <img src="./media/webp/png/comida/Napolitana_De_Cacao.webp" onerror="this.onerror=null;this.src='./media/png/comida/Napolitana_De_Cacao.png';" alt="">
                         </div>
                         <div class="txt_ctn">
                             <h2>Napolitana de cacao
@@ -335,7 +333,7 @@
                             <p></p>
 
                             <div class="precio_ctn">
-                                <a href="./media/png/comida/Barrita_De_Pan_Multisemilla.png">ver</a>
+                                <a href="./media/png/comida/Napolitana_De_Cacao.png">ver</a>
                                 <h3>€ 1.80</h3>
                             </div>
                         </div>
@@ -375,7 +373,7 @@
 
                     <div class="plato_item">
                         <div class="img_ctn">
-                            <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                            <img src="./media/webp/png/comida/Pan_Trenzado_Cacao.webp" onerror="this.onerror=null;this.src='./media/png/comida/Pan_Trenzado_Cacao.png';" alt="">
                         </div>
                         <div class="txt_ctn">
                             <h2>Maple pecan
@@ -383,7 +381,7 @@
                             <p></p>
 
                             <div class="precio_ctn">
-                                <a href="">ver</a>
+                                <a href="./media/png/comida/Pan_Trenzado_Cacao.png">ver</a>
                                 <h3>€ 2.20</h3>
                             </div>
                         </div>
@@ -553,7 +551,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/comida/Alitas_A_La_bbq.webp" onerror="this.onerror=null;this.src='./media/png/comida/Alitas_A_La_bbq.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Alitas fritas a la barbacoa
@@ -561,7 +559,7 @@
                         <p></p>
 
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/comida/Alitas_A_La_bbq.png">ver</a>
                             <h3>€ 6.50</h3>
                         </div>
                     </div>
@@ -569,7 +567,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/comida/Patatas_Bravas.webp" onerror="this.onerror=null;this.src='./media/png/comida/Patatas_Bravas.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Patatas bravas
@@ -577,7 +575,7 @@
                         <p></p>
 
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/comida/Patatas_Bravas.png">ver</a>
                             <h3>€ 7.60</h3>
                         </div>
                     </div>
@@ -585,7 +583,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/comida/Patatas_Alioli.webp" onerror="this.onerror=null;this.src='./media/png/comida/Patatas_Alioli.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Patatas ali-oli
@@ -593,7 +591,7 @@
                         <p></p>
 
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/comida/Patatas_Alioli.png">ver</a>
                             <h3>€ 7.60</h3>
                         </div>
                     </div>
@@ -640,7 +638,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/comida/Huevos_Rotos.webp" onerror="this.onerror=null;this.src='./media/png/comida/Huevos_Rotos.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Huevos rotos con jamón
@@ -648,7 +646,7 @@
                         <p></p>
 
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/comida/Huevos_Rotos.png">ver</a>
                             <h3>€ 8.80</h3>
                         </div>
                     </div>

@@ -87,14 +87,14 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/alcoholicas/UN_Roble.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/UN_Roble.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>UN Roble botella</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/alcoholicas/UN_Roble.png">ver</a>
                             <h3>€ 16.00</h3>
                         </div>
                     </div>
@@ -118,14 +118,14 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/alcoholicas/UN_Crianza.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/UN_Crianza.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>UN Crianza botella</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/alcoholicas/UN_Crianza.png">ver</a>
                             <h3>€ 18.00</h3>
                         </div>
                     </div>
@@ -195,14 +195,14 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/alcoholicas/Contado_De_Artola.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Contado_De_Artola.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Condado de Artola crianza botella</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/alcoholicas/Contado_De_Artola.png">ver</a>
                             <h3>€ 12.00</h3>
                         </div>
                     </div>
@@ -234,14 +234,14 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/alcoholicas/Ramon_Bilbao.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Ramon_Bilbao.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Ramón Bilbao botella</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/alcoholicas/Ramon_Bilbao.png">ver</a>
                             <h3>€ 18.00</h3>
                         </div>
                     </div>
@@ -257,14 +257,13 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/alcoholicas/Camino_DO_Rey.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/Camino_DO_Rey.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Camino Do Rey copa</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/alcoholicas/Camino_DO_Rey.png">ver</a>
                             <h3>€ 4.10</h3>
                         </div>
                     </div>
@@ -311,14 +310,14 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/alcoholicas/Canto_Real.webp"
+                            onerror="this.onerror=null;this.src='';" alt="./media/png/alcoholicas/Canto_Real.png">
                     </div>
                     <div class="txt_ctn">
                         <h2>Rueda Canto Real botella</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/alcoholicas/Canto_Real.png">ver</a>
                             <h3>€ 12.00</h3>
                         </div>
                     </div>

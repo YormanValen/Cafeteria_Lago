@@ -31,57 +31,19 @@
                 <div class="plato_item">
                     <div class="img_ctn">
 
-                        <img src="./media/webp/png/smoothies/Smoothie_Piña_Colada.webp"
-                            onerror="this.onerror=null;this.src='./media/png/smoothies/Smoothie_Piña_Colada.png';"
-                            alt="">
+                        <img src="./media/webp/png/smoothies/Smoothie_Tropical.webp"
+                            onerror="this.onerror=null;this.src='./media/png/smoothies/Smoothi_verde.png';" alt="">
 
                     </div>
                     <div class="txt_ctn">
-                        <h2>Piña colada</h2>
-                        <p>(piña-coco)</p>
+                        <h2>Tropic mix</h2>
+                        <p>( Tropic mix )</p>
                         <div class="precio_ctn">
-                            <a href="./media/png/smoothies/Smoothie_Piña_Colada.png">ver</a>
+                            <a href="./media/png/smoothies/Smoothi_verde.png">ver</a>
                             <h3>€ 4.90</h3>
                         </div>
                     </div>
                 </div>
-
-
-                <div class="plato_item">
-                    <div class="img_ctn">
-
-                        <img src="./media/webp/png/smoothies/Mango_Fresh.webp"
-                            onerror="this.onerror=null;this.src='./media/png/smoothies/Mango_Fresh.png';" alt="">
-
-                    </div>
-                    <div class="txt_ctn">
-                        <h2>Mango fresh</h2>
-                        <p>(mango pera)</p>
-                        <div class="precio_ctn">
-                            <a href="./media/png/smoothies/Mango_Fresh.png">ver</a>
-                            <h3>€ 4.90</h3>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="plato_item">
-                    <div class="img_ctn">
-
-                        <img src="./media/webp/png/smoothies/Smoothi_Natural_Verde.webp"
-                            onerror="this.onerror=null;this.src='./media/png/smoothies/Smoothi_Natural_Verde.png';"
-                            alt="">
-
-                    </div>
-                    <div class="txt_ctn">
-                        <h2>Natural green</h2>
-                        <p>( brócoli, espinaca, apio, plátano,piña, mango)</p>
-                        <div class="precio_ctn">
-                            <a href="./media/png/smoothies/Smoothi_Natural_Verde.png">ver</a>
-                            <h3>€ 4.90</h3>
-                        </div>
-                    </div>
-                </div>
-
 
                 <div class="plato_item">
                     <div class="img_ctn">
@@ -93,7 +55,7 @@
                     </div>
                     <div class="txt_ctn">
                         <h2>Red banana</h2>
-                        <p>( fresa-plátano)</p>
+                        <p>( Red banana )</p>
                         <div class="precio_ctn">
                             <a href="./media/png/smoothies/Smoothie_Banana_Red.png">ver</a>
                             <h3>€ 4.90</h3>
@@ -109,7 +71,7 @@
                     </div>
                     <div class="txt_ctn">
                         <h2>Peach paradise</h2>
-                        <p>( Melocotón, papaya y fresa)</p>
+                        <p>( Peach paradise )</p>
                         <div class="precio_ctn">
                             <a href="./media/png/smoothies/Peach_Paradise.png">ver</a>
                             <h3>€ 4.90</h3>
@@ -120,15 +82,16 @@
                 <div class="plato_item">
                     <div class="img_ctn">
 
-                        <img src="./media/webp/png/smoothies/Smoothie_Tropical.webp"
-                            onerror="this.onerror=null;this.src='./media/png/smoothies/Smoothie_Tropical.png';" alt="">
+                        <img src="./media/webp/png/smoothies/Smoothie_Piña_Colada.webp"
+                            onerror="this.onerror=null;this.src='./media/png/smoothies/Smoothie_Piña_Colada.png';"
+                            alt="">
 
                     </div>
                     <div class="txt_ctn">
-                        <h2>Tropic mix</h2>
-                        <p>( piña, papaya, mango)</p>
+                        <h2>Piña colada</h2>
+                        <p>(piña-coco)</p>
                         <div class="precio_ctn">
-                            <a href="./media/png/smoothies/Smoothie_Tropical.png">ver</a>
+                            <a href="./media/png/smoothies/Smoothie_Piña_Colada.png">ver</a>
                             <h3>€ 4.90</h3>
                         </div>
                     </div>
@@ -137,15 +100,33 @@
                 <div class="plato_item">
                     <div class="img_ctn">
 
-                        <img src="./media/webp/png/smoothies/Smoothie_Tropical.webp"
-                            onerror="this.onerror=null;this.src='./media/png/smoothies/Smoothi_verde.png';" alt="">
+                        <img src="./media/webp/png/smoothies/Smoothi_Natural_Verde.webp"
+                            onerror="this.onerror=null;this.src='./media/png/smoothies/Smoothi_Natural_Verde.png';"
+                            alt="">
 
                     </div>
                     <div class="txt_ctn">
-                        <h2>Tropic mix</h2>
-                        <p>( piña, papaya, mango)</p>
+                        <h2>Natural green</h2>
+                        <p>( Descripción )</p>
                         <div class="precio_ctn">
-                            <a href="./media/png/smoothies/Smoothi_verde.png">ver</a>
+                            <a href="./media/png/smoothies/Smoothi_Natural_Verde.png">ver</a>
+                            <h3>€ 4.90</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+
+                        <img src="./media/webp/png/smoothies/Mango_Fresh.webp"
+                            onerror="this.onerror=null;this.src='./media/png/smoothies/Mango_Fresh.png';" alt="">
+
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Mango fresh</h2>
+                        <p>Mango fresh</p>
+                        <div class="precio_ctn">
+                            <a href="./media/png/smoothies/Mango_Fresh.png">ver</a>
                             <h3>€ 4.90</h3>
                         </div>
                     </div>

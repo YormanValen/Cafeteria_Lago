@@ -142,14 +142,14 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
-                    </div>
+                            <img src="./media/webp/png/postres/Maxibon.webp" onerror="this.onerror=null;this.src='./media/png/postres/Maxibon.png';" alt="">
+                        </div>
                     <div class="txt_ctn">
                         <h2>Maxibon clásica </h2>
                         <p>
                         </p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/postres/Maxibon.png">ver</a>
                             <h3>€ 2.80</h3>
                         </div>
                     </div>
@@ -157,13 +157,13 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/webp/png/postres/Oreo.webp" onerror="this.onerror=null;this.src='./media/png/postres/Oreo.png';" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Oreo cono</h2>
+                        <h2>Oreo</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/postres/Oreo.png">ver</a>
                             <h3>€ 2.80</h3>
                         </div>
                     </div>
@@ -171,13 +171,13 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/webp/png/postres/Milko.webp" onerror="this.onerror=null;this.src='./media/png/postres/Milko.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Milk cono</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/postres/Milko.png">ver</a>
                             <h3>€ 2.80</h3>
                         </div>
                     </div>
@@ -185,7 +185,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/webp/png/postres/Pirulo.webp" onerror="this.onerror=null;this.src='./media/png/postres/Pirulo.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Pirulo</h2>
@@ -198,14 +198,14 @@
                 </div>
 
                 <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" alt="">
+                <div class="img_ctn">
+                        <img src="./media/webp/png/postres/Extreme.webp" onerror="this.onerror=null;this.src='./media/png/postres/Extreme.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Kaktus</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/postres/Extreme.png">ver</a>
                             <h3>€ 1.70</h3>
                         </div>
                     </div>

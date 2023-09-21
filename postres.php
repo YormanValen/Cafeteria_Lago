@@ -142,8 +142,8 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                            <img src="./media/webp/png/postres/Maxibon.webp" onerror="this.onerror=null;this.src='./media/png/postres/Maxibon.png';" alt="">
-                        </div>
+                        <img src="./media/webp/png/postres/Maxibon.webp" onerror="this.onerror=null;this.src='./media/png/postres/Maxibon.png';" alt="">
+                    </div>
                     <div class="txt_ctn">
                         <h2>Maxibon clásica </h2>
                         <p>
@@ -198,7 +198,7 @@
                 </div>
 
                 <div class="plato_item">
-                <div class="img_ctn">
+                    <div class="img_ctn">
                         <img src="./media/webp/png/postres/Extreme.webp" onerror="this.onerror=null;this.src='./media/png/postres/Extreme.png';" alt="">
                     </div>
                     <div class="txt_ctn">
@@ -227,14 +227,12 @@
         </div>
     </div>
 
-    <script src="https://code.jquery.com/jquery-3.6.4.js"
-        integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.4.js" integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
 
 
     <script>
-
         const swiper = new Swiper('.swiper', {
             direction: 'horizontal',
             loop: true,
@@ -291,9 +289,6 @@
                 closeModal();
             }
         });
-
-
-
     </script>
 
 </body>

@@ -1,5 +1,5 @@
 .menu_section {
-  background-image: url("/media/png/sun_tornado.png");
+  background-image: url("../media/webp/png/sun_tornado.webp");
   position: relative;
 }
 
@@ -11,7 +11,7 @@
 
 .menu_section .menu_items .menu_item {
   display: flex;
- background-image: url('../media/png/textura.jpg');
+ background-image: url('../media/webp/png/textura.webp');
   padding: 5vw;
   background-size: cover;
   justify-content: flex-start;

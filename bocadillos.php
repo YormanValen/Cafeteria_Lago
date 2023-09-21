@@ -67,37 +67,6 @@
                     </div>
                 </div>
 
-
-
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
-                    </div>
-                    <div class="txt_ctn">
-                        <h2>Bocadillo de tortilla</h2>
-                        <p>con Jamón york</p>
-                        <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 5.50</h3>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
-                    </div>
-                    <div class="txt_ctn">
-                        <h2>Bocadillo de tortilla española </h2>
-                        <p>con mayonesa</p>
-                        <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 6.80</h3>
-                        </div>
-                    </div>
-                </div>
-
-
                 <div class="plato_item">
                     <div class="img_ctn">
                         <img src="" onerror="this.onerror=null;this.src='';" alt="">
@@ -112,19 +81,6 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
-                    </div>
-                    <div class="txt_ctn">
-                        <h2>Bocadillo de calamares </h2>
-                        <p></p>
-                        <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 6.20</h3>
-                        </div>
-                    </div>
-                </div>
 
                 <div class="plato_item">
                     <div class="img_ctn">
@@ -182,8 +138,7 @@
                     <h2>Hamburguesa</h2>
                 </div>
 
-                
-
+            
                 <div class="plato_item">
                     <div class="img_ctn">
                         <img src="" onerror="this.onerror=null;this.src='';" alt="">
@@ -198,20 +153,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
-                    </div>
-                    <div class="txt_ctn">
-                        <h2>Hamburguesa de ternera</h2>
-                        <p></p>
-                        <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 7.50</h3>
-                        </div>
-                    </div>
-                </div>
-
+                
                 <div class="plato_item">
                     <div class="img_ctn">
                         <img src="./media/webp/png/bocadillos/Combo_Hamburguesa.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/Combo_Hamburguesa.png';" alt="">
@@ -286,7 +228,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/bocadillos/Sandwich_Vegetal.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/Sandwich_Vegetal.png';" alt="">
+                        <img src="./media/webp/png/bocadillos/Sandwich_Vegetal_1.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/Sandwich_Vegetal_1.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Sándwich vegetal
@@ -294,7 +236,7 @@
                         <p>(lechuga , tomate, espárragos blanco, huevo cocido y mayonesa)</p>
 
                         <div class="precio_ctn">
-                            <a href="./media/png/bocadillos/Sandwich_Vegetal.png">ver</a>
+                            <a href="./media/png/bocadillos/Sandwich_Vegetal_1.png">ver</a>
                             <h3>€ 6.80</h3>
                         </div>
                     </div>
@@ -309,8 +251,8 @@
                 </div>
 
                 <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                <div class="img_ctn">
+                        <img src="./media/webp/png/bocadillos/Pizza_Pollo_Champiñones.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/Pizza_Pollo_Champiñones.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Pizza de pollo a la salsa barbacoa
@@ -318,7 +260,7 @@
                         <p> (tomate, mozzarela, pollo y salsa bbq) </p>
 
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/bocadillos/Pizza_Pollo_Champiñones.png">ver</a>
                             <h3>€ 9.95</h3>
                         </div>
                     </div>

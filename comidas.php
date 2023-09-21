@@ -429,8 +429,10 @@
                 </div>
 
                 <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                <div class="img_ctn">
+                        <img src="./media/webp/png/comida/Sopa_De_Calabacin.webp"
+                            onerror="this.onerror=null;this.src='./media/png/comida/Sopa_De_Calabacin.png';" alt="">
+
                     </div>
                     <div class="txt_ctn">
                         <h2>Crema de calabacín
@@ -438,7 +440,7 @@
                         <p></p>
 
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/comida/Sopa_De_Calabacin.png">ver</a>
                             <h3>€ 6.10</h3>
                         </div>
                     </div>

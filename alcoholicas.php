@@ -87,8 +87,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/UN_Roble.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/UN_Roble.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/UN_Roble.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/UN_Roble.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>UN Roble botella</h2>
@@ -446,14 +445,14 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/alcoholicas/Maho_Rose.webp"
+                            onerror="this.onerror=null;this.src='';" alt="./media/png/alcoholicas/Maho_Rose.png">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Tercio maho</h2>
+                        <h2>Mahou Rose</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/alcoholicas/Mixta.png">ver</a>
                             <h3>€ 3.50</h3>
                         </div>
                     </div>
@@ -462,14 +461,14 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/alcoholicas/Mixta.webp"
+                            onerror="this.onerror=null;this.src='';" alt="./media/png/alcoholicas/Mixta.png">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Tercio mixta</h2>
+                        <h2>Mahou mixta</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/alcoholicas/Mixta.png">ver</a>
                             <h3>€ 3.50</h3>
                         </div>
                     </div>
@@ -477,14 +476,14 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/alcoholicas/Maho_Radler.webp"
+                            onerror="this.onerror=null;this.src='';" alt="./media/png/alcoholicas/Maho_Radler.png">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Tercio radler</h2>
+                        <h2>Mahou radler</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/alcoholicas/Maho_Radler.png">ver</a>
                             <h3>€ 3.50</h3>
                         </div>
                     </div>
@@ -492,14 +491,59 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/alcoholicas/Brutus.webp"
+                            onerror="this.onerror=null;this.src='';" alt="./media/png/alcoholicas/Brutus.png">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Botellín mahou</h2>
+                        <h2>Mahou brutus</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/alcoholicas/Brutus.png">ver</a>
+                            <h3>€ 3.50</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/Maho_Clasica.webp"
+                            onerror="this.onerror=null;this.src='';" alt="./media/png/alcoholicas/Maho_Clasica.png">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Mahou clasica</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="./media/png/alcoholicas/Maho_Clasica.png">ver</a>
+                            <h3>€ 3.50</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/Maho_5_Estrellas.webp"
+                            onerror="this.onerror=null;this.src='';" alt="./media/png/alcoholicas/Maho_5_Estrellas.png">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Mahu 5 estrellas</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="./media/png/alcoholicas/Maho_5_Estrellas.png">ver</a>
+                            <h3>€ 3.50</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/Maho_Sin.webp"
+                            onerror="this.onerror=null;this.src='';" alt="./media/png/alcoholicas/Maho_Sin.png">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Mahou sin filtrar</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="./media/png/alcoholicas/Maho_Sin.png">ver</a>
                             <h3>€ 2.50</h3>
                         </div>
                     </div>
@@ -507,40 +551,54 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/alcoholicas/Maho_Sin_Filtrar.webp"
+                            onerror="this.onerror=null;this.src='';" alt="./media/png/alcoholicas/Maho_Sin_Filtrar.png">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Botellin sin alcohol</h2>
+                        <h2>Mahou sin alcohol</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/alcoholicas/Maho_Sin_Filtrar.png">ver</a>
                             <h3>€ 2.50</h3>
                         </div>
                     </div>
                 </div>
-
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
-                    </div>
-                    <div class="txt_ctn">
-                        <h2>Lata de cerveza</h2>
-                        <p></p>
-                        <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 1.50</h3>
-                        </div>
-                    </div>
-                </div>
-
             </div>
 
             <div class="platos_box">
 
                 <div class="title_principal" id="wisky">
                     <h1>Combinados de whisky</h1>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/Martini_Bianco.webp"
+                            onerror="this.onerror=null;this.src='';" alt="./media/png/alcoholicas/Martini_Bianco.png">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Martini bianco</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="./media/png/alcoholicas/Martini_Bianco.png">ver</a>
+                            <h3>€ ...</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/Martini_Rosso.webp"
+                            onerror="this.onerror=null;this.src='';" alt="./media/png/alcoholicas/Martini_Rosso.png">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Martini rosso</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="./media/png/alcoholicas/Martini_Rosso.png">ver</a>
+                            <h3>€ ...</h3>
+                        </div>
+                    </div>
                 </div>
 
                 <div class="plato_item">

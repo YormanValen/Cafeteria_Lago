@@ -56,6 +56,33 @@
                     </div>
                 </div>
 
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Café Americano</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="./media/png/cafe/Cafe_Con_Leche.png">ver</a>
+                            <h3>€ 2.20</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Café con hielo</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="./media/png/cafe/Cafe_Con_Leche.png">ver</a>
+                            <h3>€ 2.20</h3>
+                        </div>
+                    </div>
+                </div>
 
                 <div class="plato_item">
                     <div class="img_ctn">

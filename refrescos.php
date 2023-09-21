@@ -29,14 +29,15 @@
                 </div>
 
                 <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" alt="">
+                <div class="img_ctn">
+                        <img src="./media/webp/png/refrescos/Agua_Solan_Cabras.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Agua_Solan_Cabras.png';" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Agua solan de cabras (pequeña) </h2>
-                        <p></p>
+                        <h2>Agua solan de cabras (grande) </h2>
+                        <p>pequeña 1.50 </p>
+                        <p>Grande 2.50</p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/refrescos/Agua_Solan_Cabras.png">ver</a>
                             <h3>€ 1.50</h3>
                         </div>
                     </div>
@@ -44,14 +45,14 @@
 
 
                 <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" alt="">
+                <div class="img_ctn">
+                        <img src="./media/webp/png/refrescos/Agua_Solan_Cabras.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Agua_Solan_Cabras.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Agua solan de cabras (grande) </h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/refrescos/Agua_Solan_Cabras.png">ver</a>
                             <h3>€ 2.50</h3>
                         </div>
                     </div>
@@ -59,13 +60,13 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/webp/png/refrescos/Agua_Bona.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Agua_Bona.png';" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Aquabona (pequeña) </h2>
+                        <h2>AquaBona (pequeña) </h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/refrescos/Agua_Bona.png">ver</a>
                             <h3>€ 1.20</h3>
                         </div>
                     </div>
@@ -74,13 +75,13 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/webp/png/refrescos/Agua_Bona.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Agua_Bona.png';" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Aquabona (grande)  </h2>
+                        <h2>AquaBona (grande)  </h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/refrescos/Agua_Bona.png">ver</a>
                             <h3>€ 1.80</h3>
                         </div>
                     </div>
@@ -88,13 +89,13 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/webp/png/refrescos/Vichy_Catalan.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Vichy_Catalan.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Agua con gas Vicky catalan (grande) </h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/refrescos/Vichy_Catalan.png">ver</a>
                             <h3>€ 2.90</h3>
                         </div>
                     </div>
@@ -102,13 +103,13 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/webp/png/refrescos/Vichy_Catalan.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Vichy_Catalan.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Agua con gas VICHY CATALÁN (pequeña)</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/refrescos/Vichy_Catalan.png">ver</a>
                             <h3>€ 2.20</h3>
                         </div>
                     </div>
@@ -116,27 +117,27 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/webp/png/refrescos/CocaCola.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/CocaCola.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Coca-cola original</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/refrescos/CocaCola.png">ver</a>
                             <h3>€ 3.50</h3>
                         </div>
                     </div>
                 </div>
-
+                
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/webp/png/refrescos/CocaCola_Sin_Azucar.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/CocaCocaCola_Sin_AzucarCola.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Coca-cola light</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/refrescos/CocaCocaCola_Sin_AzucarCola.png">ver</a>
                             <h3>€ 3.50</h3>
                         </div>
                     </div>
@@ -158,13 +159,13 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/webp/png/refrescos/Nestea.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Nestea.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Nestea</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/refrescos/Nestea.png">ver</a>
                             <h3>€ 3.50</h3>
                         </div>
                     </div>
@@ -186,13 +187,13 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/webp/png/refrescos/Aquarius.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Aquarius.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Aquarius de naranja</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/refrescos/Aquarius.png">ver</a>
                             <h3>€ 3.50</h3>
                         </div>
                     </div>
@@ -200,14 +201,28 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/webp/png/refrescos/Fanta.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Fanta.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Fanta de naranja</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/refrescos/Fanta.png">ver</a>
                             <h3>€ 3.50</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="./media/webp/png/refrescos/Sprite.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Sprite.png';" alt="">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Sprite</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="./media/png/refrescos/Sprite.png">ver</a>
+                            <h3>€ ....</h3>
                         </div>
                     </div>
                 </div>
@@ -270,14 +285,28 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/webp/png/refrescos/Royal_Blis.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Royal_Blis.png';" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Zumo de piña</h2>
+                        <h2>Tonica</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 2.50</h3>
+                            <a href="./media/png/refrescos/Royal_Blis.png">ver</a>
+                            <h3>€ ....</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="./media/webp/png/refrescos/Minute_Maid.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Minute_Maid.png';" alt="">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Zumo de naranja</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="./media/png/refrescos/Minute_Maid.png">ver</a>
+                            <h3>€ ....</h3>
                         </div>
                     </div>
                 </div>

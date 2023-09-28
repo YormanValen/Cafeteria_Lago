@@ -690,8 +690,8 @@
                 </div>
 
                 <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                <div class="img_ctn">
+                        <img src="./media/webp/png/comida/Sepia.webp" onerror="this.onerror=null;this.src='./media/png/comida/Sepia.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Sepia a la plancha
@@ -699,7 +699,7 @@
                         <p></p>
 
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/comida/Sepia.png">ver</a>
                             <h3>€ 12.50</h3>
                         </div>
                     </div>

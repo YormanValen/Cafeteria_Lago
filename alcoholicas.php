@@ -376,61 +376,61 @@
 
 
                 <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/Ruavieja.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Ruavieja.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Orujo hiervas</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 3.50</h3>
+                            <a href="./media/png/alcoholicas/Ruavieja.png">ver</a>
+                            <h3>€ ...</h3>
                         </div>
                     </div>
                 </div>
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/alcoholicas/Ruavieja_Crema.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Ruavieja_Crema.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Crema de orujo</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 3.50</h3>
+                            <a href="./media/png/alcoholicas/Ruavieja_Crema.png">ver</a>
+                            <h3>€ ...</h3>
                         </div>
                     </div>
                 </div>
 
                 <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/Zoco.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Zoco.png';" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Pactaron</h2>
+                        <h2>Pacharan</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 3.50</h3>
+                            <a href="./media/png/alcoholicas/Zoco.png">ver</a>
+                            <h3>€ ...</h3>
                         </div>
                     </div>
                 </div>
 
                 <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/Baileys.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Baileys.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Baileys</h2>
-                        <p></p>
+                        <p>The original</p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 4.50</h3>
+                            <a href="./media/png/alcoholicas/Baileys.png">ver</a>
+                            <h3>€ ...</h3>
                         </div>
                     </div>
                 </div>
@@ -446,7 +446,7 @@
                 <div class="plato_item">
                     <div class="img_ctn">
                         <img src="./media/webp/png/alcoholicas/Maho_Rose.webp"
-                            onerror="this.onerror=null;this.src='';" alt="./media/png/alcoholicas/Maho_Rose.png">
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Maho_Rose.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Mahou Rose</h2>
@@ -462,7 +462,7 @@
                 <div class="plato_item">
                     <div class="img_ctn">
                         <img src="./media/webp/png/alcoholicas/Mixta.webp"
-                            onerror="this.onerror=null;this.src='';" alt="./media/png/alcoholicas/Mixta.png">
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Mixta.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Mahou mixta</h2>
@@ -477,7 +477,7 @@
                 <div class="plato_item">
                     <div class="img_ctn">
                         <img src="./media/webp/png/alcoholicas/Maho_Radler.webp"
-                            onerror="this.onerror=null;this.src='';" alt="./media/png/alcoholicas/Maho_Radler.png">
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Maho_Radler.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Mahou radler</h2>
@@ -492,7 +492,7 @@
                 <div class="plato_item">
                     <div class="img_ctn">
                         <img src="./media/webp/png/alcoholicas/Brutus.webp"
-                            onerror="this.onerror=null;this.src='';" alt="./media/png/alcoholicas/Brutus.png">
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Brutus.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Mahou brutus</h2>
@@ -507,7 +507,7 @@
                 <div class="plato_item">
                     <div class="img_ctn">
                         <img src="./media/webp/png/alcoholicas/Maho_Clasica.webp"
-                            onerror="this.onerror=null;this.src='';" alt="./media/png/alcoholicas/Maho_Clasica.png">
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Maho_Clasica.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Mahou clasica</h2>
@@ -522,7 +522,7 @@
                 <div class="plato_item">
                     <div class="img_ctn">
                         <img src="./media/webp/png/alcoholicas/Maho_5_Estrellas.webp"
-                            onerror="this.onerror=null;this.src='';" alt="./media/png/alcoholicas/Maho_5_Estrellas.png">
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Maho_5_Estrellas.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Mahu 5 estrellas</h2>
@@ -537,7 +537,7 @@
                 <div class="plato_item">
                 <div class="img_ctn">
                         <img src="./media/webp/png/alcoholicas/Maho_Sin.webp"
-                            onerror="this.onerror=null;this.src='';" alt="./media/png/alcoholicas/Maho_Sin.png">
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Maho_Sin.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Mahou sin filtrar</h2>
@@ -552,7 +552,7 @@
                 <div class="plato_item">
                     <div class="img_ctn">
                         <img src="./media/webp/png/alcoholicas/Maho_Sin_Filtrar.webp"
-                            onerror="this.onerror=null;this.src='';" alt="./media/png/alcoholicas/Maho_Sin_Filtrar.png">
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Maho_Sin_Filtrar.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Mahou sin alcohol</h2>
@@ -573,8 +573,38 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/cardhu.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/cardhu.png';" alt="">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Cardhu</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="./media/png/alcoholicas/cardhu.png">ver</a>
+                            <h3>€ ...</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/Baileys.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Baileys.png';" alt="">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Baileys</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="./media/png/alcoholicas/Baileys.png">ver</a>
+                            <h3>€ ...</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
                         <img src="./media/webp/png/alcoholicas/Martini_Bianco.webp"
-                            onerror="this.onerror=null;this.src='';" alt="./media/png/alcoholicas/Martini_Bianco.png">
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Martini_Bianco.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Martini bianco</h2>
@@ -589,7 +619,7 @@
                 <div class="plato_item">
                     <div class="img_ctn">
                         <img src="./media/webp/png/alcoholicas/Martini_Rosso.webp"
-                            onerror="this.onerror=null;this.src='';" alt="./media/png/alcoholicas/Martini_Rosso.png">
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Martini_Rosso.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Martini rosso</h2>
@@ -603,15 +633,30 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/alcoholicas/White_Label.webp"
+                            onerror="this.onerror=null;this.src='';" alt="./media/png/alcoholicas/White_Label.png">
                     </div>
                     <div class="txt_ctn">
                         <h2>White label</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 7.50</h3>
+                            <a href="./media/png/alcoholicas/White_Label.png">ver</a>
+                            <h3>€ ...</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/Black_Label.webp"
+                            onerror="this.onerror=null;this.src='';" alt="./media/png/alcoholicas/Black_Label.png">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Black label</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="./media/png/alcoholicas/Black_Label.png">ver</a>
+                            <h3>€ ...</h3>
                         </div>
                     </div>
                 </div>
@@ -627,37 +672,37 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 7.50</h3>
+                            <h3>€ ...</h3>
                         </div>
                     </div>
                 </div>
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/alcoholicas/j_y_b.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/j_y_b.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>J & B</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 7.50</h3>
+                            <a href="./media/png/alcoholicas/j_y_b.png">ver</a>
+                            <h3>€ ...</h3>
                         </div>
                     </div>
                 </div>
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/alcoholicas/jack_daniels.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/jack_daniels.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Jack Daniel's</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 8.50</h3>
+                            <a href="./media/png/alcoholicas/jack_daniels.png">ver</a>
+                            <h3>€ ...</h3>
                         </div>
                     </div>
                 </div>
@@ -672,37 +717,37 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 8.50</h3>
+                            <h3>€ ...</h3>
                         </div>
                     </div>
                 </div>
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/alcoholicas/cardhu.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/cardhu.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Cardhu</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 8.50</h3>
+                            <a href="./media/png/alcoholicas/cardhu.png">ver</a>
+                            <h3>€ ...</h3>
                         </div>
                     </div>
                 </div>
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/alcoholicas/chivas.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/chivas.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Chivas</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 8.50</h3>
+                            <a href="./media/png/alcoholicas/chivas.png">ver</a>
+                            <h3>€ ...</h3>
                         </div>
                     </div>
                 </div>
@@ -717,7 +762,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 10.50</h3>
+                            <h3>€ ...</h3>
                         </div>
                     </div>
                 </div>
@@ -731,16 +776,16 @@
                 </div>
 
                 <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/veterano.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/veterano.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Veterano copa combi</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 6.50</h3>
+                            <a href="./media/png/alcoholicas/veterano.png">ver</a>
+                            <h3>€ ...</h3>
                         </div>
                     </div>
                 </div>
@@ -748,60 +793,60 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/alcoholicas/soberano.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/soberano.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Soberano </h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 6.50</h3>
+                            <a href="./media/png/alcoholicas/soberano.png">ver</a>
+                            <h3>€ ...</h3>
                         </div>
                     </div>
                 </div>
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/alcoholicas/magno.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/magno.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Magno</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 6.50</h3>
+                            <a href="./media/png/alcoholicas/magno.png">ver</a>
+                            <h3>€ ...</h3>
                         </div>
                     </div>
                 </div>
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/alcoholicas/torres_5.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/torres_5.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Torres 5</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 7.50</h3>
+                            <a href="./media/png/alcoholicas/torres_5.png">ver</a>
+                            <h3>€ ...</h3>
                         </div>
                     </div>
                 </div>
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/alcoholicas/torres_10.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/torres_10.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Torres 10</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 8.50</h3>
+                            <a href="./media/png/alcoholicas/torres_10.png">ver</a>
+                            <h3>€ ...</h3>
                         </div>
                     </div>
                 </div>
@@ -823,7 +868,22 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 7.50</h3>
+                            <h3>€ ...</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/vodka.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/vodka.png';" alt="">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Vodka</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="./media/png/alcoholicas/vodka.png">ver</a>
+                            <h3>€ ...</h3>
                         </div>
                     </div>
                 </div>
@@ -831,15 +891,15 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/alcoholicas/smirnoff.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/smirnoff.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Smirnoff</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 6.50</h3>
+                            <a href="./media/png/alcoholicas/smirnoff.png">ver</a>
+                            <h3>€ ...</h3>
                         </div>
                     </div>
                 </div>
@@ -854,31 +914,46 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/alcoholicas/pampero.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/pampero.png';" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Barceló copa</h2>
-                        <p></p>
+                        <h2>Pampero</h2>
+                        <p>Copa 7,50 botella .... </p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 7.50</h3>
+                            <a href="./media/png/alcoholicas/pampero.png">ver</a>
+                            <h3>€ ...</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/barcelo.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/barcelo.png';" alt="">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Barceló</h2>
+                        <p>Copa 7,50 botella .... </p>
+                        <div class="precio_ctn">
+                            <a href="./media/png/alcoholicas/barcelo.png">ver</a>
+                            <h3>€ ...</h3>
                         </div>
                     </div>
                 </div>
 
 
                 <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/brugal.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/brugal.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Brugal</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 7.50</h3>
+                            <a href="./media/png/alcoholicas/brugal.png">ver</a>
+                            <h3>€ ... </h3>
                         </div>
                     </div>
                 </div>
@@ -893,7 +968,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 7.50</h3>
+                            <h3>€ ...</h3>
                         </div>
                     </div>
                 </div>
@@ -908,7 +983,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 6.50</h3>
+                            <h3>€ ...</h3>
                         </div>
                     </div>
                 </div>
@@ -923,7 +998,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 8.50</h3>
+                            <h3>€ ...</h3>
                         </div>
                     </div>
                 </div>
@@ -938,14 +1013,29 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/alcoholicas/puerto_de_indias.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/puerto_de_indias.png';" alt="">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Puerto de indias</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="./media/png/alcoholicas/puerto_de_indias.png">ver</a>
+                            <h3>€ ...</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/beeafer.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/beeafer.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Beefeater copa</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/alcoholicas/beeafer.png">ver</a>
                             <h3>€ 7.50</h3>
                         </div>
                     </div>
@@ -953,91 +1043,151 @@
 
 
                 <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/london.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/london.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Tanqueray</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 6.50</h3>
+                            <a href="./media/png/alcoholicas/london.png">ver</a>
+                            <h3>€ ...</h3>
                         </div>
                     </div>
                 </div>
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/alcoholicas/bombay.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/bombay.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Bombas Sapphire</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 6.50</h3>
+                            <a href="./media/png/alcoholicas/bombay.png">ver</a>
+                            <h3>€ ...</h3>
                         </div>
                     </div>
                 </div>
 
                 <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/martin_millers.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/martin_millers.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Martin Miller's</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 7.50</h3>
+                            <a href="./media/png/alcoholicas/martin_millers.png">ver</a>
+                            <h3>€ ...</h3>
                         </div>
                     </div>
                 </div>
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/alcoholicas/hendricks.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/hendricks.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Hendrick's</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 12.50</h3>
+                            <a href="./media/png/alcoholicas/hendricks.png">ver</a>
+                            <h3>€ ...</h3>
                         </div>
                     </div>
                 </div>
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/alcoholicas/nordes.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/nordes.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Nórdes</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 8.50</h3>
+                            <a href="./media/png/alcoholicas/nordes.png">ver</a>
+                            <h3>€ ...</h3>
                         </div>
                     </div>
                 </div>
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/alcoholicas/bulddog.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/bulddog.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Buldog</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 8.50</h3>
+                            <a href="./media/png/alcoholicas/bulddog.png">ver</a>
+                            <h3>€ ...</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/jose_cuervo.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/jose_cuervo.png';" alt="">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Jose Cuervo</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="./media/png/alcoholicas/jose_cuervo.png">ver</a>
+                            <h3>€ ...</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/seagram.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/seagram.png';" alt="">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Seagram's</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="./media/png/alcoholicas/seagram.png">ver</a>
+                            <h3>€ ...</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/tequila_1800.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/tequila_1800.png';" alt="">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Reserva 1800</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="./media/png/alcoholicas/tequila_1800.png">ver</a>
+                            <h3>€ ...</h3>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="plato_item">
+                    <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/Rives.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Rives.png';" alt="">
+                    </div>
+                    <div class="txt_ctn">
+                        <h2>Rives original</h2>
+                        <p></p>
+                        <div class="precio_ctn">
+                            <a href="./media/png/alcoholicas/Rives.png">ver</a>
+                            <h3>€ ...</h3>
                         </div>
                     </div>
                 </div>

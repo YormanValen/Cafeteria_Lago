@@ -43,42 +43,28 @@
                 </div>
 
                 <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
-                    </div>
-                    <div class="txt_ctn">
-                        <h2>Café con leche</h2>
-                        <p></p>
-                        <div class="precio_ctn">
-                            <a href="./media/png/cafe/Cafe_Con_Leche.png">ver</a>
-                            <h3>€ 2.20</h3>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                <div class="img_ctn">
+                        <img src="./media/webp/png/cafe/Cafe_Americano.webp" onerror="this.onerror=null;this.src='./media/png/cafe/Cafe_Americano.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Café Americano</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="./media/png/cafe/Cafe_Con_Leche.png">ver</a>
+                            <a href="./media/png/cafe/Cafe_Americano.png">ver</a>
                             <h3>€ 2.20</h3>
                         </div>
                     </div>
                 </div>
 
                 <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                <div class="img_ctn">
+                        <img src="./media/webp/png/cafe/Cafe_Con_Hielo.webp" onerror="this.onerror=null;this.src='./media/png/cafe/Cafe_Con_Hielo.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Café con hielo</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="./media/png/cafe/Cafe_Con_Leche.png">ver</a>
+                            <a href="./media/png/cafe/Cafe_Con_Hielo.png">ver</a>
                             <h3>€ 2.20</h3>
                         </div>
                     </div>
@@ -99,14 +85,14 @@
                 </div>
 
                 <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                <div class="img_ctn">
+                        <img src="./media/webp/png/cafe/Cafe_Cortado.webp" onerror="this.onerror=null;this.src='./media/png/cafe/Cafe_Cortado.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Café cortado</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/cafe/Cafe_Cortado.png">ver</a>
                             <h3>€ 2.20</h3>
                         </div>
                     </div>
@@ -128,14 +114,14 @@
                 </div>
 
                 <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                <div class="img_ctn">
+                        <img src="./media/webp/png/cafe/Cafe_Capuchino.webp" onerror="this.onerror=null;this.src='./media/png/cafe/Cafe_Capuchino.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Café capuchino</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/cafe/Cafe_Capuchino.png">ver</a>
                             <h3>€ 2.20</h3>
                         </div>
                     </div>

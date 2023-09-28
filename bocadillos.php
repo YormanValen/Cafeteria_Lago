@@ -252,7 +252,7 @@
 
                 <div class="plato_item">
                 <div class="img_ctn">
-                        <img src="./media/webp/png/bocadillos/Pizza_Pollo_Champiñones.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/Pizza_Pollo_Champiñones.png';" alt="">
+                        <img src="./media/webp/png/bocadillos/Pizza_Pollo_Champinones.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/Pizza_Pollo_Champinones.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Pizza de pollo a la salsa barbacoa
@@ -260,7 +260,7 @@
                         <p> (tomate, mozzarela, pollo y salsa bbq) </p>
 
                         <div class="precio_ctn">
-                            <a href="./media/png/bocadillos/Pizza_Pollo_Champiñones.png">ver</a>
+                            <a href="./media/png/bocadillos/Pizza_Pollo_Champinones.png">ver</a>
                             <h3>€ 9.95</h3>
                         </div>
                     </div>

@@ -777,14 +777,14 @@
 
                 <div class="plato_item">
                 <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/veterano.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/veterano.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/Veterano.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Veterano.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Veterano copa combi</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="./media/png/alcoholicas/veterano.png">ver</a>
+                            <a href="./media/png/alcoholicas/Veterano.png">ver</a>
                             <h3>€ ...</h3>
                         </div>
                     </div>

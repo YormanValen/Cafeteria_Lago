@@ -196,22 +196,6 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
-                    </div>
-                    <div class="txt_ctn">
-                        <h2>Sándwich mixto
-                        </h2>
-                        <p>(Jamón york y queso)</p>
-
-                        <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 4.50</h3>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="plato_item">
-                    <div class="img_ctn">
                         <img src="./media/webp/png/bocadillos/Sandwich_Americano.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/Sandwich_Americano.png';" alt="">
                     </div>
                     <div class="txt_ctn">

@@ -29,7 +29,7 @@
                 </div>
 
                 <div class="plato_item">
-                <div class="img_ctn">
+                    <div class="img_ctn">
                         <img src="./media/webp/png/refrescos/Agua_Solan_Cabras.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Agua_Solan_Cabras.png';" alt="">
                     </div>
                     <div class="txt_ctn">
@@ -45,7 +45,7 @@
 
 
                 <div class="plato_item">
-                <div class="img_ctn">
+                    <div class="img_ctn">
                         <img src="./media/webp/png/refrescos/Agua_Solan_Cabras.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Agua_Solan_Cabras.png';" alt="">
                     </div>
                     <div class="txt_ctn">
@@ -78,7 +78,7 @@
                         <img src="./media/webp/png/refrescos/Agua_Bona.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Agua_Bona.png';" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>AquaBona (grande)  </h2>
+                        <h2>AquaBona (grande) </h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/refrescos/Agua_Bona.png">ver</a>
@@ -128,30 +128,16 @@
                         </div>
                     </div>
                 </div>
-                
+
                 <div class="plato_item">
                     <div class="img_ctn">
                         <img src="./media/webp/png/refrescos/CocaCola_Sin_Azucar.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/CocaCocaCola_Sin_AzucarCola.png';" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Coca-cola light</h2>
-                        <p></p>
-                        <div class="precio_ctn">
-                            <a href="./media/png/refrescos/CocaCocaCola_Sin_AzucarCola.png">ver</a>
-                            <h3>€ 3.50</h3>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" alt="">
-                    </div>
-                    <div class="txt_ctn">
                         <h2>Coca-cola zero</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/refrescos/CocaCocaCola_Sin_AzucarCola.png">ver</a>
                             <h3>€ 3.50</h3>
                         </div>
                     </div>
@@ -313,13 +299,13 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/webp/png/refrescos/Zumo_melocoton.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Minute_Maid.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Zumo de Melocotón </h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/refrescos/Zumo_melocoton.png">ver</a>
                             <h3>€ 2.50</h3>
                         </div>
                     </div>
@@ -339,7 +325,7 @@
                     </div>
                 </div>
 
-                
+
             </div>
 
         </section>
@@ -357,14 +343,12 @@
         </div>
     </div>
 
-    <script src="https://code.jquery.com/jquery-3.6.4.js"
-        integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.4.js" integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
 
 
     <script>
-
         const swiper = new Swiper('.swiper', {
             direction: 'horizontal',
             loop: true,
@@ -421,8 +405,6 @@
                 closeModal();
             }
         });
-
-
     </script>
 
 </body>

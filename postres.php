@@ -77,14 +77,14 @@
                 </div>
 
                 <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" alt="">
+                <div class="img_ctn">
+                        <img src="./media/webp/png/postres/Yogourt.webp" onerror="this.onerror=null;this.src='./media/png/postres/Yogourt.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>yogurt varios sabores</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/postres/Yogourt.png">ver</a>
                             <h3>€ 2.50</h3>
                         </div>
                     </div>
@@ -93,13 +93,13 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" alt="">
+                        <img src="./media/webp/png/postres/Fruta_De_Temporada.webp" onerror="this.onerror=null;this.src='./media/png/postres/Fruta_De_Temporada.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Fruta de temporada</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/postres/Fruta_De_Temporada.png">ver</a>
                             <h3>€ 2.50</h3>
                         </div>
                     </div>

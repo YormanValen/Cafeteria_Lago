@@ -71,14 +71,14 @@
                 </div>
 
                 <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                <div class="img_ctn">
+                        <img src="./media/webp/png/cafe/Cafe_express.webp" onerror="this.onerror=null;this.src='./media/png/cafe/Cafe_express.png';" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Café expreso</h2>
+                        <h2>Café express</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/cafe/Cafe_express.png">ver</a>
                             <h3>€ 2.00</h3>
                         </div>
                     </div>
@@ -142,14 +142,14 @@
                 </div>
 
                 <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                <div class="img_ctn">
+                        <img src="./media/webp/png/cafe/colacao.webp" onerror="this.onerror=null;this.src='./media/png/cafe/colacao.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Cola-Cao</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/cafe/colacao.png">ver</a>
                             <h3>€ 2.20</h3>
                         </div>
                     </div>

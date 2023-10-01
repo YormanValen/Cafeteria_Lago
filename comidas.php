@@ -91,9 +91,7 @@
 
                     <div class="plato_item">
                         <div class="img_ctn">
-                            <img src="./media/webp/png/comida/Barrita_De_Pan_Multisemilla.webp"
-                                onerror="this.onerror=null;this.src='./media/png/comida/Barrita_De_Pan_Multisemilla.png';"
-                                alt="">
+                            <img src="./media/webp/png/comida/Barrita_De_Pan_Multisemilla.webp" onerror="this.onerror=null;this.src='./media/png/comida/Barrita_De_Pan_Multisemilla.png';" alt="">
                         </div>
                         <div class="txt_ctn">
                             <h2>Pan multisemilla</h2>
@@ -108,9 +106,7 @@
 
                     <div class="plato_item">
                         <div class="img_ctn">
-                            <img src="./media/webp/png/comida/Barrita_De_Pan_Tostado_Con_Tomate_y_Aceite.webp"
-                                onerror="this.onerror=null;this.src='./media/png/comida/Barrita_De_Pan_Tostado.png';"
-                                alt="">
+                            <img src="./media/webp/png/comida/Barrita_De_Pan_Tostado_Con_Tomate_y_Aceite.webp" onerror="this.onerror=null;this.src='./media/png/comida/Barrita_De_Pan_Tostado.png';" alt="">
                         </div>
                         <div class="txt_ctn">
                             <h2>Barrita de pan tostado</h2>
@@ -153,15 +149,13 @@
 
                     <div class="plato_item">
                         <div class="img_ctn">
-                            <img src="./media/webp/png/comida/Desayuno_Patata.webp"
-                                onerror="this.onerror=null;this.src='./media/png/comida/Desayuno_Patata.png';"
-                                alt="">
+                            <img src="./media/webp/png/comida/Desayuno_Con_Toritilla.webp" onerror="this.onerror=null;this.src='./media/png/comida/Desayuno_Con_Toritilla.png';" alt="">
                         </div>
                         <div class="txt_ctn">
                             <h2>Barrita de pan tostado</h2>
                             <p>con tortilla Española y café</p>
                             <div class="precio_ctn">
-                                <a href="./media/png/comida/Desayuno_Patata.png">ver</a>
+                                <a href="./media/png/comida/Desayuno_Con_Toritilla.png">ver</a>
                                 <h3>€ 4.50</h3>
                             </div>
                         </div>
@@ -191,9 +185,7 @@
 
                     <div class="plato_item">
                         <div class="img_ctn">
-                            <img src="./media/webp/png/comida/Desayuno_Americano.webp"
-                                onerror="this.onerror=null;this.src='./media/png/comida/Desayuno_Americano.png';"
-                                alt="">
+                            <img src="./media/webp/png/comida/Desayuno_Americano.webp" onerror="this.onerror=null;this.src='./media/png/comida/Desayuno_Americano.png';" alt="">
                         </div>
                         <div class="txt_ctn">
                             <h2>Arepa de maíz, huevo revuelto</h2>
@@ -227,8 +219,7 @@
 
                     <div class="plato_item">
                         <div class="img_ctn">
-                            <img src="./media/webp/png/comida/Desayuno_Ingles.webp"
-                                onerror="this.onerror=null;this.src='./media/png/comida/Desayuno_Ingles.png';" alt="">
+                            <img src="./media/webp/png/comida/Desayuno_Ingles.webp" onerror="this.onerror=null;this.src='./media/png/comida/Desayuno_Ingles.png';" alt="">
 
                         </div>
                         <div class="txt_ctn">
@@ -429,9 +420,8 @@
                 </div>
 
                 <div class="plato_item">
-                <div class="img_ctn">
-                        <img src="./media/webp/png/comida/Sopa_De_Calabacin.webp"
-                            onerror="this.onerror=null;this.src='./media/png/comida/Sopa_De_Calabacin.png';" alt="">
+                    <div class="img_ctn">
+                        <img src="./media/webp/png/comida/Sopa_De_Calabacin.webp" onerror="this.onerror=null;this.src='./media/png/comida/Sopa_De_Calabacin.png';" alt="">
 
                     </div>
                     <div class="txt_ctn">
@@ -448,8 +438,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/comida/Sopa_De_Lentejas.webp"
-                            onerror="this.onerror=null;this.src='./media/png/comida/Sopa_De_Lentejas.png';" alt="">
+                        <img src="./media/webp/png/comida/Sopa_De_Lentejas.webp" onerror="this.onerror=null;this.src='./media/png/comida/Sopa_De_Lentejas.png';" alt="">
 
                     </div>
                     <div class="txt_ctn">
@@ -472,11 +461,9 @@
                 </div>
 
                 <div class="plato_item">
-                    
+
                     <div class="img_ctn">
-                        <img src="./media/webp/png/comida/Filete_De_Pollo_A_La_Plancha.webp"
-                            onerror="this.onerror=null;this.src='./media/png/comida/Filete_De_Pollo_A_La_Plancha.png';"
-                            alt="">
+                        <img src="./media/webp/png/comida/Filete_De_Pollo_Plancha.webp" onerror="this.onerror=null;this.src='./media/png/comida/Filete_De_Pollo_Plancha.png';" alt="">
 
                     </div>
                     <div class="txt_ctn">
@@ -485,7 +472,7 @@
                         <p>huevos y patatas fritas, (ensalada opcional)</p>
 
                         <div class="precio_ctn">
-                            <a href="./media/png/comida/Filete_De_Pollo_A_La_Plancha.png">ver</a>
+                            <a href="./media/png/comida/Filete_De_Pollo_Plancha.png">ver</a>
                             <h3>€ 9.70</h3>
                         </div>
                     </div>
@@ -493,9 +480,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/comida/Cinta_De_Lomo_A_La_Plancha.webp"
-                            onerror="this.onerror=null;this.src='./media/png/comida/Cinta_De_Lomo_A_La_Plancha.png';"
-                            alt="">
+                        <img src="./media/webp/png/comida/Cinta_De_Lomo_A_La_Plancha.webp" onerror="this.onerror=null;this.src='./media/png/comida/Cinta_De_Lomo_A_La_Plancha.png';" alt="">
 
                     </div>
                     <div class="txt_ctn">
@@ -512,8 +497,7 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/comida/Combinado_De_Ternera.webp"
-                            onerror="this.onerror=null;this.src='./media/png/comida/Combinado_De_Ternera.png';" alt="">
+                        <img src="./media/webp/png/comida/Filete_De_Ternera_Plancha.webp" onerror="this.onerror=null;this.src='./media/png/comida/Filete_De_Ternera_Plancha.png';" alt="">
 
                     </div>
                     <div class="txt_ctn">
@@ -522,7 +506,7 @@
                         <p>huevos y patatas</p>
 
                         <div class="precio_ctn">
-                            <a href="./media/png/comida/Combinado_De_Ternera.png">ver</a>
+                            <a href="./media/png/comida/Filete_De_Ternera_Plancha.png">ver</a>
                             <h3>€ 11.40</h3>
                         </div>
                     </div>
@@ -602,8 +586,7 @@
                 <div class="plato_item">
                     <div class="img_ctn">
 
-                        <img src="./media/webp/png/comida/Patatas_5_Salsas.webp"
-                            onerror="this.onerror=null;this.src='./media/png/comida/Patatas_5_Salsas.png';" alt="">
+                        <img src="./media/webp/png/comida/Patatas_5_Salsas.webp" onerror="this.onerror=null;this.src='./media/png/comida/Patatas_5_Salsas.png';" alt="">
 
                     </div>
                     <div class="txt_ctn">
@@ -621,9 +604,7 @@
                 <div class="plato_item">
                     <div class="img_ctn">
 
-                        <img src="./media/webp/png/comida/Oreja_De_Cerdo_A_La_Plancha.webp"
-                            onerror="this.onerror=null;this.src='./media/png/comida/Oreja_De_Cerdo_A_La_Plancha.png';"
-                            alt="">
+                        <img src="./media/webp/png/comida/Oreja_De_Cerdo_A_La_Plancha.webp" onerror="this.onerror=null;this.src='./media/png/comida/Oreja_De_Cerdo_A_La_Plancha.png';" alt="">
 
                     </div>
                     <div class="txt_ctn">
@@ -673,8 +654,7 @@
                 <div class="plato_item">
                     <div class="img_ctn">
 
-                        <img src="./media/webp/png/comida/Calamares_A_La_Romana.webp"
-                            onerror="this.onerror=null;this.src='./media/png/comida/Calamares_A_La_Romana.png';" alt="">
+                        <img src="./media/webp/png/comida/Calamares_A_La_Romana.webp" onerror="this.onerror=null;this.src='./media/png/comida/Calamares_A_La_Romana.png';" alt="">
 
                     </div>
                     <div class="txt_ctn">
@@ -690,7 +670,7 @@
                 </div>
 
                 <div class="plato_item">
-                <div class="img_ctn">
+                    <div class="img_ctn">
                         <img src="./media/webp/png/comida/Sepia.webp" onerror="this.onerror=null;this.src='./media/png/comida/Sepia.png';" alt="">
                     </div>
                     <div class="txt_ctn">
@@ -724,9 +704,7 @@
                 <div class="plato_item">
                     <div class="img_ctn">
 
-                        <img src="./media/webp/png/comida/Tabla_De_Embutido_Iberico.webp"
-                            onerror="this.onerror=null;this.src='./media/png/comida/Tabla_De_Embutido_Iberico.png';"
-                            alt="">
+                        <img src="./media/webp/png/comida/Tabla_De_Embutido_Iberico.webp" onerror="this.onerror=null;this.src='./media/png/comida/Tabla_De_Embutido_Iberico.png';" alt="">
 
                     </div>
                     <div class="txt_ctn">
@@ -752,8 +730,7 @@
                 <div class="plato_item">
                     <div class="img_ctn">
 
-                        <img src="./media/webp/png/comida/Ensalada_Mixta.webp"
-                            onerror="this.onerror=null;this.src='./media/png/comida/Ensalada_Mixta.png';" alt="">
+                        <img src="./media/webp/png/comida/Ensalada_Mixta.webp" onerror="this.onerror=null;this.src='./media/png/comida/Ensalada_Mixta.png';" alt="">
 
 
                     </div>
@@ -771,15 +748,16 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
+
+                        <img src="./media/webp/png/comida/Ensalada_De_Tomate.webp" onerror="this.onerror=null;this.src='./media/png/comida/Ensalada_De_Tomate.png';" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Ensalada de tomate
+                        <h2>Ensalada con bonito
                         </h2>
                         <p>con bonito</p>
 
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/comida/Ensalada_De_Tomate.png">ver</a>
                             <h3>€ 8.20</h3>
                         </div>
                     </div>
@@ -788,8 +766,7 @@
                 <div class="plato_item">
                     <div class="img_ctn">
 
-                        <img src="./media/webp/png/comida/Ensalada_De_Cabrales.webp"
-                            onerror="this.onerror=null;this.src='./media/png/comida/Ensalada_De_Cabrales.png';" alt="">
+                        <img src="./media/webp/png/comida/Ensalada_De_Cabrales.webp" onerror="this.onerror=null;this.src='./media/png/comida/Ensalada_De_Cabrales.png';" alt="">
 
                     </div>
                     <div class="txt_ctn">
@@ -820,14 +797,12 @@
         </div>
     </div>
 
-    <script src="https://code.jquery.com/jquery-3.6.4.js"
-        integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.4.js" integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
 
 
     <script>
-
         const swiper = new Swiper('.swiper', {
             direction: 'horizontal',
             loop: true,
@@ -885,8 +860,6 @@
                 closeModal();
             }
         });
-
-
     </script>
 
 </body>

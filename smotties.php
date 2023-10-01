@@ -82,8 +82,8 @@
                 <div class="plato_item">
                     <div class="img_ctn">
 
-                        <img src="./media/webp/png/smoothies/Smoothie_Piña_Colada.webp"
-                            onerror="this.onerror=null;this.src='./media/png/smoothies/Smoothie_Piña_Colada.png';"
+                        <img src="./media/webp/png/smoothies/Smoothie_Pina_Colada.webp"
+                            onerror="this.onerror=null;this.src='./media/png/smoothies/Smoothie_Pina_Colada.png';"
                             alt="">
 
                     </div>
@@ -91,7 +91,7 @@
                         <h2>Piña colada</h2>
                         <p>(piña-coco)</p>
                         <div class="precio_ctn">
-                            <a href="./media/png/smoothies/Smoothie_Piña_Colada.png">ver</a>
+                            <a href="./media/png/smoothies/Smoothie_Pina_Colada.png">ver</a>
                             <h3>€ 4.90</h3>
                         </div>
                     </div>
@@ -100,8 +100,8 @@
                 <div class="plato_item">
                     <div class="img_ctn">
 
-                        <img src="./media/webp/png/smoothies/Smoothi_Natural_Verde.webp"
-                            onerror="this.onerror=null;this.src='./media/png/smoothies/Smoothi_Natural_Verde.png';"
+                        <img src="./media/webp/png/smoothies/Smoothi_Natural_verde.webp"
+                            onerror="this.onerror=null;this.src='./media/png/smoothies/Smoothi_Natural_verde.png';"
                             alt="">
 
                     </div>
@@ -109,7 +109,7 @@
                         <h2>Natural green</h2>
                         <p>( Descripción )</p>
                         <div class="precio_ctn">
-                            <a href="./media/png/smoothies/Smoothi_Natural_Verde.png">ver</a>
+                            <a href="./media/png/smoothies/Smoothi_Natural_verde.png">ver</a>
                             <h3>€ 4.90</h3>
                         </div>
                     </div>

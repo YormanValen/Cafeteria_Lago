@@ -634,7 +634,7 @@
                 <div class="plato_item">
                     <div class="img_ctn">
                         <img src="./media/webp/png/alcoholicas/White_Label.webp"
-                            onerror="this.onerror=null;this.src='';" alt="./media/png/alcoholicas/White_Label.png">
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/White_Label.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>White label</h2>
@@ -649,7 +649,7 @@
                 <div class="plato_item">
                     <div class="img_ctn">
                         <img src="./media/webp/png/alcoholicas/Black_Label.webp"
-                            onerror="this.onerror=null;this.src='';" alt="./media/png/alcoholicas/Black_Label.png">
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Black_Label.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Black label</h2>
@@ -663,15 +663,15 @@
 
 
                 <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/ballantines.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/ballantines.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Ballantines</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/alcoholicas/ballantines.png">ver</a>
                             <h3>€ ...</h3>
                         </div>
                     </div>
@@ -860,21 +860,6 @@
 
                 <div class="plato_item">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
-                    </div>
-                    <div class="txt_ctn">
-                        <h2>Absolut copa</h2>
-                        <p></p>
-                        <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ ...</h3>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="plato_item">
-                    <div class="img_ctn">
                         <img src="./media/webp/png/alcoholicas/vodka.webp"
                             onerror="this.onerror=null;this.src='./media/png/alcoholicas/vodka.png';" alt="">
                     </div>
@@ -919,7 +904,7 @@
                     </div>
                     <div class="txt_ctn">
                         <h2>Pampero</h2>
-                        <p>Copa 7,50 botella .... </p>
+                        <p>Copa 7,50  .... </p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/pampero.png">ver</a>
                             <h3>€ ...</h3>
@@ -959,15 +944,15 @@
                 </div>
 
                 <div class="plato_item">
-                    <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/Cacique_500.webp"
+                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Cacique_500.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Cacique 500</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/alcoholicas/Cacique_500.png">ver</a>
                             <h3>€ ...</h3>
                         </div>
                     </div>

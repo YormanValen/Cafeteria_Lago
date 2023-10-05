@@ -40,7 +40,7 @@
                         <p>( Tropic mix )</p>
                         <div class="precio_ctn">
                             <a href="./media/png/smoothies/Smoothi_verde.png">ver</a>
-                            <h3>€ 4.90</h3>
+                            <h3>€ 4,90</h3>
                         </div>
                     </div>
                 </div>
@@ -58,7 +58,7 @@
                         <p>( Red banana )</p>
                         <div class="precio_ctn">
                             <a href="./media/png/smoothies/Smoothie_Banana_Red.png">ver</a>
-                            <h3>€ 4.90</h3>
+                            <h3>€ 4,90</h3>
                         </div>
                     </div>
                 </div>
@@ -74,7 +74,7 @@
                         <p>( Peach paradise )</p>
                         <div class="precio_ctn">
                             <a href="./media/png/smoothies/Peach_Paradise.png">ver</a>
-                            <h3>€ 4.90</h3>
+                            <h3>€ 4,90</h3>
                         </div>
                     </div>
                 </div>
@@ -92,7 +92,7 @@
                         <p>(piña-coco)</p>
                         <div class="precio_ctn">
                             <a href="./media/png/smoothies/Smoothie_Pina_Colada.png">ver</a>
-                            <h3>€ 4.90</h3>
+                            <h3>€ 4,90</h3>
                         </div>
                     </div>
                 </div>
@@ -110,7 +110,7 @@
                         <p>( Descripción )</p>
                         <div class="precio_ctn">
                             <a href="./media/png/smoothies/Smoothi_Natural_verde.png">ver</a>
-                            <h3>€ 4.90</h3>
+                            <h3>€ 4,90</h3>
                         </div>
                     </div>
                 </div>
@@ -127,7 +127,7 @@
                         <p>Mango fresh</p>
                         <div class="precio_ctn">
                             <a href="./media/png/smoothies/Mango_Fresh.png">ver</a>
-                            <h3>€ 4.90</h3>
+                            <h3>€ 4,90</h3>
                         </div>
                     </div>
                 </div>

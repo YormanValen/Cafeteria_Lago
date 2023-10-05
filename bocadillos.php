@@ -62,7 +62,7 @@
                         <p>con tomate y orégano</p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 5.50</h3>
+                            <h3>€ 5,50</h3>
                         </div>
                     </div>
                 </div>
@@ -76,7 +76,7 @@
                         <p>con queso y tomate</p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 6.80</h3>
+                            <h3>€ 6,80</h3>
                         </div>
                     </div>
                 </div>
@@ -93,7 +93,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/bocadillos/Pepito_De_Ternera.png">ver</a>
-                            <h3>€ 6.50</h3>
+                            <h3>€ 6,50</h3>
                         </div>
                     </div>
                 </div>
@@ -111,7 +111,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 6.50</h3>
+                            <h3>€ 6,50</h3>
                         </div>
                     </div>
                 </div>
@@ -125,7 +125,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 8.80</h3>
+                            <h3>€ 8,80</h3>
                         </div>
                     </div>
                 </div>
@@ -148,7 +148,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 6.90</h3>
+                            <h3>€ 6,90</h3>
                         </div>
                     </div>
                 </div>
@@ -163,7 +163,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/bocadillos/Combo_Hamburguesa.png">ver</a>
-                            <h3>€ 9.50</h3>
+                            <h3>€ 9,50</h3>
                         </div>
                     </div>
                 </div>
@@ -182,7 +182,7 @@
                         </p>
                         <div class="precio_ctn">
                             <a href="./media/png/bocadillos/Hamburguesa_De_La_Casa.png">ver</a>
-                            <h3>€ 12.50</h3>
+                            <h3>€ 12,50</h3>
                         </div>
                     </div>
                 </div>
@@ -205,7 +205,7 @@
 
                         <div class="precio_ctn">
                             <a href="./media/png/bocadillos/Sandwich_Americano.png">ver</a>
-                            <h3>€ 5.80</h3>
+                            <h3>€ 5,80</h3>
                         </div>
                     </div>
                 </div>
@@ -221,7 +221,7 @@
 
                         <div class="precio_ctn">
                             <a href="./media/png/bocadillos/Sandwich_Vegetal_1.png">ver</a>
-                            <h3>€ 6.80</h3>
+                            <h3>€ 6,80</h3>
                         </div>
                     </div>
                 </div>
@@ -245,7 +245,7 @@
 
                         <div class="precio_ctn">
                             <a href="./media/png/bocadillos/Pizza_Pollo_Champinones.png">ver</a>
-                            <h3>€ 9.95</h3>
+                            <h3>€ 9,95</h3>
                         </div>
                     </div>
                 </div>
@@ -261,7 +261,7 @@
 
                         <div class="precio_ctn">
                             <a href="./media/png/bocadillos/Hawaiana.png">ver</a>
-                            <h3>€ 9.95</h3>
+                            <h3>€ 9,95</h3>
                         </div>
                     </div>
                 </div>
@@ -277,7 +277,7 @@
 
                         <div class="precio_ctn">
                             <a href="./media/png/bocadillos/Prosciutto_E_Funghi.png">ver</a>
-                            <h3>€ 9.50</h3>
+                            <h3>€ 9,50</h3>
                         </div>
                     </div>
                 </div>
@@ -293,7 +293,7 @@
 
                         <div class="precio_ctn">
                             <a href="./media/png/bocadillos/5_Quesos.png">ver</a>
-                            <h3>€ 11.50</h3>
+                            <h3>€ 11,50</h3>
                         </div>
                     </div>
                 </div>

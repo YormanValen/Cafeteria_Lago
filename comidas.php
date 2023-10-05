@@ -69,7 +69,7 @@
                             <p>Descripción</p>
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Churros_Con_Cafe.png">ver</a>
-                                <h3>€ 3.50</h3>
+                                <h3>€ 3,50</h3>
                             </div>
                         </div>
                     </div>
@@ -83,7 +83,7 @@
                             <p>Descripción</p>
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Porras_Con_Cafe.png">ver</a>
-                                <h3>€ 3.50</h3>
+                                <h3>€ 3,50</h3>
                             </div>
                         </div>
                     </div>
@@ -98,7 +98,7 @@
                             <p> con aceite, tomate y café </p>
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Barrita_De_Pan_Multisemilla.png">ver</a>
-                                <h3>€ 3.50</h3>
+                                <h3>€ 3,50</h3>
                             </div>
                         </div>
                     </div>
@@ -113,7 +113,7 @@
                             <p> con aceite, tomate y café </p>
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Barrita_De_Pan_Tostado.png">ver</a>
-                                <h3>€ 3.50</h3>
+                                <h3>€ 3,50</h3>
                             </div>
                         </div>
                     </div>
@@ -127,7 +127,7 @@
                             <p>con mermelada y mantequilla</p>
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Croissant_A_La_Plancha.png">ver</a>
-                                <h3>€ 3.50</h3>
+                                <h3>€ 3,50</h3>
                             </div>
                         </div>
                     </div>
@@ -141,7 +141,7 @@
                             <p></p>
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Sandwich_Mixto.png">ver</a>
-                                <h3>€ 4.20</h3>
+                                <h3>€ 4,20</h3>
                             </div>
                         </div>
                     </div>
@@ -156,7 +156,7 @@
                             <p>con tortilla Española y café</p>
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Desayuno_Con_Toritilla.png">ver</a>
-                                <h3>€ 4.50</h3>
+                                <h3>€ 4,50</h3>
                             </div>
                         </div>
                     </div>
@@ -178,7 +178,7 @@
                             <p></p>
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Barrita_De_Pan_Tostado_Huevos_Y_Cafe.png">ver</a>
-                                <h3>€ 6.50</h3>
+                                <h3>€ 6,50</h3>
                             </div>
                         </div>
                     </div>
@@ -192,7 +192,7 @@
                             <p>con cebolla y tomate, queso y café</p>
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Desayuno_Americano.png">ver</a>
-                                <h3>€ 7.50</h3>
+                                <h3>€ 7,50</h3>
                             </div>
                         </div>
                     </div>
@@ -206,7 +206,7 @@
                             <p>con nata, sirope y café </p>
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Tortita_Pancakes.png">ver</a>
-                                <h3>€ 4.50</h3>
+                                <h3>€ 4,50</h3>
                             </div>
                         </div>
                     </div>
@@ -229,7 +229,7 @@
 
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Desayuno_Ingles.png">ver</a>
-                                <h3>€ 9.50</h3>
+                                <h3>€ 9,50</h3>
                             </div>
                         </div>
                     </div>
@@ -253,7 +253,7 @@
 
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Desayuno_Ranchero.png">ver</a>
-                                <h3>€ 6.50</h3>
+                                <h3>€ 6,50</h3>
                             </div>
                         </div>
                     </div>
@@ -269,7 +269,7 @@
 
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Zumo.png">ver</a>
-                                <h3>€ 3.50</h3>
+                                <h3>€ 3,50</h3>
                             </div>
                         </div>
                     </div>
@@ -293,7 +293,7 @@
 
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Tostada_De_Pan_Bimbo.png">ver</a>
-                                <h3>€ 1.50</h3>
+                                <h3>€ 1,50</h3>
                             </div>
                         </div>
                     </div>
@@ -309,7 +309,7 @@
 
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Croissant.png">ver</a>
-                                <h3>€ 1.80</h3>
+                                <h3>€ 1,80</h3>
                             </div>
                         </div>
                     </div>
@@ -325,7 +325,7 @@
 
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Napolitana_De_Cacao.png">ver</a>
-                                <h3>€ 1.80</h3>
+                                <h3>€ 1,80</h3>
                             </div>
                         </div>
                     </div>
@@ -341,7 +341,7 @@
 
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Ensaimada.png">ver</a>
-                                <h3>€ 1.80</h3>
+                                <h3>€ 1,80</h3>
                             </div>
                         </div>
                     </div>
@@ -357,7 +357,7 @@
 
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Pan_Trensado.png">ver</a>
-                                <h3>€ 2.30</h3>
+                                <h3>€ 2,30</h3>
                             </div>
                         </div>
                     </div>
@@ -373,7 +373,7 @@
 
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Pan_Trenzado_Cacao.png">ver</a>
-                                <h3>€ 2.20</h3>
+                                <h3>€ 2,20</h3>
                             </div>
                         </div>
                     </div>
@@ -389,7 +389,7 @@
 
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Gofre.png">ver</a>
-                                <h3>€ 6.50</h3>
+                                <h3>€ 6,50</h3>
                             </div>
                         </div>
                     </div>
@@ -414,7 +414,7 @@
 
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 5.80</h3>
+                            <h3>€ 5,80</h3>
                         </div>
                     </div>
                 </div>
@@ -431,7 +431,7 @@
 
                         <div class="precio_ctn">
                             <a href="./media/png/comida/Sopa_De_Calabacin.png">ver</a>
-                            <h3>€ 6.10</h3>
+                            <h3>€ 6,10</h3>
                         </div>
                     </div>
                 </div>
@@ -448,7 +448,7 @@
 
                         <div class="precio_ctn">
                             <a href="./media/png/comida/Sopa_De_Lentejas.png">ver</a>
-                            <h3>€ 5.50</h3>
+                            <h3>€ 5,50</h3>
                         </div>
                     </div>
                 </div>
@@ -473,7 +473,7 @@
 
                         <div class="precio_ctn">
                             <a href="./media/png/comida/Filete_De_Pollo_Plancha.png">ver</a>
-                            <h3>€ 9.70</h3>
+                            <h3>€ 9,70</h3>
                         </div>
                     </div>
                 </div>
@@ -490,7 +490,7 @@
 
                         <div class="precio_ctn">
                             <a href="./media/png/comida/Cinta_De_Lomo_A_La_Plancha.png">ver</a>
-                            <h3>€ 9.50</h3>
+                            <h3>€ 9,50</h3>
                         </div>
                     </div>
                 </div>
@@ -507,7 +507,7 @@
 
                         <div class="precio_ctn">
                             <a href="./media/png/comida/Filete_De_Ternera_Plancha.png">ver</a>
-                            <h3>€ 11.40</h3>
+                            <h3>€ 11,40</h3>
                         </div>
                     </div>
                 </div>
@@ -530,7 +530,7 @@
 
                         <div class="precio_ctn">
                             <a href="./media/png/comida/Jamon_Con_Oregano.png">ver</a>
-                            <h3>€ 6.50</h3>
+                            <h3>€ 6,50</h3>
                         </div>
                     </div>
                 </div>
@@ -546,7 +546,7 @@
 
                         <div class="precio_ctn">
                             <a href="./media/png/comida/Alitas_A_La_bbq.png">ver</a>
-                            <h3>€ 6.50</h3>
+                            <h3>€ 6,50</h3>
                         </div>
                     </div>
                 </div>
@@ -562,7 +562,7 @@
 
                         <div class="precio_ctn">
                             <a href="./media/png/comida/Patatas_Bravas.png">ver</a>
-                            <h3>€ 7.60</h3>
+                            <h3>€ 7,60</h3>
                         </div>
                     </div>
                 </div>
@@ -578,7 +578,7 @@
 
                         <div class="precio_ctn">
                             <a href="./media/png/comida/Patatas_Alioli.png">ver</a>
-                            <h3>€ 7.60</h3>
+                            <h3>€ 7,60</h3>
                         </div>
                     </div>
                 </div>
@@ -596,7 +596,7 @@
 
                         <div class="precio_ctn">
                             <a href="./media/png/comida/Patatas_5_Salsas.png">ver</a>
-                            <h3>€ 8.50</h3>
+                            <h3>€ 8,50</h3>
                         </div>
                     </div>
                 </div>
@@ -614,7 +614,7 @@
 
                         <div class="precio_ctn">
                             <a href="./media/png/comida/Oreja_De_Cerdo_A_La_Plancha.png">ver</a>
-                            <h3>€ 10.20</h3>
+                            <h3>€ 10,20</h3>
                         </div>
                     </div>
                 </div>
@@ -630,7 +630,7 @@
 
                         <div class="precio_ctn">
                             <a href="./media/png/comida/Huevos_Rotos.png">ver</a>
-                            <h3>€ 8.80</h3>
+                            <h3>€ 8,80</h3>
                         </div>
                     </div>
                 </div>
@@ -646,7 +646,7 @@
 
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 9.50</h3>
+                            <h3>€ 9,50</h3>
                         </div>
                     </div>
                 </div>
@@ -664,7 +664,7 @@
 
                         <div class="precio_ctn">
                             <a href="./media/png/comida/Calamares_A_La_Romana.webp">ver</a>
-                            <h3>€ 11.20</h3>
+                            <h3>€ 11,20</h3>
                         </div>
                     </div>
                 </div>
@@ -680,7 +680,7 @@
 
                         <div class="precio_ctn">
                             <a href="./media/png/comida/Sepia.png">ver</a>
-                            <h3>€ 12.50</h3>
+                            <h3>€ 12,50</h3>
                         </div>
                     </div>
                 </div>
@@ -696,7 +696,7 @@
 
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 18.50</h3>
+                            <h3>€ 18,50</h3>
                         </div>
                     </div>
                 </div>
@@ -714,7 +714,7 @@
 
                         <div class="precio_ctn">
                             <a href="./media/png/comida/Tabla_De_Embutido_Iberico.png">ver</a>
-                            <h3>€ 22.50</h3>
+                            <h3>€ 22,50</h3>
                         </div>
                     </div>
                 </div>
@@ -741,7 +741,7 @@
 
                         <div class="precio_ctn">
                             <a href="./media/png/comida/Ensalada_Mixta.png">ver</a>
-                            <h3>€ 6.70</h3>
+                            <h3>€ 6,70</h3>
                         </div>
                     </div>
                 </div>
@@ -758,7 +758,7 @@
 
                         <div class="precio_ctn">
                             <a href="./media/png/comida/Ensalada_De_Tomate.png">ver</a>
-                            <h3>€ 8.20</h3>
+                            <h3>€ 8,20</h3>
                         </div>
                     </div>
                 </div>
@@ -776,7 +776,7 @@
 
                         <div class="precio_ctn">
                             <a href="./media/png/comida/Ensalada_De_Cabrales.png">ver</a>
-                            <h3>€ 10.50</h3>
+                            <h3>€ 10,50</h3>
                         </div>
                     </div>
                 </div>

@@ -37,7 +37,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/cafe/Cafe_Con_Leche.png">ver</a>
-                            <h3>€ 2.20</h3>
+                            <h3>€ 2,20</h3>
                         </div>
                     </div>
                 </div>
@@ -51,7 +51,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/cafe/Cafe_Americano.png">ver</a>
-                            <h3>€ 2.20</h3>
+                            <h3>€ 2,20</h3>
                         </div>
                     </div>
                 </div>
@@ -65,7 +65,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/cafe/Cafe_Con_Hielo.png">ver</a>
-                            <h3>€ 2.20</h3>
+                            <h3>€ 2,20</h3>
                         </div>
                     </div>
                 </div>
@@ -79,7 +79,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/cafe/Cafe_express.png">ver</a>
-                            <h3>€ 2.00</h3>
+                            <h3>€ 2,20</h3>
                         </div>
                     </div>
                 </div>
@@ -93,7 +93,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/cafe/Cafe_Cortado.png">ver</a>
-                            <h3>€ 2.20</h3>
+                            <h3>€ 2,20</h3>
                         </div>
                     </div>
                 </div>
@@ -108,7 +108,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 2.20</h3>
+                            <h3>€ 2,20</h3>
                         </div>
                     </div>
                 </div>
@@ -122,7 +122,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/cafe/Cafe_Capuchino.png">ver</a>
-                            <h3>€ 2.20</h3>
+                            <h3>€ 2,20</h3>
                         </div>
                     </div>
                 </div>
@@ -150,7 +150,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/cafe/colacao.png">ver</a>
-                            <h3>€ 2.20</h3>
+                            <h3>€ 2,20</h3>
                         </div>
                     </div>
                 </div>
@@ -176,7 +176,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/cafe/Te_Chai.png">ver</a>
-                            <h3>€ 2.50</h3>
+                            <h3>€ 2,80</h3>
                         </div>
                     </div>
                 </div>
@@ -194,7 +194,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/cafe/Te_Mandarina.png">ver</a>
-                            <h3>€ 2.50</h3>
+                            <h3>€ 2,80</h3>
                         </div>
                     </div>
                 </div>
@@ -211,7 +211,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/cafe/Te_Menta_Poleo.png">ver</a>
-                            <h3>€ 2.50</h3>
+                            <h3>€ 2,80</h3>
                         </div>
                     </div>
                 </div>
@@ -229,7 +229,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/cafe/Te_Rojo.png">ver</a>
-                            <h3>€ 2.50</h3>
+                            <h3>€ 2,80</h3>
                         </div>
                     </div>
                 </div>
@@ -247,7 +247,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/cafe/Te_Verde.png">ver</a>
-                            <h3>€ 2.50</h3>
+                            <h3>€ 2,80</h3>
                         </div>
                     </div>
                 </div>
@@ -264,7 +264,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/cafe/Te_Negro.png">ver</a>
-                            <h3>€ 2.50</h3>
+                            <h3>€ 2,80</h3>
                         </div>
                     </div>
                 </div>
@@ -281,7 +281,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/cafe/Te_Vainilla.png">ver</a>
-                            <h3>€ 2.50</h3>
+                            <h3>€ 2,80</h3>
                         </div>
                     </div>
                 </div>
@@ -299,7 +299,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/cafe/Te_Tropical.png">ver</a>
-                            <h3>€ 2.50</h3>
+                            <h3>€ 2,80</h3>
                         </div>
                     </div>
                 </div>
@@ -317,7 +317,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/cafe/Te_Relajante.png">ver</a>
-                            <h3>€ 2.50</h3>
+                            <h3>€ 2,80</h3>
                         </div>
                     </div>
                 </div>
@@ -335,7 +335,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/cafe/Te_De_Hiervas_Verdes.png">ver</a>
-                            <h3>€ 2.50</h3>
+                            <h3>€ 2,80</h3>
                         </div>
                     </div>
                 </div>
@@ -353,7 +353,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/cafe/Te_verde_Tuareg.png">ver</a>
-                            <h3>€ 2.50</h3>
+                            <h3>€ 2,80</h3>
                         </div>
                     </div>
                 </div>

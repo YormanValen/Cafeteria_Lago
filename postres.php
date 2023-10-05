@@ -56,7 +56,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 3.50</h3>
+                            <h3>€ 3,50</h3>
                         </div>
                     </div>
                 </div>
@@ -71,7 +71,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 3.50</h3>
+                            <h3>€ 3,50</h3>
                         </div>
                     </div>
                 </div>
@@ -85,7 +85,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/postres/Yogourt.png">ver</a>
-                            <h3>€ 2.50</h3>
+                            <h3>€ 2,50</h3>
                         </div>
                     </div>
                 </div>
@@ -100,7 +100,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/postres/Fruta_De_Temporada.png">ver</a>
-                            <h3>€ 2.50</h3>
+                            <h3>€ 2,50</h3>
                         </div>
                     </div>
                 </div>
@@ -114,7 +114,7 @@
                         <p>con dulce de leche y canela</p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 3.50</h3>
+                            <h3>€ 3,50</h3>
                         </div>
                     </div>
                 </div>
@@ -128,7 +128,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 3.50</h3>
+                            <h3>€ 3,50</h3>
                         </div>
                     </div>
                 </div>
@@ -150,7 +150,7 @@
                         </p>
                         <div class="precio_ctn">
                             <a href="./media/png/postres/Maxibon.png">ver</a>
-                            <h3>€ 2.80</h3>
+                            <h3>€ 2,80</h3>
                         </div>
                     </div>
                 </div>
@@ -164,7 +164,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/postres/Oreo.png">ver</a>
-                            <h3>€ 2.80</h3>
+                            <h3>€ 2,80</h3>
                         </div>
                     </div>
                 </div>
@@ -178,7 +178,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/postres/Milko.png">ver</a>
-                            <h3>€ 2.80</h3>
+                            <h3>€ 2,80</h3>
                         </div>
                     </div>
                 </div>
@@ -192,7 +192,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 1.70</h3>
+                            <h3>€ 1,70</h3>
                         </div>
                     </div>
                 </div>
@@ -206,7 +206,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/postres/Extreme.png">ver</a>
-                            <h3>€ 1.70</h3>
+                            <h3>€ 1,70</h3>
                         </div>
                     </div>
                 </div>

@@ -34,8 +34,8 @@
                     </div>
                     <div class="txt_ctn">
                         <h2>Agua solan de cabras (grande) </h2>
-                        <p>pequeña 1.50 </p>
-                        <p>Grande 2.50</p>
+                        <p>pequeña 1,50 </p>
+                        <p>Grande 2,50</p>
                         <div class="precio_ctn">
                             <a href="./media/png/refrescos/Agua_Solan_Cabras.png">ver</a>
                             <h3>€ 1.50</h3>
@@ -53,7 +53,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/refrescos/Agua_Solan_Cabras.png">ver</a>
-                            <h3>€ 2.50</h3>
+                            <h3>€ 2,50</h3>
                         </div>
                     </div>
                 </div>
@@ -67,7 +67,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/refrescos/Agua_Bona.png">ver</a>
-                            <h3>€ 1.20</h3>
+                            <h3>€ 1,20</h3>
                         </div>
                     </div>
                 </div>
@@ -82,7 +82,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/refrescos/Agua_Bona.png">ver</a>
-                            <h3>€ 1.80</h3>
+                            <h3>€ 1,80</h3>
                         </div>
                     </div>
                 </div>
@@ -96,7 +96,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/refrescos/Vichy_Catalan.png">ver</a>
-                            <h3>€ 2.90</h3>
+                            <h3>€ 2,90</h3>
                         </div>
                     </div>
                 </div>
@@ -110,7 +110,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/refrescos/Vichy_Catalan.png">ver</a>
-                            <h3>€ 2.20</h3>
+                            <h3>€ 2,20</h3>
                         </div>
                     </div>
                 </div>
@@ -124,7 +124,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/refrescos/CocaCola.png">ver</a>
-                            <h3>€ 3.50</h3>
+                            <h3>€ 3,50</h3>
                         </div>
                     </div>
                 </div>
@@ -138,7 +138,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/refrescos/CocaCocaCola_Sin_AzucarCola.png">ver</a>
-                            <h3>€ 3.50</h3>
+                            <h3>€ 3,50</h3>
                         </div>
                     </div>
                 </div>
@@ -152,7 +152,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/refrescos/Nestea.png">ver</a>
-                            <h3>€ 3.50</h3>
+                            <h3>€ 3,50</h3>
                         </div>
                     </div>
                 </div>
@@ -166,7 +166,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 3.50</h3>
+                            <h3>€ 3,50</h3>
                         </div>
                     </div>
                 </div>
@@ -180,7 +180,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/refrescos/Aquarius.png">ver</a>
-                            <h3>€ 3.50</h3>
+                            <h3>€ 3,50</h3>
                         </div>
                     </div>
                 </div>
@@ -194,7 +194,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/refrescos/Fanta.png">ver</a>
-                            <h3>€ 3.50</h3>
+                            <h3>€ 3,50</h3>
                         </div>
                     </div>
                 </div>
@@ -222,7 +222,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 3.50</h3>
+                            <h3>€ 3,50</h3>
                         </div>
                     </div>
                 </div>
@@ -236,7 +236,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 2.20</h3>
+                            <h3>€ 2,20</h3>
                         </div>
                     </div>
                 </div>
@@ -250,7 +250,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 2.20</h3>
+                            <h3>€ 2,20</h3>
                         </div>
                     </div>
                 </div>
@@ -264,7 +264,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 2.20</h3>
+                            <h3>€ 2,20</h3>
                         </div>
                     </div>
                 </div>
@@ -306,7 +306,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/refrescos/Zumo_melocoton.png">ver</a>
-                            <h3>€ 2.50</h3>
+                            <h3>€ 2,50</h3>
                         </div>
                     </div>
                 </div>
@@ -320,7 +320,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 5.00 </h3>
+                            <h3>€ 5,00 </h3>
                         </div>
                     </div>
                 </div>

@@ -79,7 +79,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 2.90</h3>
+                            <h3>€ 2,90</h3>
                         </div>
                     </div>
                 </div>
@@ -94,7 +94,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/UN_Roble.png">ver</a>
-                            <h3>€ 16.00</h3>
+                            <h3>€ 16,00</h3>
                         </div>
                     </div>
                 </div>
@@ -109,7 +109,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 4.10</h3>
+                            <h3>€ 4,10</h3>
                         </div>
                     </div>
                 </div>
@@ -125,7 +125,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/UN_Crianza.png">ver</a>
-                            <h3>€ 18.00</h3>
+                            <h3>€ 18,00</h3>
                         </div>
                     </div>
                 </div>
@@ -147,7 +147,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 3.50</h3>
+                            <h3>€ 3,50</h3>
                         </div>
                     </div>
                 </div>
@@ -163,7 +163,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 18.00</h3>
+                            <h3>€ 18,00</h3>
                         </div>
                     </div>
                 </div>
@@ -186,7 +186,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 2.80</h3>
+                            <h3>€ 2,80</h3>
                         </div>
                     </div>
                 </div>
@@ -202,7 +202,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/Contado_De_Artola.png">ver</a>
-                            <h3>€ 12.00</h3>
+                            <h3>€ 12,00</h3>
                         </div>
                     </div>
                 </div>
@@ -225,7 +225,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 4.10</h3>
+                            <h3>€ 4,10</h3>
                         </div>
                     </div>
                 </div>
@@ -241,7 +241,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/Ramon_Bilbao.png">ver</a>
-                            <h3>€ 18.00</h3>
+                            <h3>€ 18,00</h3>
                         </div>
                     </div>
                 </div>
@@ -263,7 +263,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/Camino_DO_Rey.png">ver</a>
-                            <h3>€ 4.10</h3>
+                            <h3>€ 4,10</h3>
                         </div>
                     </div>
                 </div>
@@ -279,7 +279,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 18.00</h3>
+                            <h3>€ 18,00</h3>
                         </div>
                     </div>
                 </div>
@@ -301,7 +301,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 2.80</h3>
+                            <h3>€ 2,80</h3>
                         </div>
                     </div>
                 </div>
@@ -317,7 +317,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/Canto_Real.png">ver</a>
-                            <h3>€ 12.00</h3>
+                            <h3>€ 12,00</h3>
                         </div>
                     </div>
                 </div>
@@ -332,7 +332,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 2.50</h3>
+                            <h3>€ 2,50</h3>
                         </div>
                     </div>
                 </div>
@@ -347,7 +347,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 12.00</h3>
+                            <h3>€ 12,00</h3>
                         </div>
                     </div>
                 </div>
@@ -369,7 +369,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ 2.50</h3>
+                            <h3>€ 2,50</h3>
                         </div>
                     </div>
                 </div>
@@ -453,7 +453,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/Mixta.png">ver</a>
-                            <h3>€ 3.50</h3>
+                            <h3>€ 3,50</h3>
                         </div>
                     </div>
                 </div>
@@ -469,7 +469,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/Mixta.png">ver</a>
-                            <h3>€ 3.50</h3>
+                            <h3>€ 3,50</h3>
                         </div>
                     </div>
                 </div>
@@ -484,7 +484,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/Maho_Radler.png">ver</a>
-                            <h3>€ 3.50</h3>
+                            <h3>€ 3,50</h3>
                         </div>
                     </div>
                 </div>
@@ -499,7 +499,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/Brutus.png">ver</a>
-                            <h3>€ 3.50</h3>
+                            <h3>€ 3,50</h3>
                         </div>
                     </div>
                 </div>
@@ -514,7 +514,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/Maho_Clasica.png">ver</a>
-                            <h3>€ 3.50</h3>
+                            <h3>€ 3,50</h3>
                         </div>
                     </div>
                 </div>
@@ -529,7 +529,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/Maho_5_Estrellas.png">ver</a>
-                            <h3>€ 3.50</h3>
+                            <h3>€ 3,50</h3>
                         </div>
                     </div>
                 </div>
@@ -544,7 +544,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/Maho_Sin.png">ver</a>
-                            <h3>€ 2.50</h3>
+                            <h3>€ 2,50</h3>
                         </div>
                     </div>
                 </div>
@@ -559,7 +559,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/Maho_Sin_Filtrar.png">ver</a>
-                            <h3>€ 2.50</h3>
+                            <h3>€ 2,50</h3>
                         </div>
                     </div>
                 </div>
@@ -1021,7 +1021,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/beeafer.png">ver</a>
-                            <h3>€ 7.50</h3>
+                            <h3>€ 7,50</h3>
                         </div>
                     </div>
                 </div>

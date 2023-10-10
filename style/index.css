@@ -11,7 +11,7 @@
 
 .menu_section .menu_items .menu_item {
   display: flex;
- background-image: url('../media/webp/png/textura.webp');
+  background-image: url("../media/webp/png/textura.webp");
   padding: 5vw;
   background-size: cover;
   justify-content: flex-start;
@@ -46,15 +46,21 @@
 
 .menu_section .menu_items .menu_item img {
   width: 40vw;
-  right: -10vw;
+  right: -6vw;
   bottom: -2vw;
   position: absolute;
 }
 
 .menu_section .menu_items .menu_item .helado_img {
-  width: 30vw;
+  width: 25vw;
   right: 0vw;
-  bottom: -9vw;
+  bottom: -7vw;
   position: absolute;
 }
 
+.menu_section .menu_items .menu_item .smoothie_img {
+  width: 27vw;
+  right: 0vw;
+  bottom: -2vw;
+  position: absolute;
+}

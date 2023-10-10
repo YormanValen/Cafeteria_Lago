@@ -24,11 +24,11 @@
 
             <div class="platos_box">
 
-                <div class="title" id="refrescos">
+                <div class="title wow animate__animated animate__fadeInDown" id="refrescos">
                     <h2>Refrescos</h2>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/refrescos/Agua_Solan_Cabras.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Agua_Solan_Cabras.png';" alt="">
                     </div>
@@ -44,7 +44,7 @@
                 </div>
 
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/refrescos/Agua_Solan_Cabras.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Agua_Solan_Cabras.png';" alt="">
                     </div>
@@ -58,7 +58,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/refrescos/Agua_Bona.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Agua_Bona.png';" alt="">
                     </div>
@@ -73,7 +73,7 @@
                 </div>
 
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/refrescos/Agua_Bona.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Agua_Bona.png';" alt="">
                     </div>
@@ -87,7 +87,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/refrescos/Vichy_Catalan.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Vichy_Catalan.png';" alt="">
                     </div>
@@ -101,7 +101,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/refrescos/Vichy_Catalan.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Vichy_Catalan.png';" alt="">
                     </div>
@@ -115,7 +115,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/refrescos/CocaCola.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/CocaCola.png';" alt="">
                     </div>
@@ -129,7 +129,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/refrescos/CocaCola_Sin_Azucar.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/CocaCocaCola_Sin_AzucarCola.png';" alt="">
                     </div>
@@ -143,7 +143,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/refrescos/Nestea.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Nestea.png';" alt="">
                     </div>
@@ -157,7 +157,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="" alt="">
                     </div>
@@ -171,7 +171,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/refrescos/Aquarius.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Aquarius.png';" alt="">
                     </div>
@@ -185,7 +185,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/refrescos/Fanta.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Fanta.png';" alt="">
                     </div>
@@ -199,7 +199,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/refrescos/Sprite.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Sprite.png';" alt="">
                     </div>
@@ -213,7 +213,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="" alt="">
                     </div>
@@ -227,7 +227,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="" alt="">
                     </div>
@@ -241,7 +241,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="" alt="">
                     </div>
@@ -255,7 +255,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="" alt="">
                     </div>
@@ -269,7 +269,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/refrescos/Royal_Blis.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Royal_Blis.png';" alt="">
                     </div>
@@ -283,7 +283,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/refrescos/Minute_Maid.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Minute_Maid.png';" alt="">
                     </div>
@@ -297,7 +297,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/refrescos/Zumo_melocoton.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Minute_Maid.png';" alt="">
                     </div>
@@ -311,7 +311,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="" alt="">
                     </div>
@@ -349,6 +349,9 @@
 
 
     <script>
+        new WOW().init();
+
+
         const swiper = new Swiper('.swiper', {
             direction: 'horizontal',
             loop: true,

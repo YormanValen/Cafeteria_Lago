@@ -24,11 +24,11 @@
 
             <div class="platos_box">
 
-                <div class="title" id="postres">
+                <div class="title wow animate__animated animate__fadeInDown" id="postres">
                     <h2>Café e Infusiones</h2>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/cafe/Cafe_Con_Leche.webp" onerror="this.onerror=null;this.src='./media/png/cafe/Cafe_Con_Leche.png';" alt="">
                     </div>
@@ -42,8 +42,8 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
-                <div class="img_ctn">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
+                    <div class="img_ctn">
                         <img src="./media/webp/png/cafe/Cafe_Americano.webp" onerror="this.onerror=null;this.src='./media/png/cafe/Cafe_Americano.png';" alt="">
                     </div>
                     <div class="txt_ctn">
@@ -56,8 +56,8 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
-                <div class="img_ctn">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
+                    <div class="img_ctn">
                         <img src="./media/webp/png/cafe/Cafe_Con_Hielo.webp" onerror="this.onerror=null;this.src='./media/png/cafe/Cafe_Con_Hielo.png';" alt="">
                     </div>
                     <div class="txt_ctn">
@@ -70,8 +70,8 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
-                <div class="img_ctn">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
+                    <div class="img_ctn">
                         <img src="./media/webp/png/cafe/Cafe_express.webp" onerror="this.onerror=null;this.src='./media/png/cafe/Cafe_express.png';" alt="">
                     </div>
                     <div class="txt_ctn">
@@ -84,8 +84,8 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
-                <div class="img_ctn">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
+                    <div class="img_ctn">
                         <img src="./media/webp/png/cafe/Cafe_Cortado.webp" onerror="this.onerror=null;this.src='./media/png/cafe/Cafe_Cortado.png';" alt="">
                     </div>
                     <div class="txt_ctn">
@@ -99,7 +99,7 @@
                 </div>
 
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
@@ -113,8 +113,8 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
-                <div class="img_ctn">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
+                    <div class="img_ctn">
                         <img src="./media/webp/png/cafe/Cafe_Capuchino.webp" onerror="this.onerror=null;this.src='./media/png/cafe/Cafe_Capuchino.png';" alt="">
                     </div>
                     <div class="txt_ctn">
@@ -127,7 +127,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/cafe/Cafe_Bombom.webp" onerror="this.onerror=null;this.src='./media/png/cafe/Cafe_Bombom.png';" alt="">
                     </div>
@@ -141,8 +141,8 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
-                <div class="img_ctn">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
+                    <div class="img_ctn">
                         <img src="./media/webp/png/cafe/colacao.webp" onerror="this.onerror=null;this.src='./media/png/cafe/colacao.png';" alt="">
                     </div>
                     <div class="txt_ctn">
@@ -159,15 +159,14 @@
 
             <div class="platos_box">
 
-                <div class="title" id="postres">
+                <div class="title wow animate__animated animate__fadeInDown" id="postres">
                     <h2>Té</h2>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
 
-                        <img src="./media/webp/png/cafe/Te_Chai.webp"
-                            onerror="this.onerror=null;this.src='./media/png/cafe/Te_Chai.png';" alt="">
+                        <img src="./media/webp/png/cafe/Te_Chai.webp" onerror="this.onerror=null;this.src='./media/png/cafe/Te_Chai.png';" alt="">
 
 
                     </div>
@@ -182,11 +181,10 @@
                 </div>
 
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
 
-                        <img src="./media/webp/png/cafe/Te_Mandarina.webp"
-                            onerror="this.onerror=null;this.src='./media/png/cafe/Te_Mandarina.png';" alt="">
+                        <img src="./media/webp/png/cafe/Te_Mandarina.webp" onerror="this.onerror=null;this.src='./media/png/cafe/Te_Mandarina.png';" alt="">
 
                     </div>
                     <div class="txt_ctn">
@@ -199,11 +197,10 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
 
-                        <img src="./media/webp/png/cafe/Te_Menta_Poleo.webp"
-                            onerror="this.onerror=null;this.src='./media/png/cafe/Te_Menta_Poleo.png';" alt="">
+                        <img src="./media/webp/png/cafe/Te_Menta_Poleo.webp" onerror="this.onerror=null;this.src='./media/png/cafe/Te_Menta_Poleo.png';" alt="">
 
                     </div>
                     <div class="txt_ctn">
@@ -216,11 +213,10 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
 
-                        <img src="./media/webp/png/cafe/Te_Rojo.webp"
-                            onerror="this.onerror=null;this.src='./media/png/cafe/Te_Rojo.png';" alt="">
+                        <img src="./media/webp/png/cafe/Te_Rojo.webp" onerror="this.onerror=null;this.src='./media/png/cafe/Te_Rojo.png';" alt="">
 
 
                     </div>
@@ -234,11 +230,10 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
 
-                        <img src="./media/webp/png/cafe/Te_Verde.webp"
-                            onerror="this.onerror=null;this.src='./media/png/cafe/Te_Verde.png';" alt="">
+                        <img src="./media/webp/png/cafe/Te_Verde.webp" onerror="this.onerror=null;this.src='./media/png/cafe/Te_Verde.png';" alt="">
 
 
                     </div>
@@ -252,11 +247,10 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
 
-                        <img src="./media/webp/png/cafe/Te_Negro.webp"
-                            onerror="this.onerror=null;this.src='./media/png/cafe/Te_Negro.png';" alt="">
+                        <img src="./media/webp/png/cafe/Te_Negro.webp" onerror="this.onerror=null;this.src='./media/png/cafe/Te_Negro.png';" alt="">
 
                     </div>
                     <div class="txt_ctn">
@@ -269,11 +263,10 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
 
-                        <img src="./media/webp/png/cafe/Te_Vainilla.webp"
-                            onerror="this.onerror=null;this.src='./media/png/cafe/Te_Vainilla.png';" alt="">
+                        <img src="./media/webp/png/cafe/Te_Vainilla.webp" onerror="this.onerror=null;this.src='./media/png/cafe/Te_Vainilla.png';" alt="">
 
                     </div>
                     <div class="txt_ctn">
@@ -286,11 +279,10 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
 
-                        <img src="./media/webp/png/cafe/Te_Tropical.webp"
-                            onerror="this.onerror=null;this.src='./media/png/cafe/Te_Tropical.png';" alt="">
+                        <img src="./media/webp/png/cafe/Te_Tropical.webp" onerror="this.onerror=null;this.src='./media/png/cafe/Te_Tropical.png';" alt="">
 
 
                     </div>
@@ -304,11 +296,10 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
 
-                        <img src="./media/webp/png/cafe/Te_Relajante.webp"
-                            onerror="this.onerror=null;this.src='./media/png/cafe/Te_Relajante.png';" alt="">
+                        <img src="./media/webp/png/cafe/Te_Relajante.webp" onerror="this.onerror=null;this.src='./media/png/cafe/Te_Relajante.png';" alt="">
 
 
                     </div>
@@ -322,11 +313,10 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
 
-                        <img src="./media/webp/png/cafe/Te_De_Hiervas_Verdes.webp"
-                            onerror="this.onerror=null;this.src='./media/png/cafe/Te_De_Hiervas_Verdes.png';" alt="">
+                        <img src="./media/webp/png/cafe/Te_De_Hiervas_Verdes.webp" onerror="this.onerror=null;this.src='./media/png/cafe/Te_De_Hiervas_Verdes.png';" alt="">
 
 
                     </div>
@@ -340,11 +330,10 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
 
-                        <img src="./media/webp/png/cafe/Te_verde_Tuareg.webp"
-                            onerror="this.onerror=null;this.src='./media/png/cafe/Te_verde_Tuareg.png';" alt="">
+                        <img src="./media/webp/png/cafe/Te_verde_Tuareg.webp" onerror="this.onerror=null;this.src='./media/png/cafe/Te_verde_Tuareg.png';" alt="">
 
 
                     </div>
@@ -375,13 +364,14 @@
         </div>
     </div>
 
-    <script src="https://code.jquery.com/jquery-3.6.4.js"
-        integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.4.js" integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
 
 
     <script>
+        new WOW().init();
+
 
         const swiper = new Swiper('.swiper', {
             direction: 'horizontal',
@@ -439,9 +429,6 @@
                 closeModal();
             }
         });
-
-
-
     </script>
 
 

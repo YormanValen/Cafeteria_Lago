@@ -23,7 +23,7 @@
 
             <div class="menu_items">
 
-                <a href="comidas.php" class="menu_item">
+                <a href="comidas.php" class="menu_item wow animate__animated animate__fadeInLeft">
                     <div class="title">
                         <h2>Comidas</h2>
                     </div>
@@ -32,7 +32,7 @@
                     </div>
                 </a>
 
-                <a href="bocadillos.php" class="menu_item">
+                <a href="bocadillos.php" class="menu_item wow animate__animated animate__fadeInLeft">
                     <div class="title">
                         <h2>Bocadillos</h2>
                     </div>
@@ -41,7 +41,7 @@
                     </div>
                 </a>
 
-                <a href="postres.php" class="menu_item">
+                <a href="postres.php" class="menu_item wow animate__animated animate__fadeInLeft">
                     <div class="title">
                         <h2>Postres</h2>
                     </div>
@@ -51,16 +51,17 @@
                     </div>
                 </a>
 
-                <a href="smotties.php" class="menu_item">
+                <a href="smotties.php" class="menu_item wow animate__animated animate__fadeInLeft">
                     <div class="title">
                         <h2>Smoothies</h2>
                     </div>
                     <div class="img_box">
-                        
+                    <img class="smoothie_img" src="./media/webp/png/smoothie.webp" onerror="this.onerror=null;this.src='./media/png/smoothie.png';"
+                            alt="smoothies">
                     </div>
                 </a>
 
-                <a href="refrescos.php" class="menu_item">
+                <a href="refrescos.php" class="menu_item wow animate__animated animate__fadeInLeft">
                     <div class="title">
                         <h2>Refrescos</h2>
                     </div>
@@ -70,7 +71,7 @@
                     </div>
                 </a>
 
-                <a href="cafes.php" class="menu_item">
+                <a href="cafes.php" class="menu_item wow animate__animated animate__fadeInLeft">
                     <div class="title">
                         <h2>Cafés</h2>
                     </div>
@@ -80,7 +81,7 @@
                     </div>
                 </a>
 
-                <a href="alcoholicas.php" class="menu_item">
+                <a href="alcoholicas.php" class="menu_item wow animate__animated animate__fadeInLeft">
                     <div class="title">
                         <h2>Bebidas <br> Alcoholicas</h2>
                     </div>
@@ -90,7 +91,7 @@
                     </div>
                 </a>
 
-                <a href="extras.php" class="menu_item">
+                <a href="extras.php" class="menu_item wow animate__animated animate__fadeInLeft">
                     <div class="title">
                         <h2>Extras</h2>
                     </div>
@@ -104,7 +105,7 @@
 
     </main>
     <?php include("./includes/footer.php") ?>
-
+    <script src="js/index.js"></script>
 
 
 </body>

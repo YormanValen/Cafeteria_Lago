@@ -28,5 +28,8 @@
 
 <meta property="og:image" content="media/png/logo.png" />
 
+<script src="js/wow.min.js"></script>
+
+
 
 <link rel="stylesheet" href=".\style\global.css">

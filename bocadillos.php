@@ -22,7 +22,7 @@
 
         <section class="desayunos_slide">
 
-            <div class="swiper">
+            <div class="swiper wow animate__animated animate__fadeInDown">
                 <!-- Additional required wrapper -->
                 <div class="swiper-wrapper">
                     <!-- Slides -->
@@ -49,11 +49,11 @@
 
             <div class="platos_box">
 
-                <div class="title" id="bocadillos">
+                <div class="title wow animate__animated animate__fadeInDown" id="bocadillos">
                     <h2>Bocadillos</h2>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
@@ -67,7 +67,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
@@ -82,11 +82,10 @@
                 </div>
 
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
 
-                        <img src="./media/webp/png/bocadillos/Pepito_De_Ternera.webp"
-                            onerror="this.onerror=null;this.src='./media/png/bocadillos/Pepito_De_Ternera.png';" alt="">
+                        <img src="./media/webp/png/bocadillos/Pepito_De_Ternera.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/Pepito_De_Ternera.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Bocadillo de pepito de ternera </h2>
@@ -98,12 +97,10 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
 
-                        <img src="./media/webp/png/bocadillos/Bocadillo_De_Pollo_A_La_PLancha.webp"
-                            onerror="this.onerror=null;this.src='./media/png/bocadillos/Bocadillo_De_Pollo_A_La_PLancha.png';"
-                            alt="">
+                        <img src="./media/webp/png/bocadillos/Bocadillo_De_Pollo_A_La_PLancha.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/Bocadillo_De_Pollo_A_La_PLancha.png';" alt="">
 
                     </div>
                     <div class="txt_ctn">
@@ -116,7 +113,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
@@ -134,12 +131,12 @@
 
             <div class="platos_box">
 
-                <div class="title" id="hamburguesa">
+                <div class="title wow animate__animated animate__fadeInDown" id="hamburguesa">
                     <h2>Hamburguesa</h2>
                 </div>
 
-            
-                <div class="plato_item">
+
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
@@ -153,8 +150,8 @@
                     </div>
                 </div>
 
-                
-                <div class="plato_item">
+
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/bocadillos/Combo_Hamburguesa.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/Combo_Hamburguesa.png';" alt="">
                     </div>
@@ -168,12 +165,10 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
 
-                        <img src="./media/webp/png/bocadillos/Hamburguesa_De_La_Casa.webp"
-                            onerror="this.onerror=null;this.src='./media/png/bocadillos/Hamburguesa_De_La_Casa.png';"
-                            alt="">
+                        <img src="./media/webp/png/bocadillos/Hamburguesa_De_La_Casa.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/Hamburguesa_De_La_Casa.png';" alt="">
 
                     </div>
                     <div class="txt_ctn">
@@ -190,11 +185,11 @@
 
             <div class="platos_box">
 
-                <div class="title" id="sandwich">
+                <div class="title wow animate__animated animate__fadeInDown" id="sandwich">
                     <h2>Sándwich</h2>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/bocadillos/Sandwich_Americano.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/Sandwich_Americano.png';" alt="">
                     </div>
@@ -210,7 +205,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/bocadillos/Sandwich_Vegetal_1.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/Sandwich_Vegetal_1.png';" alt="">
                     </div>
@@ -230,12 +225,12 @@
 
             <div class="platos_box">
 
-                <div class="title" id="pizza">
+                <div class="title wow animate__animated animate__fadeInDown" id="pizza">
                     <h2>Pizza</h2>
                 </div>
 
-                <div class="plato_item">
-                <div class="img_ctn">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
+                    <div class="img_ctn">
                         <img src="./media/webp/png/bocadillos/Pizza_Pollo_Champinones.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/Pizza_Pollo_Champinones.png';" alt="">
                     </div>
                     <div class="txt_ctn">
@@ -250,7 +245,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/bocadillos/Hawaiana.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/Hawaiana.png';" alt="">
                     </div>
@@ -266,7 +261,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/bocadillos/Prosciutto_E_Funghi.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/Prosciutto_E_Funghi.png';" alt="">
                     </div>
@@ -282,7 +277,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/bocadillos/5_Quesos.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/5_Quesos.png';" alt="">
                     </div>
@@ -315,13 +310,14 @@
         </div>
     </div>
 
-    <script src="https://code.jquery.com/jquery-3.6.4.js"
-        integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.4.js" integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
 
 
     <script>
+        new WOW().init();
+
 
         const swiper = new Swiper('.swiper', {
             direction: 'horizontal',
@@ -379,9 +375,6 @@
                 closeModal();
             }
         });
-
-
-
     </script>
 
 </body>

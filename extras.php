@@ -24,11 +24,11 @@
 
             <div class="platos_box">
 
-                <div class="title">
+                <div class="title wow animate__animated animate__fadeInDown">
                     <h2>Extras</h2>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="" alt="">
                     </div>
@@ -43,7 +43,7 @@
                 </div>
 
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="" alt="">
                     </div>
@@ -57,7 +57,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="" alt="">
                     </div>
@@ -72,7 +72,7 @@
                 </div>
 
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="" alt="">
                     </div>
@@ -86,7 +86,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="" alt="">
                     </div>
@@ -100,7 +100,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="" alt="">
                     </div>
@@ -114,7 +114,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="" alt="">
                     </div>
@@ -128,7 +128,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="" alt="">
                     </div>
@@ -142,7 +142,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="" alt="">
                     </div>
@@ -156,7 +156,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="" alt="">
                     </div>
@@ -170,7 +170,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="" alt="">
                     </div>
@@ -184,7 +184,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="" alt="">
                     </div>
@@ -219,13 +219,14 @@
         </div>
     </div>
 
-    <script src="https://code.jquery.com/jquery-3.6.4.js"
-        integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.4.js" integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
 
 
     <script>
+        new WOW().init();
+
 
         const swiper = new Swiper('.swiper', {
             direction: 'horizontal',
@@ -283,9 +284,6 @@
                 closeModal();
             }
         });
-
-
-
     </script>
 
 </body>

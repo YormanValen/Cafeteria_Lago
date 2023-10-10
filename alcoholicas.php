@@ -22,7 +22,7 @@
 
         <section class="desayunos_slide">
 
-            <div class="swiper">
+            <div class="swiper ">
                 <!-- Additional required wrapper -->
                 <div class="swiper-wrapper">
                     <!-- Slides -->
@@ -61,18 +61,17 @@
 
             <div class="platos_box">
 
-                <div class="title_principal_licores" id="licores">
+                <div class="title_principal_licores wow animate__animated animate__fadeInDown " id="licores">
                     <h1>Licores</h1>
                 </div>
 
-                <div class="title">
+                <div class="title wow animate__animated animate__fadeInDown">
                     <h2>Vino Ribera del Duero</h2>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft   ">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>UN Roble copa</h2>
@@ -85,7 +84,7 @@
                 </div>
 
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft   ">
                     <div class="img_ctn">
                         <img src="./media/webp/png/alcoholicas/UN_Roble.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/UN_Roble.png';" alt="">
                     </div>
@@ -99,10 +98,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft   ">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>UN Crianza copa</h2>
@@ -115,10 +113,9 @@
                 </div>
 
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft   ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/UN_Crianza.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/UN_Crianza.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/UN_Crianza.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/UN_Crianza.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>UN Crianza botella</h2>
@@ -133,14 +130,13 @@
 
             <div class="platos_box">
 
-                <div class="title" id="postres">
+                <div class="title wow animate__animated animate__fadeInDown" id="postres">
                     <h2>Convento de Oreja</h2>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft   ">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Roble copa</h2>
@@ -153,10 +149,9 @@
                 </div>
 
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft   ">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Roble botella </h2>
@@ -172,14 +167,13 @@
 
             <div class="platos_box">
 
-                <div class="title" id="rioja">
+                <div class="title wow animate__animated animate__fadeInDown" id="rioja">
                     <h2>RIOJA</h2>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft   ">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Condado de Artola crianza copa</h2>
@@ -192,10 +186,9 @@
                 </div>
 
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft   ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/Contado_De_Artola.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Contado_De_Artola.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/Contado_De_Artola.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/Contado_De_Artola.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Condado de Artola crianza botella</h2>
@@ -211,14 +204,13 @@
 
             <div class="platos_box">
 
-                <div class="title" id="ramon_bilbao_crianza">
+                <div class="title wow animate__animated animate__fadeInDown" id="ramon_bilbao_crianza">
                     <h2>Ramón Bilbao crianza</h2>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft   ">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Ramón Bilbao Copa </h2>
@@ -231,10 +223,9 @@
                 </div>
 
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft   ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/Ramon_Bilbao.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Ramon_Bilbao.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/Ramon_Bilbao.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/Ramon_Bilbao.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Ramón Bilbao botella</h2>
@@ -248,13 +239,13 @@
 
             </div>
 
-            <div class="platos_box">
+            <div class="platos_box ">
 
-                <div class="title" id="albariño">
+                <div class="title wow animate__animated animate__fadeInDown" id="albariño">
                     <h2>ALBARIÑO</h2>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft   ">
                     <div class="img_ctn">
                         <img src="./media/webp/png/alcoholicas/Camino_DO_Rey.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/Camino_DO_Rey.png';" alt="">
                     </div>
@@ -269,10 +260,9 @@
                 </div>
 
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft   ">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Camino Do Rey botella </h2>
@@ -287,14 +277,13 @@
 
             <div class="platos_box">
 
-                <div class="title" id="verdejo">
+                <div class="title wow animate__animated animate__fadeInDown" id="verdejo">
                     <h2>VERDEJO</h2>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Rueda Canto Real copa </h2>
@@ -307,10 +296,9 @@
                 </div>
 
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft   ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/Canto_Real.webp"
-                            onerror="this.onerror=null;this.src='';" alt="./media/png/alcoholicas/Canto_Real.png">
+                        <img src="./media/webp/png/alcoholicas/Canto_Real.webp" onerror="this.onerror=null;this.src='';" alt="./media/png/alcoholicas/Canto_Real.png">
                     </div>
                     <div class="txt_ctn">
                         <h2>Rueda Canto Real botella</h2>
@@ -322,10 +310,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft   ">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Sangría copa </h2>
@@ -337,10 +324,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Sangría jarra </h2>
@@ -355,14 +341,13 @@
 
             <div class="platos_box">
 
-                <div class="title_principal" id="licores_sin_alcohol">
+                <div class="title_principal wow animate__animated animate__fadeInDown " id="licores_sin_alcohol">
                     <h1>Licores sin alcohol</h1>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Licores sin alcohol</h2>
@@ -375,10 +360,9 @@
                 </div>
 
 
-                <div class="plato_item">
-                <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/Ruavieja.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Ruavieja.png';" alt="">
+                <div class="plato_item wow animate__animated animate__fadeInLeft   ">
+                    <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/Ruavieja.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/Ruavieja.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Orujo hiervas</h2>
@@ -390,10 +374,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft   ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/Ruavieja_Crema.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Ruavieja_Crema.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/Ruavieja_Crema.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/Ruavieja_Crema.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Crema de orujo</h2>
@@ -405,10 +388,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
-                <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/Zoco.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Zoco.png';" alt="">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
+                    <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/Zoco.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/Zoco.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Pacharan</h2>
@@ -420,10 +402,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
-                <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/Baileys.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Baileys.png';" alt="">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
+                    <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/Baileys.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/Baileys.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Baileys</h2>
@@ -439,14 +420,13 @@
 
             <div class="platos_box">
 
-                <div class="title_principal" id="cervezas">
+                <div class="title_principal wow animate__animated animate__fadeInDown" id="cervezas">
                     <h1>Cervezas</h1>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/Maho_Rose.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Maho_Rose.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/Maho_Rose.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/Maho_Rose.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Mahou Rose</h2>
@@ -459,10 +439,9 @@
                 </div>
 
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/Mixta.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Mixta.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/Mixta.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/Mixta.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Mahou mixta</h2>
@@ -474,10 +453,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/Maho_Radler.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Maho_Radler.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/Maho_Radler.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/Maho_Radler.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Mahou radler</h2>
@@ -489,10 +467,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/Brutus.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Brutus.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/Brutus.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/Brutus.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Mahou brutus</h2>
@@ -504,10 +481,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/Maho_Clasica.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Maho_Clasica.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/Maho_Clasica.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/Maho_Clasica.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Mahou clasica</h2>
@@ -519,10 +495,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/Maho_5_Estrellas.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Maho_5_Estrellas.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/Maho_5_Estrellas.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/Maho_5_Estrellas.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Mahu 5 estrellas</h2>
@@ -534,10 +509,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
-                <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/Maho_Sin.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Maho_Sin.png';" alt="">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
+                    <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/Maho_Sin.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/Maho_Sin.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Mahou sin filtrar</h2>
@@ -549,10 +523,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/Maho_Sin_Filtrar.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Maho_Sin_Filtrar.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/Maho_Sin_Filtrar.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/Maho_Sin_Filtrar.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Mahou sin alcohol</h2>
@@ -567,14 +540,13 @@
 
             <div class="platos_box">
 
-                <div class="title_principal" id="wisky">
+                <div class="title_principal wow animate__animated animate__fadeInDown" id="wisky">
                     <h1>Combinados de whisky</h1>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/cardhu.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/cardhu.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/cardhu.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/cardhu.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Cardhu</h2>
@@ -586,10 +558,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/Baileys.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Baileys.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/Baileys.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/Baileys.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Baileys</h2>
@@ -601,10 +572,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/Martini_Bianco.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Martini_Bianco.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/Martini_Bianco.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/Martini_Bianco.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Martini bianco</h2>
@@ -616,10 +586,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/Martini_Rosso.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Martini_Rosso.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/Martini_Rosso.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/Martini_Rosso.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Martini rosso</h2>
@@ -631,10 +600,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/White_Label.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/White_Label.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/White_Label.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/White_Label.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>White label</h2>
@@ -646,10 +614,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/Black_Label.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Black_Label.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/Black_Label.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/Black_Label.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Black label</h2>
@@ -662,10 +629,9 @@
                 </div>
 
 
-                <div class="plato_item">
-                <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/ballantines.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/ballantines.png';" alt="">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
+                    <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/ballantines.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/ballantines.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Ballantines</h2>
@@ -677,10 +643,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/j_y_b.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/j_y_b.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/j_y_b.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/j_y_b.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>J & B</h2>
@@ -692,10 +657,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/jack_daniels.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/jack_daniels.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/jack_daniels.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/jack_daniels.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Jack Daniel's</h2>
@@ -707,10 +671,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Johnnie Walker negro </h2>
@@ -722,10 +685,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/cardhu.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/cardhu.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/cardhu.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/cardhu.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Cardhu</h2>
@@ -737,10 +699,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/chivas.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/chivas.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/chivas.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/chivas.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Chivas</h2>
@@ -752,10 +713,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Buchanans</h2>
@@ -771,14 +731,13 @@
 
             <div class="platos_box">
 
-                <div class="title_principal" id="coñac">
+                <div class="title_principal wow animate__animated animate__fadeInDown" id="coñac">
                     <h1>Coñac</h1>
                 </div>
 
-                <div class="plato_item">
-                <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/Veterano.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Veterano.png';" alt="">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
+                    <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/Veterano.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/Veterano.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Veterano copa combi</h2>
@@ -791,10 +750,9 @@
                 </div>
 
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/soberano.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/soberano.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/soberano.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/soberano.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Soberano </h2>
@@ -806,10 +764,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/magno.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/magno.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/magno.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/magno.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Magno</h2>
@@ -821,10 +778,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/torres_5.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/torres_5.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/torres_5.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/torres_5.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Torres 5</h2>
@@ -836,10 +792,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/torres_10.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/torres_10.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/torres_10.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/torres_10.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Torres 10</h2>
@@ -854,14 +809,13 @@
 
             <div class="platos_box">
 
-                <div class="title_principal" id="vodka">
+                <div class="title_principal wow animate__animated animate__fadeInDown" id="vodka">
                     <h1>Vodka</h1>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/vodka.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/vodka.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/vodka.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/vodka.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Vodka</h2>
@@ -874,10 +828,9 @@
                 </div>
 
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/smirnoff.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/smirnoff.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/smirnoff.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/smirnoff.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Smirnoff</h2>
@@ -893,18 +846,17 @@
 
             <div class="platos_box">
 
-                <div class="title_principal" id="ron">
+                <div class="title_principal wow animate__animated animate__fadeInDown" id="ron">
                     <h1>Ron</h1>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/pampero.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/pampero.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/pampero.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/pampero.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Pampero</h2>
-                        <p>Copa 7,50  .... </p>
+                        <p>Copa 7,50 .... </p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/pampero.png">ver</a>
                             <h3>€ ...</h3>
@@ -912,10 +864,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/barcelo.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/barcelo.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/barcelo.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/barcelo.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Barceló</h2>
@@ -928,10 +879,9 @@
                 </div>
 
 
-                <div class="plato_item">
-                <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/brugal.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/brugal.png';" alt="">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
+                    <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/brugal.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/brugal.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Brugal</h2>
@@ -943,10 +893,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
-                <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/Cacique_500.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Cacique_500.png';" alt="">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
+                    <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/Cacique_500.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/Cacique_500.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Cacique 500</h2>
@@ -958,10 +907,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Legendario</h2>
@@ -973,10 +921,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Aniversario</h2>
@@ -992,14 +939,13 @@
 
             <div class="platos_box">
 
-                <div class="title_principal" id="ginebra">
+                <div class="title_principal wow animate__animated animate__fadeInDown" id="ginebra">
                     <h1>Ginebra</h1>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/puerto_de_indias.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/puerto_de_indias.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/puerto_de_indias.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/puerto_de_indias.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Puerto de indias</h2>
@@ -1011,10 +957,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/beeafer.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/beeafer.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/beeafer.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/beeafer.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Beefeater copa</h2>
@@ -1027,10 +972,9 @@
                 </div>
 
 
-                <div class="plato_item">
-                <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/london.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/london.png';" alt="">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
+                    <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/london.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/london.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Tanqueray</h2>
@@ -1042,10 +986,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/bombay.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/bombay.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/bombay.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/bombay.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Bombas Sapphire</h2>
@@ -1057,10 +1000,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
-                <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/martin_millers.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/martin_millers.png';" alt="">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
+                    <div class="img_ctn">
+                        <img src="./media/webp/png/alcoholicas/martin_millers.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/martin_millers.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Martin Miller's</h2>
@@ -1072,10 +1014,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/hendricks.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/hendricks.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/hendricks.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/hendricks.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Hendrick's</h2>
@@ -1087,10 +1028,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/nordes.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/nordes.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/nordes.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/nordes.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Nórdes</h2>
@@ -1102,10 +1042,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/bulddog.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/bulddog.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/bulddog.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/bulddog.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Buldog</h2>
@@ -1117,10 +1056,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/jose_cuervo.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/jose_cuervo.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/jose_cuervo.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/jose_cuervo.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Jose Cuervo</h2>
@@ -1132,10 +1070,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/seagram.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/seagram.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/seagram.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/seagram.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Seagram's</h2>
@@ -1147,10 +1084,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/tequila_1800.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/tequila_1800.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/tequila_1800.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/tequila_1800.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Reserva 1800</h2>
@@ -1162,10 +1098,9 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
                     <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/Rives.webp"
-                            onerror="this.onerror=null;this.src='./media/png/alcoholicas/Rives.png';" alt="">
+                        <img src="./media/webp/png/alcoholicas/Rives.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/Rives.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Rives original</h2>
@@ -1188,20 +1123,21 @@
     <div id="myModal" class="modal">
         <div class="modal-content">
             <span class="close">&times;</span>
-            <img id="modal-img" src=""
-                            onerror="this.onerror=null;this.src='';" alt="">
+            <img id="modal-img" src="" onerror="this.onerror=null;this.src='';" alt="">
             <h2 id="modal-title"></h2>
             <p id="modal-description"></p>
         </div>
     </div>
 
-    <script src="https://code.jquery.com/jquery-3.6.4.js"
-        integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.4.js" integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
 
 
+
     <script>
+        new WOW().init();
+
 
         const swiper = new Swiper('.swiper', {
             direction: 'horizontal',
@@ -1259,9 +1195,6 @@
                 closeModal();
             }
         });
-
-
-
     </script>
 
 </body>

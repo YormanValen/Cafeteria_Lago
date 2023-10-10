@@ -24,11 +24,11 @@
 
             <div class="platos_box">
 
-                <div class="title" id="postres">
+                <div class="title wow animate__animated animate__fadeInDown" id="postres">
                     <h2>Smoothies</h2>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
 
                         <img src="./media/webp/png/smoothies/Smoothie_Tropical.webp"
@@ -45,7 +45,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
 
                         <img src="./media/webp/png/smoothies/Smoothie_Banana_Red.webp"
@@ -63,7 +63,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/smoothies/Peach_Paradise.webp"
                             onerror="this.onerror=null;this.src='./media/png/smoothies/Peach_Paradise.png';" alt="">
@@ -79,7 +79,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
 
                         <img src="./media/webp/png/smoothies/Smoothie_Pina_Colada.webp"
@@ -97,7 +97,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
 
                         <img src="./media/webp/png/smoothies/Smoothi_Natural_verde.webp"
@@ -115,7 +115,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
 
                         <img src="./media/webp/png/smoothies/Mango_Fresh.webp"

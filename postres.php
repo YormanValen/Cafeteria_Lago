@@ -22,7 +22,7 @@
 
         <section class="desayunos_slide">
 
-            <div class="swiper">
+            <div class="swiper wow animate__animated animate__fadeInDown">
                 <!-- Additional required wrapper -->
                 <div class="swiper-wrapper">
                     <!-- Slides -->
@@ -43,11 +43,11 @@
 
             <div class="platos_box">
 
-                <div class="title" id="postres">
+                <div class="title wow animate__animated animate__fadeInDown" id="postres">
                     <h2>Postres</h2>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="" alt="">
                     </div>
@@ -62,7 +62,7 @@
                 </div>
 
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="" alt="">
                     </div>
@@ -76,8 +76,8 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
-                <div class="img_ctn">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
+                    <div class="img_ctn">
                         <img src="./media/webp/png/postres/Yogourt.webp" onerror="this.onerror=null;this.src='./media/png/postres/Yogourt.png';" alt="">
                     </div>
                     <div class="txt_ctn">
@@ -91,7 +91,7 @@
                 </div>
 
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/postres/Fruta_De_Temporada.webp" onerror="this.onerror=null;this.src='./media/png/postres/Fruta_De_Temporada.png';" alt="">
                     </div>
@@ -105,7 +105,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="" alt="">
                     </div>
@@ -119,7 +119,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="" alt="">
                     </div>
@@ -136,11 +136,11 @@
 
             <div class="platos_box">
 
-                <div class="title" id="helados">
+                <div class="title wow animate__animated animate__fadeInDown" id="helados">
                     <h2>Helados</h2>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/postres/Maxibon.webp" onerror="this.onerror=null;this.src='./media/png/postres/Maxibon.png';" alt="">
                     </div>
@@ -155,7 +155,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/postres/Oreo.webp" onerror="this.onerror=null;this.src='./media/png/postres/Oreo.png';" alt="">
                     </div>
@@ -169,7 +169,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/postres/Milko.webp" onerror="this.onerror=null;this.src='./media/png/postres/Milko.png';" alt="">
                     </div>
@@ -183,7 +183,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/postres/Pirulo.webp" onerror="this.onerror=null;this.src='./media/png/postres/Pirulo.png';" alt="">
                     </div>
@@ -197,7 +197,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/postres/Extreme.webp" onerror="this.onerror=null;this.src='./media/png/postres/Extreme.png';" alt="">
                     </div>
@@ -233,6 +233,9 @@
 
 
     <script>
+        new WOW().init();
+
+
         const swiper = new Swiper('.swiper', {
             direction: 'horizontal',
             loop: true,

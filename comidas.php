@@ -22,7 +22,7 @@
 
         <section class="desayunos_slide">
 
-            <div class="swiper">
+            <div class="swiper wow animate__animated animate__fadeInDown">
                 <!-- Additional required wrapper -->
                 <div class="swiper-wrapper">
                     <!-- Slides -->
@@ -51,16 +51,16 @@
         <section class="desayunos_section">
 
             <div class="desayunos_container">
-                <div class="title_principal">
+                <div class="title_principal wow animate__animated animate__fadeInDown">
                     <h1>Desayunos</h1>
                 </div>
                 <div class="desayunos_box" id="desayunos">
 
-                    <div class="title" id="español_tradicional">
+                    <div class="title wow animate__animated animate__fadeInDown" id="español_tradicional">
                         <h2>Español tradicional</h2>
                     </div>
 
-                    <div class="plato_item">
+                    <div class="plato_item wow animate__animated animate__fadeInLeft">
                         <div class="img_ctn">
                             <img src="./media/webp/png/comida/Churros_Con_Cafe.webp" onerror="this.onerror=null;this.src='./media/png/comida/Churros_Con_Cafe.png';" alt="">
                         </div>
@@ -74,7 +74,7 @@
                         </div>
                     </div>
 
-                    <div class="plato_item">
+                    <div class="plato_item wow animate__animated animate__fadeInLeft">
                         <div class="img_ctn">
                             <img src="./media/webp/png/comida/Porras_Con_Cafe.webp" onerror="this.onerror=null;this.src='./media/png/comida/Porras_Con_Cafe.png';" alt="">
                         </div>
@@ -89,7 +89,7 @@
                     </div>
 
 
-                    <div class="plato_item">
+                    <div class="plato_item wow animate__animated animate__fadeInLeft">
                         <div class="img_ctn">
                             <img src="./media/webp/png/comida/Barrita_De_Pan_Multisemilla.webp" onerror="this.onerror=null;this.src='./media/png/comida/Barrita_De_Pan_Multisemilla.png';" alt="">
                         </div>
@@ -104,7 +104,7 @@
                     </div>
 
 
-                    <div class="plato_item">
+                    <div class="plato_item wow animate__animated animate__fadeInLeft">
                         <div class="img_ctn">
                             <img src="./media/webp/png/comida/Barrita_De_Pan_Tostado_Con_Tomate_y_Aceite.webp" onerror="this.onerror=null;this.src='./media/png/comida/Barrita_De_Pan_Tostado.png';" alt="">
                         </div>
@@ -118,7 +118,7 @@
                         </div>
                     </div>
 
-                    <div class="plato_item">
+                    <div class="plato_item wow animate__animated animate__fadeInLeft">
                         <div class="img_ctn">
                             <img src="./media/webp/png/comida/Croissant_A_La_Plancha.webp" onerror="this.onerror=null;this.src='./media/png/comida/Croissant_A_La_Plancha.png';" alt="">
                         </div>
@@ -132,7 +132,7 @@
                         </div>
                     </div>
 
-                    <div class="plato_item">
+                    <div class="plato_item wow animate__animated animate__fadeInLeft">
                         <div class="img_ctn">
                             <img src="./media/webp/png/comida/Sandwich_Mixto.webp" onerror="this.onerror=null;this.src='./media/png/comida/Sandwich_Mixto.png';" alt="">
                         </div>
@@ -147,7 +147,7 @@
                     </div>
 
 
-                    <div class="plato_item">
+                    <div class="plato_item wow animate__animated animate__fadeInLeft">
                         <div class="img_ctn">
                             <img src="./media/webp/png/comida/Desayuno_Con_Toritilla.webp" onerror="this.onerror=null;this.src='./media/png/comida/Desayuno_Con_Toritilla.png';" alt="">
                         </div>
@@ -165,11 +165,11 @@
 
                 <div class="desayunos_box">
 
-                    <div class="title" id="americano">
+                    <div class="title wow animate__animated animate__fadeInDown" id="americano">
                         <h2>Americano</h2>
                     </div>
 
-                    <div class="plato_item">
+                    <div class="plato_item wow animate__animated animate__fadeInLeft">
                         <div class="img_ctn">
                             <img src="./media/webp/png/comida/Barrita_De_Pan_Tostado_Huevos_Y_Cafe.webp" onerror="this.onerror=null;this.src='./media/png/comida/Barrita_De_Pan_Tostado_Huevos_Y_Cafe.png';" alt="">
                         </div>
@@ -183,7 +183,7 @@
                         </div>
                     </div>
 
-                    <div class="plato_item">
+                    <div class="plato_item wow animate__animated animate__fadeInLeft">
                         <div class="img_ctn">
                             <img src="./media/webp/png/comida/Desayuno_Americano.webp" onerror="this.onerror=null;this.src='./media/png/comida/Desayuno_Americano.png';" alt="">
                         </div>
@@ -197,7 +197,7 @@
                         </div>
                     </div>
 
-                    <div class="plato_item">
+                    <div class="plato_item wow animate__animated animate__fadeInLeft">
                         <div class="img_ctn">
                             <img src="./media/webp/png/comida/Tortita_Pancakes.webp" onerror="this.onerror=null;this.src='./media/png/comida/Tortita_Pancakes.png';" alt="">
                         </div>
@@ -213,11 +213,11 @@
                 </div>
 
                 <div class="desayunos_box">
-                    <div class="title" id="ingles">
+                    <div class="title wow animate__animated animate__fadeInDown" id="ingles">
                         <h2>Inglés</h2>
                     </div>
 
-                    <div class="plato_item">
+                    <div class="plato_item wow animate__animated animate__fadeInLeft">
                         <div class="img_ctn">
                             <img src="./media/webp/png/comida/Desayuno_Ingles.webp" onerror="this.onerror=null;this.src='./media/png/comida/Desayuno_Ingles.png';" alt="">
 
@@ -238,11 +238,11 @@
 
                 <div class="desayunos_box">
 
-                    <div class="title" id="ranchero">
+                    <div class="title wow animate__animated animate__fadeInDown" id="ranchero">
                         <h2>Ranchero</h2>
                     </div>
 
-                    <div class="plato_item">
+                    <div class="plato_item wow animate__animated animate__fadeInLeft">
                         <div class="img_ctn">
                             <img src="./media/webp/png/comida/Desayuno_Ranchero.webp" onerror="this.onerror=null;this.src='./media/png/comida/Desayuno_Ranchero.png';" alt="">
                         </div>
@@ -258,7 +258,7 @@
                         </div>
                     </div>
 
-                    <div class="plato_item">
+                    <div class="plato_item wow animate__animated animate__fadeInLeft">
                         <div class="img_ctn">
                             <img src="./media/webp/png/comida/Zumo.webp" onerror="this.onerror=null;this.src='./media/png/comida/Zumo.png';" alt="">
                         </div>
@@ -278,11 +278,11 @@
 
                 <div class="desayunos_box">
 
-                    <div class="title" id="bolleria">
+                    <div class="title wow animate__animated animate__fadeInDown" id="bolleria">
                         <h2>Bollería</h2>
                     </div>
 
-                    <div class="plato_item">
+                    <div class="plato_item wow animate__animated animate__fadeInLeft">
                         <div class="img_ctn">
                             <img src="./media/webp/png/comida/Tostada_De_Pan_Bimbo.webp" onerror="this.onerror=null;this.src='./media/png/comida/Tostada_De_Pan_Bimbo.png';" alt="">
                         </div>
@@ -298,7 +298,7 @@
                         </div>
                     </div>
 
-                    <div class="plato_item">
+                    <div class="plato_item wow animate__animated animate__fadeInLeft">
                         <div class="img_ctn">
                             <img src="./media/webp/png/comida/Croissant.webp" onerror="this.onerror=null;this.src='./media/png/comida/Croissant.png';" alt="">
                         </div>
@@ -314,7 +314,7 @@
                         </div>
                     </div>
 
-                    <div class="plato_item">
+                    <div class="plato_item wow animate__animated animate__fadeInLeft">
                         <div class="img_ctn">
                             <img src="./media/webp/png/comida/Napolitana_De_Cacao.webp" onerror="this.onerror=null;this.src='./media/png/comida/Napolitana_De_Cacao.png';" alt="">
                         </div>
@@ -330,7 +330,7 @@
                         </div>
                     </div>
 
-                    <div class="plato_item">
+                    <div class="plato_item wow animate__animated animate__fadeInLeft">
                         <div class="img_ctn">
                             <img src="./media/webp/png/comida/Ensaimada.webp" onerror="this.onerror=null;this.src='./media/png/comida/Ensaimada.png';" alt="">
                         </div>
@@ -346,7 +346,7 @@
                         </div>
                     </div>
 
-                    <div class="plato_item">
+                    <div class="plato_item wow animate__animated animate__fadeInLeft">
                         <div class="img_ctn">
                             <img src="./media/webp/png/comida/Pan_Trensado.webp" onerror="this.onerror=null;this.src='./media/png/comida/Pan_Trensado.png';" alt="">
                         </div>
@@ -362,7 +362,7 @@
                         </div>
                     </div>
 
-                    <div class="plato_item">
+                    <div class="plato_item wow animate__animated animate__fadeInLeft">
                         <div class="img_ctn">
                             <img src="./media/webp/png/comida/Pan_Trenzado_Cacao.webp" onerror="this.onerror=null;this.src='./media/png/comida/Pan_Trenzado_Cacao.png';" alt="">
                         </div>
@@ -378,7 +378,7 @@
                         </div>
                     </div>
 
-                    <div class="plato_item">
+                    <div class="plato_item wow animate__animated animate__fadeInLeft">
                         <div class="img_ctn">
                             <img src="./media/webp/png/comida/Gofre.webp" onerror="this.onerror=null;this.src='./media/png/comida/Gofre.png';" alt="">
                         </div>
@@ -399,11 +399,11 @@
 
             <div class="desayunos_box">
 
-                <div class="title_principal" id="sopas">
+                <div class="title_principal wow animate__animated animate__fadeInDown" id="sopas">
                     <h2>Sopas</h2>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
@@ -419,7 +419,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/comida/Sopa_De_Calabacin.webp" onerror="this.onerror=null;this.src='./media/png/comida/Sopa_De_Calabacin.png';" alt="">
 
@@ -436,7 +436,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/comida/Sopa_De_Lentejas.webp" onerror="this.onerror=null;this.src='./media/png/comida/Sopa_De_Lentejas.png';" alt="">
 
@@ -456,11 +456,11 @@
 
             <div class="desayunos_box">
 
-                <div class="title_principal" id="platos_combinados">
+                <div class="title_principal wow animate__animated animate__fadeInDown" id="platos_combinados">
                     <h2>Platos Combinados</h2>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
 
                     <div class="img_ctn">
                         <img src="./media/webp/png/comida/Filete_De_Pollo_Plancha.webp" onerror="this.onerror=null;this.src='./media/png/comida/Filete_De_Pollo_Plancha.png';" alt="">
@@ -478,7 +478,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/comida/Cinta_De_Lomo_A_La_Plancha.webp" onerror="this.onerror=null;this.src='./media/png/comida/Cinta_De_Lomo_A_La_Plancha.png';" alt="">
 
@@ -495,7 +495,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/comida/Filete_De_Ternera_Plancha.webp" onerror="this.onerror=null;this.src='./media/png/comida/Filete_De_Ternera_Plancha.png';" alt="">
 
@@ -515,11 +515,11 @@
 
             <div class="desayunos_box">
 
-                <div class="title_principal" id="raciones">
+                <div class="title_principal wow animate__animated animate__fadeInDown" id="raciones">
                     <h2>Raciones</h2>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/comida/Jamon_Con_Oregano.webp" onerror="this.onerror=null;this.src='./media/png/comida/Jamon_Con_Oregano.png';" alt="">
                     </div>
@@ -535,7 +535,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/comida/Alitas_A_La_bbq.webp" onerror="this.onerror=null;this.src='./media/png/comida/Alitas_A_La_bbq.png';" alt="">
                     </div>
@@ -551,7 +551,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/comida/Patatas_Bravas.webp" onerror="this.onerror=null;this.src='./media/png/comida/Patatas_Bravas.png';" alt="">
                     </div>
@@ -567,7 +567,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/comida/Patatas_Alioli.webp" onerror="this.onerror=null;this.src='./media/png/comida/Patatas_Alioli.png';" alt="">
                     </div>
@@ -583,7 +583,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
 
                         <img src="./media/webp/png/comida/Patatas_5_Salsas.webp" onerror="this.onerror=null;this.src='./media/png/comida/Patatas_5_Salsas.png';" alt="">
@@ -601,7 +601,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
 
                         <img src="./media/webp/png/comida/Oreja_De_Cerdo_A_La_Plancha.webp" onerror="this.onerror=null;this.src='./media/png/comida/Oreja_De_Cerdo_A_La_Plancha.png';" alt="">
@@ -619,7 +619,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/comida/Huevos_Rotos.webp" onerror="this.onerror=null;this.src='./media/png/comida/Huevos_Rotos.png';" alt="">
                     </div>
@@ -635,7 +635,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
@@ -651,7 +651,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
 
                         <img src="./media/webp/png/comida/Calamares_A_La_Romana.webp" onerror="this.onerror=null;this.src='./media/png/comida/Calamares_A_La_Romana.png';" alt="">
@@ -669,7 +669,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="./media/webp/png/comida/Sepia.webp" onerror="this.onerror=null;this.src='./media/png/comida/Sepia.png';" alt="">
                     </div>
@@ -685,7 +685,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
                         <img src="" onerror="this.onerror=null;this.src='';" alt="">
                     </div>
@@ -701,7 +701,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
 
                         <img src="./media/webp/png/comida/Tabla_De_Embutido_Iberico.webp" onerror="this.onerror=null;this.src='./media/png/comida/Tabla_De_Embutido_Iberico.png';" alt="">
@@ -723,11 +723,11 @@
 
             <div class="desayunos_box">
 
-                <div class="title_principal" id="ensaladas">
+                <div class="title_principal wow animate__animated animate__fadeInDown" id="ensaladas">
                     <h2>Ensaladas</h2>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
 
                         <img src="./media/webp/png/comida/Ensalada_Mixta.webp" onerror="this.onerror=null;this.src='./media/png/comida/Ensalada_Mixta.png';" alt="">
@@ -746,7 +746,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
 
                         <img src="./media/webp/png/comida/Ensalada_De_Tomate.webp" onerror="this.onerror=null;this.src='./media/png/comida/Ensalada_De_Tomate.png';" alt="">
@@ -763,7 +763,7 @@
                     </div>
                 </div>
 
-                <div class="plato_item">
+                <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
 
                         <img src="./media/webp/png/comida/Ensalada_De_Cabrales.webp" onerror="this.onerror=null;this.src='./media/png/comida/Ensalada_De_Cabrales.png';" alt="">
@@ -803,6 +803,9 @@
 
 
     <script>
+        new WOW().init();
+
+
         const swiper = new Swiper('.swiper', {
             direction: 'horizontal',
             loop: true,

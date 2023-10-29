@@ -66,7 +66,7 @@
                         </div>
                         <div class="txt_ctn">
                             <h2>Churros y café</h2>
-                            <p>Descripción</p>
+                            <p>Descripción 1</p>
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Churros_Con_Cafe.png">ver</a>
                                 <h3>€ 3,50</h3>

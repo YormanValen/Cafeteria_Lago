@@ -85,8 +85,7 @@
                 <div class="plato_item">
                     <div class="img_ctn">
 
-                        <img src="./media/webp/png/bocadillos/Pepito_De_Ternera.webp"
-                            onerror="this.onerror=null;this.src='./media/png/bocadillos/Pepito_De_Ternera.png';" alt="">
+                        <img src="./media/webp/png/bocadillos/Pepito_De_Ternera.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/Pepito_De_Ternera.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Bocadillo de pepito de ternera </h2>
@@ -101,9 +100,7 @@
                 <div class="plato_item">
                     <div class="img_ctn">
 
-                        <img src="./media/webp/png/bocadillos/Bocadillo_De_Pollo_A_La_PLancha.webp"
-                            onerror="this.onerror=null;this.src='./media/png/bocadillos/Bocadillo_De_Pollo_A_La_PLancha.png';"
-                            alt="">
+                        <img src="./media/webp/png/bocadillos/Bocadillo_De_Pollo_A_La_PLancha.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/Bocadillo_De_Pollo_A_La_PLancha.png';" alt="">
 
                     </div>
                     <div class="txt_ctn">
@@ -138,7 +135,7 @@
                     <h2>Hamburguesa</h2>
                 </div>
 
-            
+
                 <div class="plato_item">
                     <div class="img_ctn">
                         <img src="" onerror="this.onerror=null;this.src='';" alt="">
@@ -153,7 +150,7 @@
                     </div>
                 </div>
 
-                
+
                 <div class="plato_item">
                     <div class="img_ctn">
                         <img src="./media/webp/png/bocadillos/Combo_Hamburguesa.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/Combo_Hamburguesa.png';" alt="">
@@ -171,9 +168,7 @@
                 <div class="plato_item">
                     <div class="img_ctn">
 
-                        <img src="./media/webp/png/bocadillos/Hamburguesa_De_La_Casa.webp"
-                            onerror="this.onerror=null;this.src='./media/png/bocadillos/Hamburguesa_De_La_Casa.png';"
-                            alt="">
+                        <img src="./media/webp/png/bocadillos/Hamburguesa_De_La_Casa.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/Hamburguesa_De_La_Casa.png';" alt="">
 
                     </div>
                     <div class="txt_ctn">
@@ -235,7 +230,7 @@
                 </div>
 
                 <div class="plato_item">
-                <div class="img_ctn">
+                    <div class="img_ctn">
                         <img src="./media/webp/png/bocadillos/Pizza_Pollo_Champinones.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/Pizza_Pollo_Champinones.png';" alt="">
                     </div>
                     <div class="txt_ctn">
@@ -315,14 +310,12 @@
         </div>
     </div>
 
-    <script src="https://code.jquery.com/jquery-3.6.4.js"
-        integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.4.js" integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E=" crossorigin="anonymous"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
 
 
     <script>
-
         const swiper = new Swiper('.swiper', {
             direction: 'horizontal',
             loop: true,
@@ -379,9 +372,6 @@
                 closeModal();
             }
         });
-
-
-
     </script>
 
 </body>

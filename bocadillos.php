@@ -55,27 +55,27 @@
 
                 <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
-                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/bocadillos/bocadillo_con_jamon.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/bocadillo_con_jamon.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Bocadillo de jamón serrano</h2>
                         <p>con tomate y orégano</p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/bocadillos/bocadillo_con_jamon.png">ver</a>
                             <h3>€ 5,50</h3>
                         </div>
                     </div>
                 </div>
 
                 <div class="plato_item wow animate__animated animate__fadeInLeft">
-                    <div class="img_ctn">
-                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                <div class="img_ctn">
+                        <img src="./media/webp/png/bocadillos/bocadillo_cinta_lomo.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/bocadillo_cinta_lomo.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Bocadillo de cinta de lomo</h2>
                         <p>con queso y tomate</p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                        <a href="./media/png/bocadillos/bocadillo_cinta_lomo.png">ver</a>
                             <h3>€ 6,80</h3>
                         </div>
                     </div>
@@ -84,7 +84,6 @@
 
                 <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
-
                         <img src="./media/webp/png/bocadillos/Pepito_De_Ternera.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/Pepito_De_Ternera.png';" alt="">
                     </div>
                     <div class="txt_ctn">
@@ -92,7 +91,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/bocadillos/Pepito_De_Ternera.png">ver</a>
-                            <h3>€ 6,50</h3>
+                            <h3>€ 6,80</h3>
                         </div>
                     </div>
                 </div>
@@ -135,7 +134,7 @@
                     <h2>Hamburguesa</h2>
                 </div>
 
-            
+
                 <div class="plato_item">
                     <div class="img_ctn">
                         <img src="" onerror="this.onerror=null;this.src='';" alt="">
@@ -150,7 +149,7 @@
                     </div>
                 </div>
 
-                
+
                 <div class="plato_item">
                     <div class="img_ctn">
                         <img src="./media/webp/png/bocadillos/Combo_Hamburguesa.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/Combo_Hamburguesa.png';" alt="">
@@ -230,7 +229,7 @@
                 </div>
 
                 <div class="plato_item">
-                <div class="img_ctn">
+                    <div class="img_ctn">
                         <img src="./media/webp/png/bocadillos/Pizza_Pollo_Champinones.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/Pizza_Pollo_Champinones.png';" alt="">
                     </div>
                     <div class="txt_ctn">
@@ -316,7 +315,6 @@
 
 
     <script>
-
         const swiper = new Swiper('.swiper', {
             direction: 'horizontal',
             loop: true,

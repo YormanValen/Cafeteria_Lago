@@ -28,20 +28,6 @@
                     <h2>Extras</h2>
                 </div>
 
-                <div class="plato_item wow animate__animated animate__fadeInLeft">
-                    <div class="img_ctn">
-                        <img src="" alt="">
-                    </div>
-                    <div class="txt_ctn">
-                        <h2>Café</h2>
-                        <p></p>
-                        <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 1,50</h3>
-                        </div>
-                    </div>
-                </div>
-
 
                 <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">

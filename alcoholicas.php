@@ -369,7 +369,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/Ruavieja.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 3,50</h3>
                         </div>
                     </div>
                 </div>
@@ -383,7 +383,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/Ruavieja_Crema.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 3,50</h3>
                         </div>
                     </div>
                 </div>
@@ -397,7 +397,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/Zoco.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 3,50</h3>
                         </div>
                     </div>
                 </div>
@@ -411,7 +411,7 @@
                         <p>The original</p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/Baileys.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 4,50</h3>
                         </div>
                     </div>
                 </div>
@@ -553,7 +553,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/cardhu.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 8,50</h3>
                         </div>
                     </div>
                 </div>
@@ -581,7 +581,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/Martini_Bianco.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 4,50</h3>
                         </div>
                     </div>
                 </div>
@@ -595,7 +595,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/Martini_Rosso.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 4,50</h3>
                         </div>
                     </div>
                 </div>
@@ -609,7 +609,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/White_Label.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 7,50</h3>
                         </div>
                     </div>
                 </div>
@@ -623,7 +623,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/Black_Label.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 7,50</h3>
                         </div>
                     </div>
                 </div>
@@ -638,7 +638,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/ballantines.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 7,50</h3>
                         </div>
                     </div>
                 </div>
@@ -652,7 +652,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/j_y_b.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 7,50</h3>
                         </div>
                     </div>
                 </div>
@@ -666,7 +666,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/jack_daniels.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 8,50</h3>
                         </div>
                     </div>
                 </div>
@@ -680,21 +680,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ ...</h3>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="plato_item wow animate__animated animate__fadeInLeft  ">
-                    <div class="img_ctn">
-                        <img src="./media/webp/png/alcoholicas/cardhu.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/cardhu.png';" alt="">
-                    </div>
-                    <div class="txt_ctn">
-                        <h2>Cardhu</h2>
-                        <p></p>
-                        <div class="precio_ctn">
-                            <a href="./media/png/alcoholicas/cardhu.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 8,50</h3>
                         </div>
                     </div>
                 </div>
@@ -708,7 +694,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/chivas.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 8,50</h3>
                         </div>
                     </div>
                 </div>
@@ -722,7 +708,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 10,50</h3>
                         </div>
                     </div>
                 </div>
@@ -744,7 +730,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/Veterano.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 6,50</h3>
                         </div>
                     </div>
                 </div>
@@ -759,7 +745,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/soberano.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 6,50</h3>
                         </div>
                     </div>
                 </div>
@@ -773,7 +759,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/magno.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 6,50</h3>
                         </div>
                     </div>
                 </div>
@@ -787,7 +773,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/torres_5.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 7,50</h3>
                         </div>
                     </div>
                 </div>
@@ -801,7 +787,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/torres_10.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 8,50</h3>
                         </div>
                     </div>
                 </div>
@@ -837,7 +823,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/smirnoff.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 6,50</h3>
                         </div>
                     </div>
                 </div>
@@ -856,10 +842,10 @@
                     </div>
                     <div class="txt_ctn">
                         <h2>Pampero</h2>
-                        <p>Copa 7,50 .... </p>
+                        <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/pampero.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 7,50</h3>
                         </div>
                     </div>
                 </div>
@@ -870,10 +856,10 @@
                     </div>
                     <div class="txt_ctn">
                         <h2>Barceló</h2>
-                        <p>Copa 7,50 botella .... </p>
+                        <p> </p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/barcelo.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 7,50</h3>
                         </div>
                     </div>
                 </div>
@@ -888,7 +874,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/brugal.png">ver</a>
-                            <h3>€ ... </h3>
+                            <h3>€ 7,50</h3>
                         </div>
                     </div>
                 </div>
@@ -902,7 +888,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/Cacique_500.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 7,50</h3>
                         </div>
                     </div>
                 </div>
@@ -916,7 +902,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 6,50</h3>
                         </div>
                     </div>
                 </div>
@@ -930,7 +916,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 8,50</h3>
                         </div>
                     </div>
                 </div>
@@ -962,7 +948,7 @@
                         <img src="./media/webp/png/alcoholicas/beeafer.webp" onerror="this.onerror=null;this.src='./media/png/alcoholicas/beeafer.png';" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Beefeater copa</h2>
+                        <h2>Beefeater</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/beeafer.png">ver</a>
@@ -981,7 +967,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/london.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 6,50</h3>
                         </div>
                     </div>
                 </div>
@@ -995,7 +981,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/bombay.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 6,50</h3>
                         </div>
                     </div>
                 </div>
@@ -1009,7 +995,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/martin_millers.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 7,50</h3>
                         </div>
                     </div>
                 </div>
@@ -1023,7 +1009,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/hendricks.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 12,50</h3>
                         </div>
                     </div>
                 </div>
@@ -1037,7 +1023,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/nordes.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 8,50</h3>
                         </div>
                     </div>
                 </div>
@@ -1051,7 +1037,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/bulddog.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 8,50</h3>
                         </div>
                     </div>
                 </div>
@@ -1065,7 +1051,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/jose_cuervo.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 6,50</h3>
                         </div>
                     </div>
                 </div>
@@ -1079,7 +1065,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/seagram.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 8,50</h3>
                         </div>
                     </div>
                 </div>
@@ -1093,7 +1079,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/tequila_1800.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 7,50</h3>
                         </div>
                     </div>
                 </div>
@@ -1107,7 +1093,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/alcoholicas/Rives.png">ver</a>
-                            <h3>€ ...</h3>
+                            <h3>€ 7,50</h3>
                         </div>
                     </div>
                 </div>

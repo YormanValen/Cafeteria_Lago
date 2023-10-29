@@ -33,9 +33,7 @@
                         <img src="./media/webp/png/refrescos/Agua_Solan_Cabras.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Agua_Solan_Cabras.png';" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Agua solan de cabras </h2>
-                        <p>Grande  2,50</p>
-                        <p>Pequeña 1,50</p>
+                        <h2>Agua solan de cabras (Grande)</h2>
                         <div class="precio_ctn">
                             <a href="./media/png/refrescos/Agua_Solan_Cabras.png">ver</a>
                             <h3>€ 2,50</h3>
@@ -49,11 +47,11 @@
                         <img src="./media/webp/png/refrescos/Agua_Solan_Cabras.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Agua_Solan_Cabras.png';" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Agua solan de cabras (pequeña) </h2>
+                        <h2>Agua solan de cabras (Pequeña) </h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/refrescos/Agua_Solan_Cabras.png">ver</a>
-                            <h3>€ 2,50</h3>
+                            <h3>€ 1,50</h3>
                         </div>
                     </div>
                 </div>
@@ -208,7 +206,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/refrescos/Sprite.png">ver</a>
-                            <h3>€ ....</h3>
+                            <h3>€ 3,50</h3>
                         </div>
                     </div>
                 </div>
@@ -274,11 +272,11 @@
                         <img src="./media/webp/png/refrescos/Royal_Blis.webp" onerror="this.onerror=null;this.src='./media/png/refrescos/Royal_Blis.png';" alt="">
                     </div>
                     <div class="txt_ctn">
-                        <h2>Tonica</h2>
+                        <h2>Tónica</h2>
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/refrescos/Royal_Blis.png">ver</a>
-                            <h3>€ ....</h3>
+                            <h3>€ 2,50</h3>
                         </div>
                     </div>
                 </div>
@@ -292,7 +290,7 @@
                         <p></p>
                         <div class="precio_ctn">
                             <a href="./media/png/refrescos/Minute_Maid.png">ver</a>
-                            <h3>€ ....</h3>
+                            <h3>€ 3,50</h3>
                         </div>
                     </div>
                 </div>

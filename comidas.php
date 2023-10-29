@@ -65,8 +65,8 @@
                             <img src="./media/webp/png/comida/Churros_Con_Cafe.webp" onerror="this.onerror=null;this.src='./media/png/comida/Churros_Con_Cafe.png';" alt="">
                         </div>
                         <div class="txt_ctn">
-                            <h2>Churros y café</h2>
-                            <p>Descripción 1</p>
+                            <h2>Churros + café</h2>
+                            <p>4 churros + 1 Taza de café</p>
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Churros_Con_Cafe.png">ver</a>
                                 <h3>€ 3,50</h3>
@@ -79,8 +79,8 @@
                             <img src="./media/webp/png/comida/Porras_Con_Cafe.webp" onerror="this.onerror=null;this.src='./media/png/comida/Porras_Con_Cafe.png';" alt="">
                         </div>
                         <div class="txt_ctn">
-                            <h2>Porras y café</h2>
-                            <p>Descripción</p>
+                            <h2>Porras + café</h2>
+                            <p>2 porras + taza de café</p>
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Porras_Con_Cafe.png">ver</a>
                                 <h3>€ 3,50</h3>
@@ -94,8 +94,8 @@
                             <img src="./media/webp/png/comida/Barrita_De_Pan_Multisemilla.webp" onerror="this.onerror=null;this.src='./media/png/comida/Barrita_De_Pan_Multisemilla.png';" alt="">
                         </div>
                         <div class="txt_ctn">
-                            <h2>Pan multisemilla</h2>
-                            <p> con aceite, tomate y café </p>
+                            <h2>Pan multisemilla + café</h2>
+                            <p> Pan con aceite, tomate y café </p>
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Barrita_De_Pan_Multisemilla.png">ver</a>
                                 <h3>€ 3,50</h3>
@@ -109,7 +109,7 @@
                             <img src="./media/webp/png/comida/Barrita_De_Pan_Tostado_Con_Tomate_y_Aceite.webp" onerror="this.onerror=null;this.src='./media/png/comida/Barrita_De_Pan_Tostado.png';" alt="">
                         </div>
                         <div class="txt_ctn">
-                            <h2>Barrita de pan tostado</h2>
+                            <h2>Barrita de pan tostado + café</h2>
                             <p> con aceite, tomate y café </p>
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Barrita_De_Pan_Tostado.png">ver</a>
@@ -123,8 +123,8 @@
                             <img src="./media/webp/png/comida/Croissant_A_La_Plancha.webp" onerror="this.onerror=null;this.src='./media/png/comida/Croissant_A_La_Plancha.png';" alt="">
                         </div>
                         <div class="txt_ctn">
-                            <h2>Croissant a la plancha</h2>
-                            <p>con mermelada y mantequilla</p>
+                            <h2>Croissant a la plancha + café</h2>
+                            <p>Con mermelada y mantequilla</p>
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Croissant_A_La_Plancha.png">ver</a>
                                 <h3>€ 3,50</h3>
@@ -137,11 +137,11 @@
                             <img src="./media/webp/png/comida/Sandwich_Mixto.webp" onerror="this.onerror=null;this.src='./media/png/comida/Sandwich_Mixto.png';" alt="">
                         </div>
                         <div class="txt_ctn">
-                            <h2>Sándwich mixto y café </h2>
-                            <p></p>
+                            <h2>Sándwich mixto + café </h2>
+                            <p>Sándwich + café</p>
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Sandwich_Mixto.png">ver</a>
-                                <h3>€ 4,20</h3>
+                                <h3>€ 4,80</h3>
                             </div>
                         </div>
                     </div>
@@ -152,11 +152,11 @@
                             <img src="./media/webp/png/comida/Desayuno_Con_Toritilla.webp" onerror="this.onerror=null;this.src='./media/png/comida/Desayuno_Con_Toritilla.png';" alt="">
                         </div>
                         <div class="txt_ctn">
-                            <h2>Barrita de pan tostado</h2>
-                            <p>con tortilla Española y café</p>
+                            <h2>Barrita de pan tostado con tortilla española + café</h2>
+                            <p>Pan, tortilla española, mantequilla + café</p>
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Desayuno_Con_Toritilla.png">ver</a>
-                                <h3>€ 4,50</h3>
+                                <h3>€ 4,80</h3>
                             </div>
                         </div>
                     </div>
@@ -174,8 +174,8 @@
                             <img src="./media/webp/png/comida/Barrita_De_Pan_Tostado_Huevos_Y_Cafe.webp" onerror="this.onerror=null;this.src='./media/png/comida/Barrita_De_Pan_Tostado_Huevos_Y_Cafe.png';" alt="">
                         </div>
                         <div class="txt_ctn">
-                            <h2>Barrita de pan tostado, huevos a la plancha y café </h2>
-                            <p></p>
+                            <h2>Barrita de pan tostado, huevos a la plancha + café </h2>
+                            <p>Pan, huevos + café</p>
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Barrita_De_Pan_Tostado_Huevos_Y_Cafe.png">ver</a>
                                 <h3>€ 6,50</h3>
@@ -202,11 +202,11 @@
                             <img src="./media/webp/png/comida/Tortita_Pancakes.webp" onerror="this.onerror=null;this.src='./media/png/comida/Tortita_Pancakes.png';" alt="">
                         </div>
                         <div class="txt_ctn">
-                            <h2>Tortitas pancakes</h2>
-                            <p>con nata, sirope y café </p>
+                            <h2>Tortitas pancakes + café</h2>
+                            <p>Con nata, sirope y café </p>
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Tortita_Pancakes.png">ver</a>
-                                <h3>€ 4,50</h3>
+                                <h3>€ 6,90</h3>
                             </div>
                         </div>
                     </div>
@@ -223,9 +223,9 @@
 
                         </div>
                         <div class="txt_ctn">
-                            <h2>Pan frito, huevos a la plancha.
+                            <h2>Ingles clásico + café
                             </h2>
-                            <p>salchicha, tomate, salchichón, alubia, champiñones y café</p>
+                            <p>pan, huevos, salchicha, tomate, salchichón, alubia, champiñones y café</p>
 
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Desayuno_Ingles.png">ver</a>
@@ -247,13 +247,13 @@
                             <img src="./media/webp/png/comida/Desayuno_Ranchero.webp" onerror="this.onerror=null;this.src='./media/png/comida/Desayuno_Ranchero.png';" alt="">
                         </div>
                         <div class="txt_ctn">
-                            <h2>Barrita de pan tostado
+                            <h2>ranchero clásico + café
                             </h2>
-                            <p>huevos a la plancha, salchichas, bacon y café</p>
+                            <p>huevos a la plancha, salchichas, pan, bacon y café</p>
 
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Desayuno_Ranchero.png">ver</a>
-                                <h3>€ 6,50</h3>
+                                <h3>€ 6,80</h3>
                             </div>
                         </div>
                     </div>
@@ -293,7 +293,7 @@
 
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Tostada_De_Pan_Bimbo.png">ver</a>
-                                <h3>€ 1,50</h3>
+                                <h3>€ 2,20</h3>
                             </div>
                         </div>
                     </div>
@@ -393,6 +393,22 @@
                             </div>
                         </div>
                     </div>
+
+                    <div class="plato_item wow animate__animated animate__fadeInLeft">
+                        <div class="img_ctn">
+                            <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                        </div>
+                        <div class="txt_ctn">
+                            <h2>Cereales con yogourt
+                            </h2>
+                            <p></p>
+
+                            <div class="precio_ctn">
+                                <a href="./media/png/comida/Gofre.png">ver</a>
+                                <h3>€ 3,50</h3>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
             </div>
@@ -405,7 +421,7 @@
 
                 <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
-                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/comida/sopa_verduras.webp" onerror="this.onerror=null;this.src='./media/png/comida/sopa_verduras.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Verduras con pollo
@@ -413,8 +429,8 @@
                         <p></p>
 
                         <div class="precio_ctn">
-                            <a href="">ver</a>
-                            <h3>€ 5,80</h3>
+                            <a href="./media/png/comida/sopa_verduras.png">ver</a>
+                            <h3>€ 6,20</h3>
                         </div>
                     </div>
                 </div>
@@ -431,7 +447,7 @@
 
                         <div class="precio_ctn">
                             <a href="./media/png/comida/Sopa_De_Calabacin.png">ver</a>
-                            <h3>€ 6,10</h3>
+                            <h3>€ 5,80</h3>
                         </div>
                     </div>
                 </div>
@@ -448,7 +464,7 @@
 
                         <div class="precio_ctn">
                             <a href="./media/png/comida/Sopa_De_Lentejas.png">ver</a>
-                            <h3>€ 5,50</h3>
+                            <h3>€ 5,80</h3>
                         </div>
                     </div>
                 </div>
@@ -637,7 +653,7 @@
 
                 <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
-                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/comida/jamon_melon.webp" onerror="this.onerror=null;this.src='./media/png/comida/jamon_melon.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Melón con jamón
@@ -645,7 +661,8 @@
                         <p></p>
 
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+
+                            <a href="./media/png/comida/jamon_melon.webp">ver</a>
                             <h3>€ 9,50</h3>
                         </div>
                     </div>
@@ -653,9 +670,7 @@
 
                 <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
-
                         <img src="./media/webp/png/comida/Calamares_A_La_Romana.webp" onerror="this.onerror=null;this.src='./media/png/comida/Calamares_A_La_Romana.png';" alt="">
-
                     </div>
                     <div class="txt_ctn">
                         <h2>Calamares a la Romana

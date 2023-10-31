@@ -188,8 +188,8 @@
                             <img src="./media/webp/png/comida/Desayuno_Americano.webp" onerror="this.onerror=null;this.src='./media/png/comida/Desayuno_Americano.png';" alt="">
                         </div>
                         <div class="txt_ctn">
-                            <h2>Arepa de maíz, huevo revuelto</h2>
-                            <p>con cebolla y tomate, queso y café</p>
+                            <h2>Arepa de maíz, huevo revuelto + cafe</h2>
+                            <p>huevo con cebolla y tomate, queso y café</p>
                             <div class="precio_ctn">
                                 <a href="./media/png/comida/Desayuno_Americano.png">ver</a>
                                 <h3>€ 7,50</h3>

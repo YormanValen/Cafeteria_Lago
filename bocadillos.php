@@ -68,14 +68,14 @@
                 </div>
 
                 <div class="plato_item wow animate__animated animate__fadeInLeft">
-                <div class="img_ctn">
+                    <div class="img_ctn">
                         <img src="./media/webp/png/bocadillos/bocadillo_cinta_lomo.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/bocadillo_cinta_lomo.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Bocadillo de cinta de lomo</h2>
                         <p>con queso y tomate</p>
                         <div class="precio_ctn">
-                        <a href="./media/png/bocadillos/bocadillo_cinta_lomo.png">ver</a>
+                            <a href="./media/png/bocadillos/bocadillo_cinta_lomo.png">ver</a>
                             <h3>€ 6,80</h3>
                         </div>
                     </div>
@@ -98,15 +98,13 @@
 
                 <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
-
                         <img src="./media/webp/png/bocadillos/Bocadillo_De_Pollo_A_La_PLancha.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/Bocadillo_De_Pollo_A_La_PLancha.png';" alt="">
-
                     </div>
                     <div class="txt_ctn">
                         <h2>Bocadillo de pollo a la plancha</h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/bocadillos/Bocadillo_De_Pollo_A_La_PLancha.png">ver</a>
                             <h3>€ 6,50</h3>
                         </div>
                     </div>
@@ -114,13 +112,13 @@
 
                 <div class="plato_item wow animate__animated animate__fadeInLeft">
                     <div class="img_ctn">
-                        <img src="" onerror="this.onerror=null;this.src='';" alt="">
+                        <img src="./media/webp/png/bocadillos/jamon_queso.webp" onerror="this.onerror=null;this.src='./media/png/bocadillos/jamon_queso.png';" alt="">
                     </div>
                     <div class="txt_ctn">
                         <h2>Bocadillo de jamón ibérico </h2>
                         <p></p>
                         <div class="precio_ctn">
-                            <a href="">ver</a>
+                            <a href="./media/png/bocadillos/jamon_queso.png">ver</a>
                             <h3>€ 8,80</h3>
                         </div>
                     </div>
